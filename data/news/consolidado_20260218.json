@@ -1,6 +1,12 @@
 {
-  "data_busca": "2026-02-18T14:36:38.546812",
+  "data_consolidacao": "2026-02-18T14:36:44.387980",
+  "total_fontes": 7,
+  "total_noticias": 13,
   "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
     {
       "fonte": "JOTA",
       "feed_url": "https://www.jota.info/feed",
@@ -140,6 +146,14 @@
     {
       "fonte": "Receita Federal",
       "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
       "noticias": []
     }
   ]
