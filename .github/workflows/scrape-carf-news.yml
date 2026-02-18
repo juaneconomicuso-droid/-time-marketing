@@ -1,0 +1,64 @@
+name: Buscar Notícias CARF e Tributárias
+
+on:
+  schedule:
+    # Executa todo dia às 8h (horário UTC, ajustar conforme necessário)
+    - cron: '0 11 * * *'  # 11h UTC = 8h BRT
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  scrape-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml feedparser
+      
+      - name: Scrape JOTA
+        run: |
+          python scripts/scrapers/scrape_jota.py
+        continue-on-error: true
+      
+      - name: Scrape Conjur
+        run: |
+          python scripts/scrapers/scrape_conjur.py
+        continue-on-error: true
+      
+      - name: Scrape Tributário nos Bastidores
+        run: |
+          python scripts/scrapers/scrape_tributario.py
+        continue-on-error: true
+      
+      - name: Parse RSS Feeds
+        run: |
+          python scripts/scrapers/parse_rss_feeds.py
+        continue-on-error: true
+      
+      - name: Consolidate results
+        run: |
+          python scripts/scrapers/consolidate_results.py
+      
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/news/*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Atualização automática de notícias - $(date +'%Y-%m-%d %H:%M')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Send notification on failure
+        if: failure()
+        run: |
+          echo "❌ Scraping falhou. Verificar logs."
+          # Aqui você pode adicionar integração com Slack, email, etc.
