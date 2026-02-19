@@ -1,0 +1,151 @@
+{
+  "data_consolidacao": "2026-02-19T12:05:23.382552",
+  "total_fontes": 7,
+  "total_noticias": 12,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Empresas pedem CEP de clientes, mudam centros de distribuição e fornecedores por causa da reforma tributária",
+          "link": "https://www.jota.info/tributos/empresas-pedem-cep-de-clientes-mudam-centros-de-distribuicao-e-fornecedores-por-causa-da-reforma-tributaria",
+          "resumo": "Nova realidade tributária pede mudanças operacionais que estão sendo desenhadas desde já",
+          "data_publicacao": "Thu, 19 Feb 2026 09:50:11 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf mantém cobrança milionária contra a Marfrig por exposição de empregados a ruído",
+          "link": "https://www.jota.info/tributos/carf-mantem-cobranca-milionaria-contra-a-marfrig-por-exposicao-de-empregados-a-ruido",
+          "resumo": "Maioria dos conselheiros entende que enunciado do STF dispensa a análise de laudos e documentos sobre a eficácia de EPIs",
+          "data_publicacao": "Wed, 18 Feb 2026 09:55:01 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Multa superior a 100% do valor do imposto tem efeito de confisco, decide TJ-GO",
+          "link": "https://www.conjur.com.br/2026-fev-19/multa-superior-a-100-do-valor-do-imposto-tem-efeito-de-confisco-decide-tj-go/",
+          "resumo": "A aplicação de multas tributárias que, somadas, ultrapassam o valor do débito principal configura efeito de confisco. A prática é vedada pela Constituição e deve resultar na exclusão do débito. Este foi o entendimento da 7ª Câmara Cível do Tribunal de Justiça de Goiás para reconhecer a nulidade de m",
+          "data_publicacao": "Thu, 19 Feb 2026 11:23:21 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/69936e72ec5f2_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/Federiche-Mincache/decisoes-da-2a-vara-federal-de-maringa-afastam-limitacoes-do-tcu-e-garantem-uso-de-prejuizo-fiscal-em-transacoes-individuais/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Decisões da 2ª Vara Federal de Maringá afastam limitações do TCU e garantem uso de prejuízo fiscal em transações individuais (Alan Rogério Mincache)</a>",
+          "link": "https://tributario.com.br/Federiche-Mincache/decisoes-da-2a-vara-federal-de-maringa-afastam-limitacoes-do-tcu-e-garantem-uso-de-prejuizo-fiscal-em-transacoes-individuais/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 15:30:11 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/avatar_65614.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/soareseassociados/regularizacao-fiscal-de-brasileiros-no-exterior/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Regularização fiscal de brasileiros no exterior (GJS | GUILHERME JOSÉ SOARES)</a>",
+          "link": "https://tributario.com.br/soareseassociados/regularizacao-fiscal-de-brasileiros-no-exterior/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 15:00:48 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/thiago-santana-lira_avatar_5.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/thlira88/dividas-fiscais-culminam-na-falencia-do-grupo-victor-hugo-o-risco-real-para-contribuintes-com-alto-passivo-tributario/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Dívidas fiscais culminam na falência do grupo Victor Hugo: O risco real para contribuintes com alto passivo tributário (Thiago Santana Lira)</a>",
+          "link": "https://tributario.com.br/thlira88/dividas-fiscais-culminam-na-falencia-do-grupo-victor-hugo-o-risco-real-para-contribuintes-com-alto-passivo-tributario/",
+          "resumo": "",
+          "data_publicacao": "Tue, 17 Feb 2026 15:30:59 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/inteligencia-artificial-e-automacao-na-cobranca-da-divida-ativa-eficiencia-fiscal-garantias-fundamentais-e-pontos-estrategicos-de-defesa/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Inteligência artificial e automação na cobrança da dívida ativa: Eficiência fiscal, garantias fundamentais e pontos estratégicos de defesa (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/inteligencia-artificial-e-automacao-na-cobranca-da-divida-ativa-eficiencia-fiscal-garantias-fundamentais-e-pontos-estrategicos-de-defesa/",
+          "resumo": "",
+          "data_publicacao": "Tue, 17 Feb 2026 15:00:03 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/08/impenhorabilidade-residencia-familiar-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/reforma-tributaria-e-locacao-nao-residencial-neutralidade-prometida-ou-redistribuicao-silenciosa-de-custos/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Reforma tributária e locação não residencial: neutralidade prometida ou redistribuição silenciosa de custos?</a>",
+          "link": "https://tributario.com.br/a/reforma-tributaria-e-locacao-nao-residencial-neutralidade-prometida-ou-redistribuicao-silenciosa-de-custos/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 12:01:30 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/10/carf-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/carf-afasta-contribuicao-previdenciaria-sobre-premios-por-desempenho-extraordinario-pagos-a-empregados/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Carf afasta contribuição previdenciária sobre prêmios por desempenho extraordinário pagos a empregados</a>",
+          "link": "https://tributario.com.br/a/carf-afasta-contribuicao-previdenciaria-sobre-premios-por-desempenho-extraordinario-pagos-a-empregados/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 17:00:46 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/02/grafico-de-queda-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/corte-de-incentivos-fiscais-levanta-debates-sobre-ajuste-fiscal-seguranca-juridica-e-limites-constitucionais/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Corte de incentivos fiscais levanta debates sobre ajuste fiscal, segurança jurídica e limites constitucionais</a>",
+          "link": "https://tributario.com.br/a/corte-de-incentivos-fiscais-levanta-debates-sobre-ajuste-fiscal-seguranca-juridica-e-limites-constitucionais/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 12:30:35 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"209\" src=\"https://tributario.com.br/wp-content/uploads/2018/08/Isenção-do-imposto-de-renda-para-aposentados-portadores-de-doenças-graves-Google-Chrome.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"314\" /><a href=\"https://tributario.com.br/a/receita-esclarece-aplicacao-do-desconto-simplificado-mensal-no-irrf-de-aposentados/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Receita esclarece aplicação do desconto simplificado mensal no IRRF de aposentados</a>",
+          "link": "https://tributario.com.br/a/receita-esclarece-aplicacao-do-desconto-simplificado-mensal-no-irrf-de-aposentados/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 12:01:56 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"carf\" class=\"mcnImage rssImage wp-post-image\" height=\"570\" src=\"https://tributario.com.br/wp-content/uploads/2020/04/carf.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"860\" /><a href=\"https://tributario.com.br/a/carf-mantem-cobranca-de-irpf-sobre-cessao-de-terras-rurais-a-terceiros-ao-enquadrar-contratos-como-arrendamento/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Carf mantém cobrança de IRPF sobre cessão de terras rurais a terceiros ao enquadrar contratos como arrendamento</a>",
+          "link": "https://tributario.com.br/a/carf-mantem-cobranca-de-irpf-sobre-cessao-de-terras-rurais-a-terceiros-ao-enquadrar-contratos-como-arrendamento/",
+          "resumo": "",
+          "data_publicacao": "Tue, 17 Feb 2026 14:00:02 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
