@@ -1,0 +1,122 @@
+{
+  "data_consolidacao": "2026-02-20T11:59:02.536533",
+  "total_fontes": 7,
+  "total_noticias": 9,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Lucro presumido e capacidade contributiva: o novo embate tributário na saúde",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/lucro-presumido-e-capacidade-contributiva-o-novo-embate-tributario-na-saude",
+          "resumo": "Ponto central não está apenas no aumento da carga tributária, mas na qualificação do regime do lucro presumido como suposto benefício fiscal",
+          "data_publicacao": "Fri, 20 Feb 2026 08:00:29 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Como funcionarão a apuração e arrecadação do IBS?",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/como-funcionarao-a-apuracao-e-arrecadacao-do-ibs",
+          "resumo": "Se bem implementado, sistema permitirá que contribuinte acompanhe em tempo real seus débitos, créditos e saldos",
+          "data_publicacao": "Fri, 20 Feb 2026 08:00:04 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/68f41670e0960_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cairodavid/prejuizo-fiscal-a-dimensao-juridica-ignorada-entre-a-contabilidade-e-a-capacidade-contributiva/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Prejuízo fiscal: A dimensão jurídica ignorada entre a contabilidade e a capacidade contributiva (Cairo David)</a>",
+          "link": "https://tributario.com.br/cairodavid/prejuizo-fiscal-a-dimensao-juridica-ignorada-entre-a-contabilidade-e-a-capacidade-contributiva/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 15:15:24 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/69936e72ec5f2_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/Federiche-Mincache/decisoes-da-2a-vara-federal-de-maringa-afastam-limitacoes-do-tcu-e-garantem-uso-de-prejuizo-fiscal-em-transacoes-individuais/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Decisões da 2ª Vara Federal de Maringá afastam limitações do TCU e garantem uso de prejuízo fiscal em transações individuais (Alan Rogério Mincache)</a>",
+          "link": "https://tributario.com.br/Federiche-Mincache/decisoes-da-2a-vara-federal-de-maringa-afastam-limitacoes-do-tcu-e-garantem-uso-de-prejuizo-fiscal-em-transacoes-individuais/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 15:30:11 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/avatar_65614.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/soareseassociados/regularizacao-fiscal-de-brasileiros-no-exterior/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Regularização fiscal de brasileiros no exterior (GJS | GUILHERME JOSÉ SOARES)</a>",
+          "link": "https://tributario.com.br/soareseassociados/regularizacao-fiscal-de-brasileiros-no-exterior/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 15:00:48 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"carf\" class=\"mcnImage rssImage wp-post-image\" height=\"1080\" src=\"https://tributario.com.br/wp-content/uploads/2023/02/carf-agenciasenado.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"1620\" /><a href=\"https://tributario.com.br/a/carf-mantem-gilrat-contra-marfrig-por-ruido/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Carf mantém Gilrat contra Marfrig por ruído</a>",
+          "link": "https://tributario.com.br/a/carf-mantem-gilrat-contra-marfrig-por-ruido/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 13:30:39 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"ncm nota fiscal\" class=\"mcnImage rssImage wp-post-image\" height=\"610\" src=\"https://tributario.com.br/wp-content/uploads/2025/08/ncm-nota-fiscal.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"1080\" /><a href=\"https://tributario.com.br/a/receita-autoriza-notas-fiscais-diarias-no-consorcio-modular/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Receita autoriza notas fiscais diárias no consórcio modular</a>",
+          "link": "https://tributario.com.br/a/receita-autoriza-notas-fiscais-diarias-no-consorcio-modular/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 12:30:16 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/08/impenhorabilidade-residencia-familiar-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/reforma-tributaria-e-locacao-nao-residencial-neutralidade-prometida-ou-redistribuicao-silenciosa-de-custos/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Reforma tributária e locação não residencial: neutralidade prometida ou redistribuição silenciosa de custos?</a>",
+          "link": "https://tributario.com.br/a/reforma-tributaria-e-locacao-nao-residencial-neutralidade-prometida-ou-redistribuicao-silenciosa-de-custos/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 12:01:30 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/10/carf-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/carf-afasta-contribuicao-previdenciaria-sobre-premios-por-desempenho-extraordinario-pagos-a-empregados/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Carf afasta contribuição previdenciária sobre prêmios por desempenho extraordinário pagos a empregados</a>",
+          "link": "https://tributario.com.br/a/carf-afasta-contribuicao-previdenciaria-sobre-premios-por-desempenho-extraordinario-pagos-a-empregados/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Feb 2026 17:00:46 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
