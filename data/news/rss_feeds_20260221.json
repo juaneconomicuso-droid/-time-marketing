@@ -1,0 +1,101 @@
+{
+  "data_busca": "2026-02-21T11:44:20.869763",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Dedução de perdas não técnicas independe de serem regulatórias, decide Carf",
+          "link": "https://www.jota.info/tributos/deducao-de-perdas-nao-tecnicas-independe-de-serem-regulatorias-decide-carf",
+          "resumo": "Decisão afasta o uso dos limites tarifários da Aneel como parâmetro de razoabilidade e amplia precedente",
+          "data_publicacao": "Sat, 21 Feb 2026 10:03:18 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Participação nos lucros em pesquisa tecnológica pode ser deduzida de impostos",
+          "link": "https://www.conjur.com.br/2026-fev-21/participacao-nos-lucros-em-pesquisa-tecnologica-pode-ser-deduzida-de-impostos/",
+          "resumo": "Valores pagos em participação nos lucros e resultados aos envolvidos em projeto de pesquisa em tecnologia integram o benefício fiscal instituído pela Lei do Bem (Lei 11.196/2005) e podem ser deduzidos do lucro real, afastando-se sua tributação. Essa conclusão é da 2ª Turma do Superior Tribunal de Ju",
+          "data_publicacao": "Sat, 21 Feb 2026 10:42:13 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf aprofunda debate sobre vedação à compensação com ação judicial em curso",
+          "link": "https://www.conjur.com.br/2026-fev-21/carf-aprofunda-debate-sobre-vedacao-a-compensacao-com-acao-judicial-em-curso/",
+          "resumo": "A controvérsia acerca da possibilidade ou vedação de compensação tributária quando há ação judicial em curso não é nova no contencioso administrativo federal. Contudo, permanece como tema sensível e de alto impacto prático, sobretudo diante da literalidade do artigo 170-A do Código Tributário Nacion",
+          "data_publicacao": "Sat, 21 Feb 2026 09:33:06 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "ADIs 5.553 e 7.755 e reforma tributária: constitucionalidade do regime fiscal dos defensivos agrícolas",
+          "link": "https://www.conjur.com.br/2026-fev-21/adis-5-553-e-7-755-e-reforma-tributaria-constitucionalidade-do-regime-fiscal-dos-defensivos-agricolas/",
+          "resumo": "Poucos temas mobilizam tanto o debate público quanto o uso dos defensivos agrícolas. De um lado, grupos e personalidades possuem preocupações legítimas com impactos ambientais e riscos à saúde humana; de outro lado, existe a necessidade de manutenção da produtividade agrícola e da segurança alimenta",
+          "data_publicacao": "Sat, 21 Feb 2026 09:03:58 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/68f41670e0960_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cairodavid/prejuizo-fiscal-a-dimensao-juridica-ignorada-entre-a-contabilidade-e-a-capacidade-contributiva/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Prejuízo fiscal: A dimensão jurídica ignorada entre a contabilidade e a capacidade contributiva (Cairo David)</a>",
+          "link": "https://tributario.com.br/cairodavid/prejuizo-fiscal-a-dimensao-juridica-ignorada-entre-a-contabilidade-e-a-capacidade-contributiva/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 15:15:24 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/responsabilidade-tributaria-de-grupos-economicos-na-execucao-fiscal-entre-a-autonomia-patrimonial-e-a-repressao-a-fraude-estrutural/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Responsabilidade tributária de grupos econômicos na execução fiscal: Entre a autonomia patrimonial e a repressão à fraude estrutural (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/responsabilidade-tributaria-de-grupos-economicos-na-execucao-fiscal-entre-a-autonomia-patrimonial-e-a-repressao-a-fraude-estrutural/",
+          "resumo": "",
+          "data_publicacao": "Fri, 20 Feb 2026 15:00:05 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"reforma\" class=\"mcnImage rssImage wp-post-image\" height=\"462\" src=\"https://tributario.com.br/wp-content/uploads/2023/07/reforma-tributaria.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"768\" /><a href=\"https://tributario.com.br/a/empresas-mudam-operacoes-para-se-adequar-a-tributacao-no-destino-com-inicio-pratico-da-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Empresas mudam operações para se adequar à tributação no destino com início prático da reforma tributária</a>",
+          "link": "https://tributario.com.br/a/empresas-mudam-operacoes-para-se-adequar-a-tributacao-no-destino-com-inicio-pratico-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Fri, 20 Feb 2026 19:00:52 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/07/decisão-judicial-e1494416378751-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/tribunal-afasta-multa-de-268-por-efeito-confiscatorio-e-mantem-apenas-icms-principal-em-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Tribunal afasta multa de 268% por efeito confiscatório e mantém apenas ICMS principal em execução fiscal</a>",
+          "link": "https://tributario.com.br/a/tribunal-afasta-multa-de-268-por-efeito-confiscatorio-e-mantem-apenas-icms-principal-em-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Fri, 20 Feb 2026 13:30:56 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
