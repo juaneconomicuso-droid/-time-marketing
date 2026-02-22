@@ -1,0 +1,110 @@
+{
+  "data_busca": "2026-02-22T11:45:03.061305",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "SAF: regime tributário e vetos na reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/saf-regime-tributario-e-vetos-na-reforma-tributaria",
+          "resumo": "Desafio é assegurar que neutralidade tributária, aplicada de forma indiferenciada, não comprometa objetivos estruturantes da SAF",
+          "data_publicacao": "Sun, 22 Feb 2026 08:20:31 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "As reformas da execução civil na Itália",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-cpc-nos-tribunais/as-reformas-da-execucao-civil-na-italia",
+          "resumo": "Dicotomia estrutural, celeridade procedimental e os limites da tutela jurisdicional efetiva em perspectiva comparada",
+          "data_publicacao": "Sun, 22 Feb 2026 08:00:57 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Perspectivas para a resolução de litígios tributários mediante arbitragem",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/perspectivas-para-a-resolucao-de-litigios-tributarios-mediante-arbitragem",
+          "resumo": "É factível a instauração de arbitragens envolvendo o Poder Público em matéria de Direito Tributário no Brasil?",
+          "data_publicacao": "Sun, 22 Feb 2026 08:00:00 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Dedução de perdas não técnicas independe de serem regulatórias, decide Carf",
+          "link": "https://www.jota.info/tributos/deducao-de-perdas-nao-tecnicas-independe-de-serem-regulatorias-decide-carf",
+          "resumo": "Decisão afasta o uso dos limites tarifários da Aneel como parâmetro de razoabilidade e amplia precedente",
+          "data_publicacao": "Sat, 21 Feb 2026 10:03:18 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Parceria rural: avanço de autuações indica rigor fiscal no agronegócio",
+          "link": "https://www.conjur.com.br/2026-fev-22/o-avanco-das-autuacoes-fiscais-no-agronegocio-e-a-requalificacao-de-contratos-de-parceria-rural/",
+          "resumo": "A distinção entre arrendamento e parceria rural voltou ao centro do debate tributário após uma sequência de decisões do Conselho Administrativo de Recursos Fiscais (Carf) mantendo autuações contra produtores rurais pessoa física. O ponto de controvérsia não é novo, mas ganhou intensidade diante da a",
+          "data_publicacao": "Sun, 22 Feb 2026 09:00:00 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/68f41670e0960_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cairodavid/prejuizo-fiscal-a-dimensao-juridica-ignorada-entre-a-contabilidade-e-a-capacidade-contributiva/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Prejuízo fiscal: A dimensão jurídica ignorada entre a contabilidade e a capacidade contributiva (Cairo David)</a>",
+          "link": "https://tributario.com.br/cairodavid/prejuizo-fiscal-a-dimensao-juridica-ignorada-entre-a-contabilidade-e-a-capacidade-contributiva/",
+          "resumo": "",
+          "data_publicacao": "Thu, 19 Feb 2026 15:15:24 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/responsabilidade-tributaria-de-grupos-economicos-na-execucao-fiscal-entre-a-autonomia-patrimonial-e-a-repressao-a-fraude-estrutural/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Responsabilidade tributária de grupos econômicos na execução fiscal: Entre a autonomia patrimonial e a repressão à fraude estrutural (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/responsabilidade-tributaria-de-grupos-economicos-na-execucao-fiscal-entre-a-autonomia-patrimonial-e-a-repressao-a-fraude-estrutural/",
+          "resumo": "",
+          "data_publicacao": "Fri, 20 Feb 2026 15:00:05 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"reforma\" class=\"mcnImage rssImage wp-post-image\" height=\"462\" src=\"https://tributario.com.br/wp-content/uploads/2023/07/reforma-tributaria.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"768\" /><a href=\"https://tributario.com.br/a/empresas-mudam-operacoes-para-se-adequar-a-tributacao-no-destino-com-inicio-pratico-da-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Empresas mudam operações para se adequar à tributação no destino com início prático da reforma tributária</a>",
+          "link": "https://tributario.com.br/a/empresas-mudam-operacoes-para-se-adequar-a-tributacao-no-destino-com-inicio-pratico-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Fri, 20 Feb 2026 19:00:52 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/07/decisão-judicial-e1494416378751-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/tribunal-afasta-multa-de-268-por-efeito-confiscatorio-e-mantem-apenas-icms-principal-em-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Tribunal afasta multa de 268% por efeito confiscatório e mantém apenas ICMS principal em execução fiscal</a>",
+          "link": "https://tributario.com.br/a/tribunal-afasta-multa-de-268-por-efeito-confiscatorio-e-mantem-apenas-icms-principal-em-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Fri, 20 Feb 2026 13:30:56 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
