@@ -1,0 +1,120 @@
+{
+  "data_busca": "2026-02-24T14:35:03.881458",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Receita ou Justiça do Trabalho: quem pode reconhecer decadência de créditos tributários vindos de sentenças?",
+          "link": "https://www.jota.info/coberturas-especiais/jurisprudente/receita-ou-justica-do-trabalho-quem-pode-reconhecer-decadencia-de-creditos-tributarios-vindos-de-sentencas",
+          "resumo": "Decisões determinam que decadência de créditos tributários decorrentes de sentenças trabalhistas deve ser contada a partir da data da prestação do serviço",
+          "data_publicacao": "Tue, 24 Feb 2026 12:33:28 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Carf mantém tributação de ganho de capital por venda de imóvel rural a estrangeiros",
+          "link": "https://www.jota.info/tributos/carf-mantem-tributacao-de-ganho-de-capital-por-venda-de-imovel-rural-a-estrangeiros",
+          "resumo": "Caso envolve a venda de 6.152 hectares por R$ 19 milhões a uma empresa com quadro acionário composto por estrangeiros",
+          "data_publicacao": "Tue, 24 Feb 2026 10:23:59 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Receita preserva benefícios trabalhistas e sociais de cortes tributários",
+          "link": "https://www.jota.info/tributos/receita-preserva-beneficios-trabalhistas-e-sociais-de-cortes-tributarios",
+          "resumo": "Gastos com assistência médica e instituições sem fins lucrativos não terão redução de 10% nos incentivos fiscais",
+          "data_publicacao": "Tue, 24 Feb 2026 00:00:30 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "STF tem maioria para proibir municípios de corrigir tributo acima da Selic",
+          "link": "https://www.conjur.com.br/2026-fev-24/stf-tem-maioria-para-proibir-municipio-de-corrigir-tributo-acima-da-selic/",
+          "resumo": "O Plenário do Supremo Tribunal Federal atingiu maioria para definir quer municípios não podem aplicar índices de correção monetária e taxas de juros de mora superiores à taxa Selic sobre seus créditos tributários. Com esse entendimento, os ministros negaram provimento ao recurso do município de São ",
+          "data_publicacao": "Tue, 24 Feb 2026 12:50:15 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        },
+        {
+          "titulo": "Valoração aduaneira: técnica decisória e papel do Carf",
+          "link": "https://www.conjur.com.br/2026-fev-24/valoracao-aduaneira-tecnica-decisoria-e-papel-do-carf/",
+          "resumo": "Encerrado o Carnaval, com o país gradualmente retomando o ritmo ordinário de suas atividades econômicas e institucionais, proponho revisitar a reflexão sobre a valoração aduaneira, especialmente sob a perspectiva da atuação do Carf. A valoração aduaneira ocupa posição central no regime jurídico do c",
+          "data_publicacao": "Tue, 24 Feb 2026 11:00:34 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/folha-de-pagamento-nao-gerando-credito-no-ibs-e-na-cbs-onerara-o-setor-de-prestacao-de-servicos-na-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Folha de pagamento não gerando crédito no IBS e na CBS onerará o setor de prestação de serviços na reforma tributária (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/folha-de-pagamento-nao-gerando-credito-no-ibs-e-na-cbs-onerara-o-setor-de-prestacao-de-servicos-na-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Mon, 23 Feb 2026 15:30:00 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/execucao-fiscal-contra-empresa-encerrada-irregularmente-presuncoes-e-limites-juridicos/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Execução fiscal contra empresa encerrada irregularmente: presunções e limites jurídicos (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/execucao-fiscal-contra-empresa-encerrada-irregularmente-presuncoes-e-limites-juridicos/",
+          "resumo": "",
+          "data_publicacao": "Mon, 23 Feb 2026 15:00:00 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"comitê gestor\" class=\"mcnImage rssImage wp-post-image\" height=\"470\" src=\"https://tributario.com.br/wp-content/uploads/2025/05/Comite-Gestor.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"560\" /><a href=\"https://tributario.com.br/a/comite-gestor-do-ibs-aguarda-repasse-de-r-150-milhoes-da-uniao-e-negocia-ajustes-contratuais-para-liberacao-de-recursos/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Comitê Gestor do IBS aguarda repasse de R$ 150 milhões da União e negocia ajustes contratuais para liberação de recursos</a>",
+          "link": "https://tributario.com.br/a/comite-gestor-do-ibs-aguarda-repasse-de-r-150-milhoes-da-uniao-e-negocia-ajustes-contratuais-para-liberacao-de-recursos/",
+          "resumo": "",
+          "data_publicacao": "Tue, 24 Feb 2026 13:30:23 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2017/02/leão-e1502887834840-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/receita-esclarece-limites-de-deducao-de-incentivos-ao-esporte-e-a-cultura-no-irpj/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Receita esclarece limites de dedução de incentivos ao esporte e à cultura no IRPJ</a>",
+          "link": "https://tributario.com.br/a/receita-esclarece-limites-de-deducao-de-incentivos-ao-esporte-e-a-cultura-no-irpj/",
+          "resumo": "",
+          "data_publicacao": "Mon, 23 Feb 2026 12:30:03 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/07/materia_transferencia_imovel-01-938x535-100x100.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/cadastro-imobiliario-brasileiro-eficiencia-fiscal-ou-gatilho-para-uma-nova-onda-de-conflitos-no-mercado-imobiliario/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Cadastro Imobiliário Brasileiro: eficiência fiscal ou gatilho para uma nova onda de conflitos no mercado imobiliário?</a>",
+          "link": "https://tributario.com.br/a/cadastro-imobiliario-brasileiro-eficiencia-fiscal-ou-gatilho-para-uma-nova-onda-de-conflitos-no-mercado-imobiliario/",
+          "resumo": "",
+          "data_publicacao": "Mon, 23 Feb 2026 12:01:06 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
