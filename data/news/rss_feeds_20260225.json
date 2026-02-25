@@ -1,0 +1,83 @@
+{
+  "data_busca": "2026-02-25T12:05:32.139589",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém autuação de pessoa física em caso relacionado à Operação Canal Seguro",
+          "link": "https://www.jota.info/tributos/carf-mantem-autuacao-de-pessoa-fisica-em-caso-relacionado-a-operacao-canal-seguro",
+          "resumo": "Fisco identificou emissão de notas sem a prestação real de serviço para distribuição de lucro sem tributação",
+          "data_publicacao": "Wed, 25 Feb 2026 10:15:18 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: entenda o que muda ano a ano até 2033",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-entenda-o-que-muda-ano-a-ano-ate-2033",
+          "resumo": "Saiba como será a transição do sistema tributário até a entrada em vigor plena do novo modelo",
+          "data_publicacao": "Tue, 24 Feb 2026 16:00:01 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/inclusao-de-terceiros-na-execucao-fiscal-sem-processo-administrativo-previo-e-possivel/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Inclusão de terceiros na execução fiscal sem processo administrativo prévio: é possível? (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/inclusao-de-terceiros-na-execucao-fiscal-sem-processo-administrativo-previo-e-possivel/",
+          "resumo": "",
+          "data_publicacao": "Tue, 24 Feb 2026 15:00:33 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/folha-de-pagamento-nao-gerando-credito-no-ibs-e-na-cbs-onerara-o-setor-de-prestacao-de-servicos-na-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Folha de pagamento não gerando crédito no IBS e na CBS onerará o setor de prestação de serviços na reforma tributária (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/folha-de-pagamento-nao-gerando-credito-no-ibs-e-na-cbs-onerara-o-setor-de-prestacao-de-servicos-na-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Mon, 23 Feb 2026 15:30:00 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/execucao-fiscal-contra-empresa-encerrada-irregularmente-presuncoes-e-limites-juridicos/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Execução fiscal contra empresa encerrada irregularmente: presunções e limites jurídicos (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/execucao-fiscal-contra-empresa-encerrada-irregularmente-presuncoes-e-limites-juridicos/",
+          "resumo": "",
+          "data_publicacao": "Mon, 23 Feb 2026 15:00:00 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"comitê gestor\" class=\"mcnImage rssImage wp-post-image\" height=\"470\" src=\"https://tributario.com.br/wp-content/uploads/2025/05/Comite-Gestor.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"560\" /><a href=\"https://tributario.com.br/a/comite-gestor-do-ibs-aguarda-repasse-de-r-150-milhoes-da-uniao-e-negocia-ajustes-contratuais-para-liberacao-de-recursos/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Comitê Gestor do IBS aguarda repasse de R$ 150 milhões da União e negocia ajustes contratuais para liberação de recursos</a>",
+          "link": "https://tributario.com.br/a/comite-gestor-do-ibs-aguarda-repasse-de-r-150-milhoes-da-uniao-e-negocia-ajustes-contratuais-para-liberacao-de-recursos/",
+          "resumo": "",
+          "data_publicacao": "Tue, 24 Feb 2026 13:30:23 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
