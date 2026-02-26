@@ -1,0 +1,67 @@
+{
+  "data_consolidacao": "2026-02-26T14:16:17.025111",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária: o que muda para empresas e contribuintes",
+          "link": "https://www.jota.info/tributos/reforma-tributaria-o-que-muda-para-empresas-e-contribuintes",
+          "resumo": "Os principais pontos e definição; quais impostos deixam de existir e o que entra no lugar; o cronograma da transição e mais",
+          "data_publicacao": "Thu, 26 Feb 2026 13:02:25 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf reconhece que custos de garantia são essenciais para montadoras",
+          "link": "https://www.jota.info/tributos/carf-reconhece-que-custos-de-garantia-sao-essenciais-para-montadoras",
+          "resumo": "Turma ainda manteve glosas sobre incentivos comerciais e, por voto de qualidade, restringiu créditos vinculados à exclusão do ICMS da base do PIS/Cofins",
+          "data_publicacao": "Thu, 26 Feb 2026 10:02:25 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O Decreto 12.809/25 e os desafios tributários da cadeia láctea",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-decreto-12-809-25-e-os-desafios-tributarios-da-cadeia-lactea",
+          "resumo": "Uma análise da decisão que alterou as regras do crédito presumido de PIS/Pasep e Cofins sobre a compra de leite in natura",
+          "data_publicacao": "Thu, 26 Feb 2026 08:15:51 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
