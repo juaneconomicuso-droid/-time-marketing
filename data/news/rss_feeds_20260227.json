@@ -1,0 +1,165 @@
+{
+  "data_busca": "2026-02-27T11:58:56.216408",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta tese de kit de concentrado para energético e mantém créditos de IPI",
+          "link": "https://www.jota.info/tributos/carf-afasta-tese-de-kit-de-concentrado-para-energetico-e-mantem-creditos-de-ipi",
+          "resumo": "Fazenda tentava enquadrar um insumo homogêneo como um kit de concentrado, o que afastaria o aproveitamento de créditos",
+          "data_publicacao": "Fri, 27 Feb 2026 10:21:36 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária do consumo e reflexos nas contribuições previdenciárias",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-do-consumo-e-reflexos-nas-contribuicoes-previdenciarias",
+          "resumo": "O 'uso e consumo pessoal' da LC 214/25 não autoriza a ampliação analógica da base de cálculo previdenciária",
+          "data_publicacao": "Fri, 27 Feb 2026 08:00:29 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Quem ganha com a reforma? A nova tributação dos contratos agrários",
+          "link": "https://www.conjur.com.br/2026-fev-27/quem-ganha-com-a-reforma-a-nova-tributacao-dos-contratos-agrarios/",
+          "resumo": "Este artigo é a primeira parte de uma série voltada para analisar a tributação dos contratos agrários típicos (arrendamento, parceria e integração) nos períodos pré e pós reforma tributária. O objetivo é verificar se a reforma tributária alterou as vantagens fiscais e contratuais destes contratos, e",
+          "data_publicacao": "Fri, 27 Feb 2026 11:00:43 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/marco-aurelio-bicalho-de-abreu-chagas_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/marcoaureliochagas/a-sociedade-uniprofissional-tem-regime-tributario-diferenciado-do-iss-em-aliquota-fixa-2/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">A sociedade uniprofissional tem regime tributário diferenciado do ISS, em alíquota fixa (Marco Aurélio Bicalho de Abreu Chagas)</a>",
+          "link": "https://tributario.com.br/marcoaureliochagas/a-sociedade-uniprofissional-tem-regime-tributario-diferenciado-do-iss-em-aliquota-fixa-2/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 15:20:53 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/avatar_175532.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/andremansurbrandao/simples-nacional-na-reforma-tributaria-o-que-muda-com-ibs-e-cbs-e-como-se-preparar/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Simples Nacional na Reforma Tributária: O que muda com IBS e CBS e como se preparar (ANDRE MANSUR ADVS)</a>",
+          "link": "https://tributario.com.br/andremansurbrandao/simples-nacional-na-reforma-tributaria-o-que-muda-com-ibs-e-cbs-e-como-se-preparar/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 15:10:47 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/execucao-fiscal-e-compartilhamento-de-dados-fiscais-a-lgpd-como-limite-a-cobranca-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Execução fiscal e compartilhamento de dados fiscais: a LGPD como limite à cobrança tributária (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/execucao-fiscal-e-compartilhamento-de-dados-fiscais-a-lgpd-como-limite-a-cobranca-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 15:00:52 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/avatar_131875.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/renato-zouain55/reforma-tributaria-e-os-impactos-no-cash-flow/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Reforma tributária e os impactos no cash flow (Renato Sorroce Zouain)</a>",
+          "link": "https://tributario.com.br/renato-zouain55/reforma-tributaria-e-os-impactos-no-cash-flow/",
+          "resumo": "",
+          "data_publicacao": "Wed, 25 Feb 2026 15:30:36 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/marco-aurelio-bicalho-de-abreu-chagas_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/marcoaureliochagas/em-parcelamentos-tributarios-a-multa-de-mora-cessa-no-pagamento-da-primeira-parcela/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Em parcelamentos tributários a multa de mora cessa no pagamento da primeira parcela (Marco Aurélio Bicalho de Abreu Chagas)</a>",
+          "link": "https://tributario.com.br/marcoaureliochagas/em-parcelamentos-tributarios-a-multa-de-mora-cessa-no-pagamento-da-primeira-parcela/",
+          "resumo": "",
+          "data_publicacao": "Wed, 25 Feb 2026 15:15:03 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/a-execucao-fiscal-e-a-fiscalizacao-digital-tecnologia-estatal-pesquisa-patrimonial-eletronica-e-o-dever-de-cooperacao-do-contribuinte/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">A execução fiscal e a fiscalização digital: tecnologia estatal, pesquisa patrimonial eletrônica e o dever de cooperação do contribuinte (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/a-execucao-fiscal-e-a-fiscalizacao-digital-tecnologia-estatal-pesquisa-patrimonial-eletronica-e-o-dever-de-cooperacao-do-contribuinte/",
+          "resumo": "",
+          "data_publicacao": "Wed, 25 Feb 2026 15:00:48 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2017/07/20170215162032escrutura_digital-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/receita-do-rs-amplia-fiscalizacao-da-nota-integrada-2/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Receita do RS amplia fiscalização da Nota Integrada</a>",
+          "link": "https://tributario.com.br/a/receita-do-rs-amplia-fiscalizacao-da-nota-integrada-2/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 17:00:17 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/08/malhete-e1491913780116-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/decisao-afasta-condenacao-por-falsidade-ideologica-em-irpf/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Decisão afasta condenação por falsidade ideológica em IRPF</a>",
+          "link": "https://tributario.com.br/a/decisao-afasta-condenacao-por-falsidade-ideologica-em-irpf/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 13:00:19 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"sefaz são paulo\" class=\"mcnImage rssImage wp-post-image\" height=\"744\" src=\"https://tributario.com.br/wp-content/uploads/2023/08/sefaz-sp.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"990\" /><a href=\"https://tributario.com.br/a/fazenda-estadual-de-sp-afirma-que-a-competencia-para-interpretar-o-ibs-e-exclusiva-do-comite-gestor-do-ibs-cgibs/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Fazenda estadual de SP afirma que a competência para interpretar o IBS é exclusiva do Comitê Gestor do IBS (CGIBS)</a>",
+          "link": "https://tributario.com.br/a/fazenda-estadual-de-sp-afirma-que-a-competencia-para-interpretar-o-ibs-e-exclusiva-do-comite-gestor-do-ibs-cgibs/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 12:30:44 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/07/shutterstock_73065175-25-03-13-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/partido-novo-apresenta-pdl-para-sustar-aumento-de-aliquotas-do-imposto-de-importacao/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Partido Novo apresenta PDL para sustar aumento de alíquotas do Imposto de Importação</a>",
+          "link": "https://tributario.com.br/a/partido-novo-apresenta-pdl-para-sustar-aumento-de-aliquotas-do-imposto-de-importacao/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 12:01:03 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"nfse, nfs-e, nota fiscal\" class=\"mcnImage rssImage wp-post-image\" height=\"329\" src=\"https://tributario.com.br/wp-content/uploads/2023/01/NFS-e-Anafisco.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"614\" /><a href=\"https://tributario.com.br/a/iss-exige-emissao-de-nfs-e-por-estabelecimento/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">ISS exige emissão de NFS-e por estabelecimento</a>",
+          "link": "https://tributario.com.br/a/iss-exige-emissao-de-nfs-e-por-estabelecimento/",
+          "resumo": "",
+          "data_publicacao": "Wed, 25 Feb 2026 19:00:33 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/07/conteineres-e1526474472945-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/elevacao-de-imposto-sobre-bk-e-bit/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Elevação de imposto sobre BK e BIT</a>",
+          "link": "https://tributario.com.br/a/elevacao-de-imposto-sobre-bk-e-bit/",
+          "resumo": "",
+          "data_publicacao": "Wed, 25 Feb 2026 18:00:11 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
