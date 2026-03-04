@@ -1,0 +1,134 @@
+{
+  "data_consolidacao": "2026-03-04T11:56:02.921799",
+  "total_fontes": 7,
+  "total_noticias": 10,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf decide que PLR não afasta isenção tributária de associação sem fins lucrativos",
+          "link": "https://www.jota.info/tributos/carf-decide-que-plr-nao-afasta-isencao-tributaria-de-associacao-sem-fins-lucrativos",
+          "resumo": "Para conselheiros, PLR tinha caráter de incentivo vinculado a metas e não comprometeu a finalidade institucional da entidade",
+          "data_publicacao": "Wed, 04 Mar 2026 10:20:46 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "As distorções na política comercial de aumento do Imposto de Importação",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/as-distorcoes-na-politica-comercial-de-aumento-do-imposto-de-importacao",
+          "resumo": "Medida não atingirá objetivos anunciados nem disfarçados, acarretando apenas em mais custos para o setor produtivo brasileiro",
+          "data_publicacao": "Wed, 04 Mar 2026 08:30:55 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Medicamentos controlados na reforma: seletividade terapêutica resiste à coerência constitucional?",
+          "link": "https://www.conjur.com.br/2026-mar-04/medicamentos-controlados-na-reforma-seletividade-terapeutica-resiste-a-coerencia-constitucional/",
+          "resumo": "A reforma tributária sobre o consumo foi concebida sob a promessa de simplificação, neutralidade e racionalidade econômica. No entanto, no setor farmacêutico — especialmente no universo dos medicamentos controlados e de alto custo — o novo modelo revela uma complexidade que vai além da mera substitu",
+          "data_publicacao": "Wed, 04 Mar 2026 10:09:56 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "IBS e compras públicas: o artigo 149-C criou uma nova exceção estrutural?",
+          "link": "https://www.conjur.com.br/2026-mar-04/ibs-e-compras-publicas-o-artigo-149-c-criou-uma-nova-excecao-estrutural/",
+          "resumo": "A reforma tributária concentrou o debate público nas alíquotas do IBS e da CBS, na promessa de neutralidade, no split payment e nos impactos setoriais. Um ponto estrutural, porém, recebeu atenção significativamente menor, e pode representar uma das alterações mais sofisticadas do novo modelo: o regi",
+          "data_publicacao": "Wed, 04 Mar 2026 09:30:23 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/garantias-do-juizo-e-penhoras-modernas-na-execucao-fiscal-entre-a-efetividade-da-cobranca-e-os-limites-constitucionais/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Garantias do Juízo e Penhoras Modernas na Execução Fiscal: Entre a efetividade da cobrança e os limites constitucionais (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/garantias-do-juizo-e-penhoras-modernas-na-execucao-fiscal-entre-a-efetividade-da-cobranca-e-os-limites-constitucionais/",
+          "resumo": "",
+          "data_publicacao": "Tue, 03 Mar 2026 15:10:04 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/seus-clientes-precisam-estar-preparados-para-a-nova-regra-de-creditos-tributarios/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Seus clientes precisam estar preparados para a nova regra de créditos tributários (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/seus-clientes-precisam-estar-preparados-para-a-nova-regra-de-creditos-tributarios/",
+          "resumo": "",
+          "data_publicacao": "Fri, 27 Feb 2026 15:30:45 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/marco-aurelio-bicalho-de-abreu-chagas_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/marcoaureliochagas/a-sociedade-uniprofissional-tem-regime-tributario-diferenciado-do-iss-em-aliquota-fixa-2/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">A sociedade uniprofissional tem regime tributário diferenciado do ISS, em alíquota fixa (Marco Aurélio Bicalho de Abreu Chagas)</a>",
+          "link": "https://tributario.com.br/marcoaureliochagas/a-sociedade-uniprofissional-tem-regime-tributario-diferenciado-do-iss-em-aliquota-fixa-2/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 15:20:53 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/avatar_175532.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/andremansurbrandao/simples-nacional-na-reforma-tributaria-o-que-muda-com-ibs-e-cbs-e-como-se-preparar/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Simples Nacional na Reforma Tributária: O que muda com IBS e CBS e como se preparar (ANDRE MANSUR ADVS)</a>",
+          "link": "https://tributario.com.br/andremansurbrandao/simples-nacional-na-reforma-tributaria-o-que-muda-com-ibs-e-cbs-e-como-se-preparar/",
+          "resumo": "",
+          "data_publicacao": "Thu, 26 Feb 2026 15:10:47 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"mcnImage rssImage wp-post-image\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/2016/06/obras-e1464813636333-100x100.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/a/receita-amplia-restricoes-no-cadastro-nacional-de-obras-e-inclui-obras-sob-fiscalizacao-e-cpf-irregular/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Receita amplia restrições no Cadastro Nacional de Obras e inclui obras sob fiscalização e CPF irregular</a>",
+          "link": "https://tributario.com.br/a/receita-amplia-restricoes-no-cadastro-nacional-de-obras-e-inclui-obras-sob-fiscalizacao-e-cpf-irregular/",
+          "resumo": "",
+          "data_publicacao": "Fri, 27 Feb 2026 19:00:20 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"receita,rfb\" class=\"mcnImage rssImage wp-post-image\" height=\"652\" src=\"https://tributario.com.br/wp-content/uploads/2023/04/receitadocumentos.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"1086\" /><a href=\"https://tributario.com.br/a/isencoes-do-terceiro-setor-e-gastos-trabalhistas-sao-excluidos-da-reducao-linear-de-beneficios-tributarios/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block; padding-left: 70px;\" target=\"_blank\">Isenções do terceiro setor e gastos trabalhistas são excluídos da redução linear de benefícios tributários</a>",
+          "link": "https://tributario.com.br/a/isencoes-do-terceiro-setor-e-gastos-trabalhistas-sao-excluidos-da-reducao-linear-de-beneficios-tributarios/",
+          "resumo": "",
+          "data_publicacao": "Fri, 27 Feb 2026 17:00:18 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
