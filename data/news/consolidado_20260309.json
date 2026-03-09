@@ -1,0 +1,172 @@
+{
+  "data_consolidacao": "2026-03-09T12:00:51.689726",
+  "total_fontes": 7,
+  "total_noticias": 14,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf derruba responsabilidade de administradora de fundo em cobrança de IRPJ",
+          "link": "https://www.jota.info/tributos/carf-derruba-responsabilidade-de-administradora-de-fundo-em-cobranca-de-irpj",
+          "resumo": "Turma entendeu que a solidariedade não pode ser presumida e que a administradora não responde pelo IRPJ devido pelo fundo",
+          "data_publicacao": "Mon, 09 Mar 2026 10:06:03 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e recuperação judicial: impactos sobre planos e viabilidade",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-recuperacao-judicial-impactos-sobre-planos-e-viabilidade",
+          "resumo": "Planejamentos não podem simplesmente substituir tributos antigos por novos",
+          "data_publicacao": "Mon, 09 Mar 2026 08:00:27 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Royalties pagos a empresa do mesmo grupo são dedutíveis, decide Carf",
+          "link": "https://www.jota.info/tributos/royalties-pagos-a-empresa-do-mesmo-grupo-sao-dedutiveis-decide-carf",
+          "resumo": "Conselho diz que indedutibilidade de royalties não se aplica a pagamentos a PJs não sócias no exterior, ainda que do mesmo grupo",
+          "data_publicacao": "Sun, 08 Mar 2026 09:25:52 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Por vício na fiscalização, Carf anula cobrança de Gilrat contra Volkswagen",
+          "link": "https://www.jota.info/tributos/por-vicio-na-fiscalizacao-carf-anula-cobranca-de-gilrat-contra-volkswagen",
+          "resumo": "Fiscalização considerou que todos os empregados foram expostos ao agente nocivo; 'houve deficiência' reconheceu relator",
+          "data_publicacao": "Sat, 07 Mar 2026 09:11:24 +0000",
+          "palavras_chave": [
+            "CARF",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Reciclar ou extrair? O novo sistema tributário está fazendo sua escolha",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reciclar-ou-extrair-o-novo-sistema-tributario-esta-fazendo-sua-escolha",
+          "resumo": "PEC da Reciclagem surge como resposta à preocupação de que o novo modelo tributário reduza incentivos à sustentabilidade",
+          "data_publicacao": "Sat, 07 Mar 2026 08:15:36 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/ajustes-da-rfb-aos-beneficios-do-voto-de-qualidade-no-carf-numa-analise-legal-e-jurisprudencial-da-in-2-310-2026/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Ajustes da RFB aos benefícios do voto de qualidade no CARF numa análise legal e jurisprudencial da IN 2.310/2026 (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/ajustes-da-rfb-aos-beneficios-do-voto-de-qualidade-no-carf-numa-analise-legal-e-jurisprudencial-da-in-2-310-2026/",
+          "resumo": "",
+          "data_publicacao": "Fri, 06 Mar 2026 14:32:13 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/prescricao-e-decadencia-no-direito-tributario-aspectos-estruturais-e-desafios-contemporaneos-na-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Prescrição e Decadência no Direito Tributário: Aspectos Estruturais e Desafios Contemporâneos na Execução Fiscal (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/prescricao-e-decadencia-no-direito-tributario-aspectos-estruturais-e-desafios-contemporaneos-na-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Fri, 06 Mar 2026 14:30:19 +0000",
+          "palavras_chave": [
+            "tributário",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/o-fim-da-controversia-stj-consolida-a-nao-incidencia-de-irpj-e-csll-sobre-a-taxa-selic-na-repeticao-de-indebito-tributario/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O Fim da Controvérsia: STJ Consolida a Não Incidência de IRPJ e CSLL sobre a Taxa Selic na Repetição de Indébito Tributário</a>",
+          "link": "https://tributario.com.br/a/o-fim-da-controversia-stj-consolida-a-nao-incidencia-de-irpj-e-csll-sobre-a-taxa-selic-na-repeticao-de-indebito-tributario/",
+          "resumo": "",
+          "data_publicacao": "Fri, 06 Mar 2026 14:28:56 +0000",
+          "palavras_chave": [
+            "tributário",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/69a969666af06_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cerqueira-rmota/adicional-de-10-no-imposto-de-renda-para-pessoas-juridicas-uma-analise-do-limite-nao-corrigido/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Adicional de 10% no Imposto de Renda para Pessoas Jurídicas: Uma Análise do Limite não Corrigido (Rodrigo M Cerqueira)</a>",
+          "link": "https://tributario.com.br/cerqueira-rmota/adicional-de-10-no-imposto-de-renda-para-pessoas-juridicas-uma-analise-do-limite-nao-corrigido/",
+          "resumo": "",
+          "data_publicacao": "Thu, 05 Mar 2026 15:40:01 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/kiyoshi-harada_avatar.gif\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/harada/ibs-um-imposto-mais-confuso-e-caro-do-planeta/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">IBS, um imposto mais confuso e caro do planeta (Kiyoshi Harada)</a>",
+          "link": "https://tributario.com.br/harada/ibs-um-imposto-mais-confuso-e-caro-do-planeta/",
+          "resumo": "",
+          "data_publicacao": "Wed, 04 Mar 2026 12:21:01 +0000",
+          "palavras_chave": [
+            "IBS",
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/procedimento-e-estrategia-processual-na-execucao-fiscal-aspectos-controvertidos-e-pontos-sensiveis-na-atuacao-do-contribuinte-e-da-fazenda-publica/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Procedimento e Estratégia Processual na Execução Fiscal: Aspectos Controvertidos e Pontos Sensíveis na Atuação do Contribuinte e da Fazenda Pública (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/procedimento-e-estrategia-processual-na-execucao-fiscal-aspectos-controvertidos-e-pontos-sensiveis-na-atuacao-do-contribuinte-e-da-fazenda-publica/",
+          "resumo": "",
+          "data_publicacao": "Wed, 04 Mar 2026 12:16:16 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/garantias-do-juizo-e-penhoras-modernas-na-execucao-fiscal-entre-a-efetividade-da-cobranca-e-os-limites-constitucionais/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Garantias do Juízo e Penhoras Modernas na Execução Fiscal: Entre a efetividade da cobrança e os limites constitucionais (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/garantias-do-juizo-e-penhoras-modernas-na-execucao-fiscal-entre-a-efetividade-da-cobranca-e-os-limites-constitucionais/",
+          "resumo": "",
+          "data_publicacao": "Tue, 03 Mar 2026 15:10:04 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/seus-clientes-precisam-estar-preparados-para-a-nova-regra-de-creditos-tributarios/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Seus clientes precisam estar preparados para a nova regra de créditos tributários (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/seus-clientes-precisam-estar-preparados-para-a-nova-regra-de-creditos-tributarios/",
+          "resumo": "",
+          "data_publicacao": "Fri, 27 Feb 2026 15:30:45 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/a-regulamentacao-da-reforma-tributaria-e-o-dilema-da-cesta-basica-entre-a-desoneracao-ampla-e-a-seletividade-nutricional/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">A Regulamentação da Reforma Tributária e o Dilema da Cesta Básica: Entre a Desoneração Ampla e a Seletividade Nutricional</a>",
+          "link": "https://tributario.com.br/a/a-regulamentacao-da-reforma-tributaria-e-o-dilema-da-cesta-basica-entre-a-desoneracao-ampla-e-a-seletividade-nutricional/",
+          "resumo": "",
+          "data_publicacao": "Thu, 05 Mar 2026 15:36:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
