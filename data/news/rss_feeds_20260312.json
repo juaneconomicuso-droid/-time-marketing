@@ -1,0 +1,142 @@
+{
+  "data_busca": "2026-03-12T11:53:37.266015",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Álcool anidro adicionado à gasolina não gera crédito, decide Carf",
+          "link": "https://www.jota.info/tributos/alcool-anidro-adicionado-a-gasolina-nao-gera-credito-decide-carf",
+          "resumo": "Turma, porém, autorizou créditos sobre frete e armazenagem envolvidos na venda de gasolina e óleo diesel",
+          "data_publicacao": "Thu, 12 Mar 2026 10:15:34 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/6982244ac6bba_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/tabaruchi/planejamento-sucessorio-quais-os-impactos-com-a-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Planejamento Sucessório: quais os impactos com a Reforma Tributária? (Tais Brain Baruchi)</a>",
+          "link": "https://tributario.com.br/tabaruchi/planejamento-sucessorio-quais-os-impactos-com-a-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:16:02 +0000",
+          "palavras_chave": [
+            "planejamento",
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/reforma-tributaria-e-execucao-fiscal-o-que-o-empresario-precisa-compreender-desde-ja/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Reforma Tributária e Execução Fiscal: o que o empresário precisa compreender desde já (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/reforma-tributaria-e-execucao-fiscal-o-que-o-empresario-precisa-compreender-desde-ja/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:12:24 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/69a969666af06_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cerqueira-rmota/a-vedacao-ao-credito-de-ibs-e-cbs-sobre-servicos-de-hotelaria-e-a-violacao-ao-principio-da-nao-cumulatividade/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">A vedação ao crédito de IBS e CBS sobre serviços de hotelaria e a violação ao princípio da não-cumulatividade (Rodrigo M Cerqueira)</a>",
+          "link": "https://tributario.com.br/cerqueira-rmota/a-vedacao-ao-credito-de-ibs-e-cbs-sobre-servicos-de-hotelaria-e-a-violacao-ao-principio-da-nao-cumulatividade/",
+          "resumo": "",
+          "data_publicacao": "Tue, 10 Mar 2026 16:52:50 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/excecao-de-pre-executividade-para-a-prescricao-intercorrente-na-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Exceção de pré-executividade para a prescrição intercorrente na execução fiscal (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/excecao-de-pre-executividade-para-a-prescricao-intercorrente-na-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Tue, 10 Mar 2026 16:50:52 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/isaias-jonas-de-andrade_avatar.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/IsaiasJonas/o-contador-na-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O Contador na Reforma Tributária (Isaias Jonas de Andrade)</a>",
+          "link": "https://tributario.com.br/IsaiasJonas/o-contador-na-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Mon, 09 Mar 2026 14:16:21 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/ajustes-da-rfb-aos-beneficios-do-voto-de-qualidade-no-carf-numa-analise-legal-e-jurisprudencial-da-in-2-310-2026/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Ajustes da RFB aos benefícios do voto de qualidade no CARF numa análise legal e jurisprudencial da IN 2.310/2026 (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/ajustes-da-rfb-aos-beneficios-do-voto-de-qualidade-no-carf-numa-analise-legal-e-jurisprudencial-da-in-2-310-2026/",
+          "resumo": "",
+          "data_publicacao": "Fri, 06 Mar 2026 14:32:13 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/prescricao-e-decadencia-no-direito-tributario-aspectos-estruturais-e-desafios-contemporaneos-na-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Prescrição e Decadência no Direito Tributário: Aspectos Estruturais e Desafios Contemporâneos na Execução Fiscal (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/prescricao-e-decadencia-no-direito-tributario-aspectos-estruturais-e-desafios-contemporaneos-na-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Fri, 06 Mar 2026 14:30:19 +0000",
+          "palavras_chave": [
+            "tributário",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/o-fim-da-controversia-stj-consolida-a-nao-incidencia-de-irpj-e-csll-sobre-a-taxa-selic-na-repeticao-de-indebito-tributario/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O Fim da Controvérsia: STJ Consolida a Não Incidência de IRPJ e CSLL sobre a Taxa Selic na Repetição de Indébito Tributário</a>",
+          "link": "https://tributario.com.br/a/o-fim-da-controversia-stj-consolida-a-nao-incidencia-de-irpj-e-csll-sobre-a-taxa-selic-na-repeticao-de-indebito-tributario/",
+          "resumo": "",
+          "data_publicacao": "Fri, 06 Mar 2026 14:28:56 +0000",
+          "palavras_chave": [
+            "tributário",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/69a969666af06_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cerqueira-rmota/adicional-de-10-no-imposto-de-renda-para-pessoas-juridicas-uma-analise-do-limite-nao-corrigido/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Adicional de 10% no Imposto de Renda para Pessoas Jurídicas: Uma Análise do Limite não Corrigido (Rodrigo M Cerqueira)</a>",
+          "link": "https://tributario.com.br/cerqueira-rmota/adicional-de-10-no-imposto-de-renda-para-pessoas-juridicas-uma-analise-do-limite-nao-corrigido/",
+          "resumo": "",
+          "data_publicacao": "Thu, 05 Mar 2026 15:40:01 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/kiyoshi-harada_avatar.gif\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/harada/ibs-um-imposto-mais-confuso-e-caro-do-planeta/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">IBS, um imposto mais confuso e caro do planeta (Kiyoshi Harada)</a>",
+          "link": "https://tributario.com.br/harada/ibs-um-imposto-mais-confuso-e-caro-do-planeta/",
+          "resumo": "",
+          "data_publicacao": "Wed, 04 Mar 2026 12:21:01 +0000",
+          "palavras_chave": [
+            "IBS",
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/o-imposto-seletivo-na-reforma-tributaria-analise-juridica-do-plp-68-2024-e-as-controversias-sobre-sua-incidencia/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O Imposto Seletivo na Reforma Tributária: Análise Jurídica do PLP 68/2024 e as Controvérsias sobre sua Incidência</a>",
+          "link": "https://tributario.com.br/a/o-imposto-seletivo-na-reforma-tributaria-analise-juridica-do-plp-68-2024-e-as-controversias-sobre-sua-incidencia/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:09:55 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
