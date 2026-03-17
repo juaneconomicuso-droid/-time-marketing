@@ -1,0 +1,180 @@
+{
+  "data_consolidacao": "2026-03-17T14:41:45.992189",
+  "total_fontes": 7,
+  "total_noticias": 15,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Do petróleo às urnas: quando choques externos viram política fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/do-petroleo-as-urnas-quando-choques-externos-viram-politica-fiscal",
+          "resumo": "Improvisos na tributação dificilmente resolvem vulnerabilidades estruturais",
+          "data_publicacao": "Tue, 17 Mar 2026 13:45:36 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf mantém cobrança de CSLL sobre valores recebidos para a reforma do Mineirão",
+          "link": "https://www.jota.info/tributos/carf-mantem-cobranca-de-csll-sobre-valores-recebidos-para-a-reforma-do-mineirao",
+          "resumo": "Por 4 votos a 2, Carf desconsiderou tese de subvenção e manteve CSLL sobre valores repassados à Minas Arena na concessão do Mineirão",
+          "data_publicacao": "Tue, 17 Mar 2026 10:45:19 +0000",
+          "palavras_chave": [
+            "CARF",
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária exigirá respostas rápidas e seguras, diz ministro do STJ",
+          "link": "https://www.jota.info/tributos/reforma-tributaria-exigira-respostas-rapidas-e-seguras-diz-ministro-do-stj",
+          "resumo": "Afrânio Vilela afirma que reforma pode ampliar morosidade se não mudar organização do contencioso tributário",
+          "data_publicacao": "Mon, 16 Mar 2026 23:00:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/o-que-acontece-com-a-empresa-que-ignora-uma-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O que acontece com a empresa que ignora uma execução fiscal? (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/o-que-acontece-com-a-empresa-que-ignora-uma-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:53:54 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/thiago-santana-lira_avatar_5.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/thlira88/carf-despesas-com-iptu-e-taxa-condominial-em-contratos-de-locacao-geram-creditos-de-pis-cofins/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">CARF – Despesas com IPTU e taxa condominial em contratos de locação geram créditos de PIS/COFINS (Thiago Santana Lira)</a>",
+          "link": "https://tributario.com.br/thlira88/carf-despesas-com-iptu-e-taxa-condominial-em-contratos-de-locacao-geram-creditos-de-pis-cofins/",
+          "resumo": "",
+          "data_publicacao": "Thu, 12 Mar 2026 20:46:08 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/marco-aurelio-bicalho-de-abreu-chagas_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/marcoaureliochagas/em-parcelamentos-tributarios-a-multa-de-mora-cessa-no-pagamento-da-primeira-parcela-2/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Em Parcelamentos Tributários a Multa de Mora Cessa no Pagamento da Primeira Parcela (Marco Aurélio Bicalho de Abreu Chagas)</a>",
+          "link": "https://tributario.com.br/marcoaureliochagas/em-parcelamentos-tributarios-a-multa-de-mora-cessa-no-pagamento-da-primeira-parcela-2/",
+          "resumo": "",
+          "data_publicacao": "Thu, 12 Mar 2026 20:43:49 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/6982244ac6bba_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/tabaruchi/planejamento-sucessorio-quais-os-impactos-com-a-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Planejamento Sucessório: quais os impactos com a Reforma Tributária? (Tais Brain Baruchi)</a>",
+          "link": "https://tributario.com.br/tabaruchi/planejamento-sucessorio-quais-os-impactos-com-a-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:16:02 +0000",
+          "palavras_chave": [
+            "planejamento",
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/reforma-tributaria-e-execucao-fiscal-o-que-o-empresario-precisa-compreender-desde-ja/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Reforma Tributária e Execução Fiscal: o que o empresário precisa compreender desde já (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/reforma-tributaria-e-execucao-fiscal-o-que-o-empresario-precisa-compreender-desde-ja/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:12:24 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/69a969666af06_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/cerqueira-rmota/a-vedacao-ao-credito-de-ibs-e-cbs-sobre-servicos-de-hotelaria-e-a-violacao-ao-principio-da-nao-cumulatividade/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">A vedação ao crédito de IBS e CBS sobre serviços de hotelaria e a violação ao princípio da não-cumulatividade (Rodrigo M Cerqueira)</a>",
+          "link": "https://tributario.com.br/cerqueira-rmota/a-vedacao-ao-credito-de-ibs-e-cbs-sobre-servicos-de-hotelaria-e-a-violacao-ao-principio-da-nao-cumulatividade/",
+          "resumo": "",
+          "data_publicacao": "Tue, 10 Mar 2026 16:52:50 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/excecao-de-pre-executividade-para-a-prescricao-intercorrente-na-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Exceção de pré-executividade para a prescrição intercorrente na execução fiscal (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/excecao-de-pre-executividade-para-a-prescricao-intercorrente-na-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Tue, 10 Mar 2026 16:50:52 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/isaias-jonas-de-andrade_avatar.png\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/IsaiasJonas/o-contador-na-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O Contador na Reforma Tributária (Isaias Jonas de Andrade)</a>",
+          "link": "https://tributario.com.br/IsaiasJonas/o-contador-na-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Mon, 09 Mar 2026 14:16:21 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/ultimas-decisoes-do-carf-sobre-tributacao-de-softwares/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Ultimas Decisões do CARF sobre Tributação de Softwares</a>",
+          "link": "https://tributario.com.br/a/ultimas-decisoes-do-carf-sobre-tributacao-de-softwares/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:52:22 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/impacto-da-reforma-tributaria-no-comercio-internacional/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Impacto da Reforma Tributária no Comércio Internacional</a>",
+          "link": "https://tributario.com.br/a/impacto-da-reforma-tributaria-no-comercio-internacional/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:51:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/impactos-da-reforma-tributaria-na-tributacao-sobre-o-consumo/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Impactos da Reforma Tributária na Tributação sobre o Consumo</a>",
+          "link": "https://tributario.com.br/a/impactos-da-reforma-tributaria-na-tributacao-sobre-o-consumo/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:48:46 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/mudancas-no-irpf-stf-julga-constitucionalidade-da-tabela-progressiva/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Mudanças no IRPF: STF julga constitucionalidade da tabela progressiva</a>",
+          "link": "https://tributario.com.br/a/mudancas-no-irpf-stf-julga-constitucionalidade-da-tabela-progressiva/",
+          "resumo": "",
+          "data_publicacao": "Thu, 12 Mar 2026 20:44:44 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
