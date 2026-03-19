@@ -1,0 +1,130 @@
+{
+  "data_busca": "2026-03-19T12:02:50.482291",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf nega dedutibilidade de despesas com depósitos interfinanceiros",
+          "link": "https://www.jota.info/tributos/carf-nega-dedutibilidade-de-despesas-com-depositos-interfinanceiros",
+          "resumo": "O caso envolve despesas financeiras do Bradesco Cartões relativas a depósitos interfinanceiros utilizados na capitalização do Berj",
+          "data_publicacao": "Thu, 19 Mar 2026 10:20:57 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/juarez-arnaldo-fernandes_avatar_1-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/juarezfernandes/o-direito-ao-credito-no-ibs-e-na-cbs-conforme-a-lei-complementar-no-214-2025/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O direito ao crédito no IBS e na CBS conforme a Lei Complementar nº 214/2025 (Juarez Arnaldo Fernandes)</a>",
+          "link": "https://tributario.com.br/juarezfernandes/o-direito-ao-credito-no-ibs-e-na-cbs-conforme-a-lei-complementar-no-214-2025/",
+          "resumo": "",
+          "data_publicacao": "Wed, 18 Mar 2026 14:21:01 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/roberto-rodrigues-de-morais_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/rmorais/irpf-2026-com-a-obrigatoriedade-de-entrega-da-declaracao/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">IRPF 2026 com a obrigatoriedade de entrega da declaração (Roberto Rodrigues de Morais)</a>",
+          "link": "https://tributario.com.br/rmorais/irpf-2026-com-a-obrigatoriedade-de-entrega-da-declaracao/",
+          "resumo": "",
+          "data_publicacao": "Tue, 17 Mar 2026 19:58:23 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/o-que-acontece-com-a-empresa-que-ignora-uma-execucao-fiscal/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">O que acontece com a empresa que ignora uma execução fiscal? (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/o-que-acontece-com-a-empresa-que-ignora-uma-execucao-fiscal/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:53:54 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/thiago-santana-lira_avatar_5.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/thlira88/carf-despesas-com-iptu-e-taxa-condominial-em-contratos-de-locacao-geram-creditos-de-pis-cofins/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">CARF – Despesas com IPTU e taxa condominial em contratos de locação geram créditos de PIS/COFINS (Thiago Santana Lira)</a>",
+          "link": "https://tributario.com.br/thlira88/carf-despesas-com-iptu-e-taxa-condominial-em-contratos-de-locacao-geram-creditos-de-pis-cofins/",
+          "resumo": "",
+          "data_publicacao": "Thu, 12 Mar 2026 20:46:08 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/marco-aurelio-bicalho-de-abreu-chagas_avatar.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/marcoaureliochagas/em-parcelamentos-tributarios-a-multa-de-mora-cessa-no-pagamento-da-primeira-parcela-2/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Em Parcelamentos Tributários a Multa de Mora Cessa no Pagamento da Primeira Parcela (Marco Aurélio Bicalho de Abreu Chagas)</a>",
+          "link": "https://tributario.com.br/marcoaureliochagas/em-parcelamentos-tributarios-a-multa-de-mora-cessa-no-pagamento-da-primeira-parcela-2/",
+          "resumo": "",
+          "data_publicacao": "Thu, 12 Mar 2026 20:43:49 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/6982244ac6bba_avatar-100x100.jpeg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/tabaruchi/planejamento-sucessorio-quais-os-impactos-com-a-reforma-tributaria/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Planejamento Sucessório: quais os impactos com a Reforma Tributária? (Tais Brain Baruchi)</a>",
+          "link": "https://tributario.com.br/tabaruchi/planejamento-sucessorio-quais-os-impactos-com-a-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:16:02 +0000",
+          "palavras_chave": [
+            "planejamento",
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "<img alt=\"\" class=\"avatar avatar-100 photo mcnImage rssImage\" height=\"100\" src=\"https://tributario.com.br/wp-content/uploads/site-avatars/jean-eduardo-lima_avatar_2-100x100.jpg\" style=\"width: 50px !important; height: 50px !important; float: left; margin-right: 10px;\" width=\"100\" /><a href=\"https://tributario.com.br/jean-lima/reforma-tributaria-e-execucao-fiscal-o-que-o-empresario-precisa-compreender-desde-ja/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Reforma Tributária e Execução Fiscal: o que o empresário precisa compreender desde já (Jean Eduardo Lima)</a>",
+          "link": "https://tributario.com.br/jean-lima/reforma-tributaria-e-execucao-fiscal-o-que-o-empresario-precisa-compreender-desde-ja/",
+          "resumo": "",
+          "data_publicacao": "Wed, 11 Mar 2026 15:12:24 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/stj-define-que-base-de-calculo-do-irpj-e-da-csll-nao-inclui-taxa-selic-sobre-indebitos-tributarios/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">STJ Define que Base de Cálculo do IRPJ e da CSLL Não Inclui Taxa Selic sobre Indébitos Tributários</a>",
+          "link": "https://tributario.com.br/a/stj-define-que-base-de-calculo-do-irpj-e-da-csll-nao-inclui-taxa-selic-sobre-indebitos-tributarios/",
+          "resumo": "",
+          "data_publicacao": "Tue, 17 Mar 2026 19:56:36 +0000",
+          "palavras_chave": [
+            "tributário",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/ultimas-decisoes-do-carf-sobre-tributacao-de-softwares/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Ultimas Decisões do CARF sobre Tributação de Softwares</a>",
+          "link": "https://tributario.com.br/a/ultimas-decisoes-do-carf-sobre-tributacao-de-softwares/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:52:22 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "<a href=\"https://tributario.com.br/a/impacto-da-reforma-tributaria-no-comercio-internacional/\" style=\"font-family: verdana,geneva,sans-serif; font-size: 16px; color: #121348; text-decoration: none; display: block;\" target=\"_blank\">Impacto da Reforma Tributária no Comércio Internacional</a>",
+          "link": "https://tributario.com.br/a/impacto-da-reforma-tributaria-no-comercio-internacional/",
+          "resumo": "",
+          "data_publicacao": "Mon, 16 Mar 2026 18:51:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
