@@ -1,0 +1,88 @@
+{
+  "data_consolidacao": "2026-03-21T11:47:13.154976",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf autoriza exclusão de incentivos de ICMS das bases do IRPJ e CSLL",
+          "link": "https://www.jota.info/tributos/carf-autoriza-exclusao-de-incentivos-de-icms-das-bases-do-irpj-e-csll",
+          "resumo": "Maioria do colegiado entendeu que os benefícios são subvenções para investimento, dispensando a comprovação de expansão do empreendimento",
+          "data_publicacao": "Sat, 21 Mar 2026 10:23:39 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "A importância dos comitês tributários em tempos de reforma – parte 2",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-importancia-dos-comites-tributarios-em-tempos-de-reforma-parte-2",
+          "resumo": "A multidisciplina jurídico-contábil na formação dos comitês tributários",
+          "data_publicacao": "Sat, 21 Mar 2026 08:30:52 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Carf nega dedutibilidade de gratificações e PLR pagas à gestão estratégica da XP Investimentos",
+          "link": "https://www.jota.info/tributos/carf-nega-dedutibilidade-de-gratificacoes-e-plr-pagas-a-gestao-estrategica-da-xp-investimentos",
+          "resumo": "Dedutibilidade da PLR só é admitida se beneficiário é empregado da empresa e não exerça cargo de direção ou administração",
+          "data_publicacao": "Fri, 20 Mar 2026 10:06:52 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "TRF-3 suspende limite para uso de prejuízo fiscal e base de cálculo negativa na CSLL",
+          "link": "https://www.conjur.com.br/2026-mar-21/trf-3-suspende-limite-para-uso-de-prejuizo-fiscal-e-base-de-calculo-negativa-na-csll/",
+          "resumo": "A 6ª Turma do Tribunal Regional Federal da 3ª Região suspendeu a limitação do uso de prejuízo fiscal e da base de cálculo negativa, o chamado PF/BCN, na Contribuição Social sobre o Lucro Líquido em transações tributárias. A limitação se refere a uma determinação do Tribunal de Contas da União que, n",
+          "data_publicacao": "Sat, 21 Mar 2026 11:27:55 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária terá reflexos relevantes nas relações de trabalho",
+          "link": "https://www.conjur.com.br/2026-mar-21/reforma-tributaria-tera-reflexos-relevantes-nas-relacoes-de-trabalho/",
+          "resumo": "A reforma da tributação sobre o consumo promovida pela Emenda Constitucional (EC) 132/2023 e regulamentada pela Lei Complementar (LC) 214/2025 tem sido amplamente debatida a partir de seus impactos sobre a organização das empresas. Spacca Essa nova sistemática tem potencial para alterar estruturas d",
+          "data_publicacao": "Sat, 21 Mar 2026 10:02:36 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
