@@ -1,0 +1,73 @@
+{
+  "data_busca": "2026-03-23T11:48:21.475531",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf nega dedução de IR pago no exterior para compensar estimativas mensais",
+          "link": "https://www.jota.info/tributos/carf-nega-deducao-de-ir-pago-no-exterior-para-compensar-estimativas-mensais-2",
+          "resumo": "PGFN afirmou que o lucro do exterior não foi tributado no Brasil e a compensação só é permitida na apuração anual",
+          "data_publicacao": "Mon, 23 Mar 2026 10:31:43 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Imposto Seletivo e cigarros: o que o debate europeu ensina ao Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/imposto-seletivo-e-cigarros-o-que-o-debate-europeu-ensina-ao-brasil",
+          "resumo": "Alíquotas mal calibradas podem fortalecer o contrabando e frustrar a política de saúde pública",
+          "data_publicacao": "Mon, 23 Mar 2026 08:15:23 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf nega imunidade de entidade beneficente por cessão de aprendizes",
+          "link": "https://www.jota.info/tributos/carf-nega-imunidade-de-entidade-beneficente-por-cessao-de-aprendizes",
+          "resumo": "Para fiscalização, como 80% dos jovens contratados foram cedidos a terceiros, associação não fazia jus à imunidade",
+          "data_publicacao": "Sun, 22 Mar 2026 10:23:15 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Carf autoriza exclusão de incentivos de ICMS das bases do IRPJ e CSLL",
+          "link": "https://www.jota.info/tributos/carf-autoriza-exclusao-de-incentivos-de-icms-das-bases-do-irpj-e-csll",
+          "resumo": "Maioria do colegiado entendeu que os benefícios são subvenções para investimento, dispensando a comprovação de expansão do empreendimento",
+          "data_publicacao": "Sat, 21 Mar 2026 10:23:39 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "A importância dos comitês tributários em tempos de reforma – parte 2",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-importancia-dos-comites-tributarios-em-tempos-de-reforma-parte-2",
+          "resumo": "A multidisciplina jurídico-contábil na formação dos comitês tributários",
+          "data_publicacao": "Sat, 21 Mar 2026 08:30:52 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
