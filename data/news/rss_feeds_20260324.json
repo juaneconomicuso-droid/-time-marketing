@@ -1,0 +1,71 @@
+{
+  "data_busca": "2026-03-24T11:49:11.136871",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "‘Sócio indireto’ não atrai equiparação de FII à PJ para fins de tributação, decide Carf",
+          "link": "https://www.jota.info/tributos/socio-indireto-nao-atrai-equiparacao-de-fii-a-pj-para-fins-de-tributacao-decide-carf",
+          "resumo": "Por 4 votos a 2, colegiado derrubou cobrança de IRPJ com CSLL, PIS e Cofins",
+          "data_publicacao": "Tue, 24 Mar 2026 09:41:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma da supervisão financeira no Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/mulheres-na-regulacao/reforma-da-supervisao-financeira-no-brasil",
+          "resumo": "Modernização necessária ou risco institucional?",
+          "data_publicacao": "Tue, 24 Mar 2026 08:30:29 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STF valida Imposto de Importação sobre mercadoria que retorna ao Brasil",
+          "link": "https://www.jota.info/tributos/stf-valida-imposto-de-importacao-sobre-mercadoria-que-retorna-ao-brasil",
+          "resumo": "Para os ministros, impedir a tributação da reentrada dessas mercadorias poderia gerar distorções concorrenciais",
+          "data_publicacao": "Tue, 24 Mar 2026 00:00:26 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Alíquotas do Imposto Seletivo devem ser enviadas ao Congresso em abril",
+          "link": "https://www.jota.info/tributos/aliquotas-do-imposto-seletivo-devem-ser-enviadas-ao-congresso-em-abril",
+          "resumo": "Após impasse interno, Governo avalia enviar proposta com urgência para destravar definição das alíquotas",
+          "data_publicacao": "Mon, 23 Mar 2026 21:21:06 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Dino vê ‘emergência institucional’ por falta de fiscalização sobre emendas no SUS",
+          "link": "https://www.jota.info/saude/dino-ve-emergencia-institucional-por-falta-de-fiscalizacao-sobre-emendas-no-sus",
+          "resumo": "Ministro prorrogou por mais 30 dias o prazo para que o governo apresente plano para recompor a capacidade de auditoria do Dena SUS",
+          "data_publicacao": "Mon, 23 Mar 2026 15:44:05 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
