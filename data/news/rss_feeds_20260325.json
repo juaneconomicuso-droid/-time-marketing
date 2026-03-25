@@ -1,0 +1,58 @@
+{
+  "data_busca": "2026-03-25T11:45:33.954333",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Por atraso de cartório, Carf valida declaração desatualizada e anula cobrança de IRPJ e CSLL",
+          "link": "https://www.jota.info/tributos/por-atraso-de-cartorio-carf-valida-declaracao-desatualizada-e-anula-cobranca-de-irpj-e-csll",
+          "resumo": "Caso envolvia a venda das atividades da Magenta Agro para a Mafra Agronegócios",
+          "data_publicacao": "Wed, 25 Mar 2026 10:09:46 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Definição sobre julgamento judicial do IBS/CBS deve anteceder reforma, diz Barroso",
+          "link": "https://www.jota.info/tributos/definicao-sobre-julgamento-judicial-do-ibs-cbs-deve-anteceder-reforma-diz-barroso",
+          "resumo": "Ex-ministro sugeriu o uso da ação declaratória de constitucionalidade como instrumento de uniformização",
+          "data_publicacao": "Tue, 24 Mar 2026 20:55:51 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Processo administrativo do IBS e da CBS: estrutura, paridade e critério de desempate",
+          "link": "https://www.conjur.com.br/2026-mar-25/processo-administrativo-do-ibs-e-da-cbs-estrutura-paridade-e-criterio-de-desempate/",
+          "resumo": "A reforma tributária, objeto da Emenda Constitucional nº 132/23 (EC 132), introduziu em nosso sistema tributário um modelo de “IVA-dual”: dois “tributos gêmeos”, o IBS e a CBS, que compartilham os mesmos fatos geradores, bases de cálculo, hipóteses de não incidência, sujeitos passivos, imunidades, r",
+          "data_publicacao": "Wed, 25 Mar 2026 11:00:12 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
