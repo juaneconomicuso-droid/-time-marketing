@@ -1,0 +1,68 @@
+{
+  "data_consolidacao": "2026-03-26T11:53:49.073268",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Juíza federal suspende adicional de 10% no IRPJ e na CSLL a advogados paulistas",
+          "link": "https://www.jota.info/tributos/juiza-federal-suspende-adicional-de-10-no-irpj-e-na-csll-a-advogados-paulistas",
+          "resumo": "Magistrada vê desvio de finalidade na LC 224 e afasta majoração da base tributária no lucro presumido",
+          "data_publicacao": "Thu, 26 Mar 2026 10:25:13 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "PEC dos servidores de ex-territórios ressuscita com impasse sobre alcance e impacto fiscal",
+          "link": "https://www.jota.info/legislativo/pec-dos-servidores-de-ex-territorios-ressuscita-com-impasse-sobre-alcance-e-impacto-fiscal",
+          "resumo": "Projeto apoiado sobretudo pelas bancadas do Norte tem resistência do governo; proposta deve incluir mais de 30 mil servidores",
+          "data_publicacao": "Wed, 25 Mar 2026 18:47:19 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Lucro presumido, benefício fiscal e o teto arrecadatório implícito",
+          "link": "https://www.conjur.com.br/2026-mar-25/lucro-presumido-beneficio-fiscal-e-o-teto-arrecadatorio-implicito/",
+          "resumo": "Um dos debates suscitados pela recente Lei Complementar nº 224/2025 diz respeito à forma como o legislador passou a qualificar o regime de tributação pelo lucro presumido. A nova legislação incluiu expressamente esse regime no conjunto dos incentivos e benefícios tributários federais, tratando-o com",
+          "data_publicacao": "Thu, 26 Mar 2026 00:36:37 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
