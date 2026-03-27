@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-03-27T11:44:55.058765",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Estado de São Paulo terá cadastro fiscal positivo e sistema único de certidões",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-barbara-mengardo/estado-de-sao-paulo-tera-cadastro-fiscal-positivo-e-sistema-unico-de-certidoes",
+          "resumo": "Iniciativa seria similar ao programa paulista Nos Conformes; PGE-SP e Sefaz-SP também irão unificar sistemas",
+          "data_publicacao": "Fri, 27 Mar 2026 10:00:46 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf admite retroatividade do conceito de praça como município para IPI",
+          "link": "https://www.jota.info/tributos/carf-admite-retroatividade-do-conceito-de-praca-como-municipio-para-ipi",
+          "resumo": "Decisão considera que a Lei que define praça não altera a norma e deve alcançar fatos anteriores à sua vigência",
+          "data_publicacao": "Fri, 27 Mar 2026 09:48:14 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Municípios devem se preparar para mudanças na distribuição do IBS",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/municipios-devem-se-preparar-para-mudancas-na-distribuicao-do-ibs",
+          "resumo": "Transição entre o modelo atual e o novo sistema será decisiva",
+          "data_publicacao": "Fri, 27 Mar 2026 08:15:35 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Ser sócio-administrador não implica culpa em crime tributário",
+          "link": "https://www.conjur.com.br/2026-mar-27/ser-socio-administrador-nao-basta-para-condenar-por-crime-tributario/",
+          "resumo": "Exercer a posição de sócio-administrador de uma empresa não é suficiente para que se presuma a sua autoria de crime tributário, sendo necessária a comprovação de condutas concretas que vinculem o acusado à prática delitiva. Com esse entendimento, a 2ª Câmara Criminal do Tribunal de Justiça do Paraná",
+          "data_publicacao": "Fri, 27 Mar 2026 10:52:36 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
