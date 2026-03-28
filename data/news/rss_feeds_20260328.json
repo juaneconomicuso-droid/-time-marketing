@@ -1,0 +1,46 @@
+{
+  "data_busca": "2026-03-28T11:33:02.883639",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta multas em cobrança de CSLL de empresa com decisão judicial garantindo imunidade",
+          "link": "https://www.jota.info/tributos/carf-afasta-multas-em-cobranca-de-csll-de-empresa-com-decisao-judicial-garantindo-imunidade",
+          "resumo": "Para os conselheiros, decisões do TRF4, válidas desde 2016 e reafirmadas em 2019, geravam justa expectativa",
+          "data_publicacao": "Sat, 28 Mar 2026 10:11:28 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Impacto do critério de desempate em decisões do Carf sobre planejamento tributário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/impacto-do-criterio-de-desempate-em-decisoes-do-carf-sobre-planejamento-tributario",
+          "resumo": "Influência do instrumento é diferente em casos interpretativos e em casos fáticos",
+          "data_publicacao": "Sat, 28 Mar 2026 08:30:23 +0000",
+          "palavras_chave": [
+            "CARF",
+            "planejamento",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
