@@ -1,0 +1,106 @@
+{
+  "data_consolidacao": "2026-03-29T11:34:00.399316",
+  "total_fontes": 7,
+  "total_noticias": 7,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém IRRF sobre aquisição de software de empresa irlandesa para revenda",
+          "link": "https://www.jota.info/tributos/carf-mantem-irrf-sobre-aquisicao-de-software-de-empresa-irlandesa-para-revenda",
+          "resumo": "Segundo colegiado, negociação envolvendo a Dell configura contrato de comercialização e distribuição",
+          "data_publicacao": "Sun, 29 Mar 2026 09:54:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Caducidade da Enel não resolve desafios impostos pelo clima",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/caducidade-da-enel-nao-resolve-desafios-impostos-pelo-clima",
+          "resumo": "Modernização depende de diálogo técnico que considere incentivos regulatórios adequados e protocolos que melhorem resiliência do serviço",
+          "data_publicacao": "Sun, 29 Mar 2026 08:30:46 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf afasta multas em cobrança de CSLL de empresa com decisão judicial garantindo imunidade",
+          "link": "https://www.jota.info/tributos/carf-afasta-multas-em-cobranca-de-csll-de-empresa-com-decisao-judicial-garantindo-imunidade",
+          "resumo": "Para os conselheiros, decisões do TRF4, válidas desde 2016 e reafirmadas em 2019, geravam justa expectativa",
+          "data_publicacao": "Sat, 28 Mar 2026 10:11:28 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Impacto do critério de desempate em decisões do Carf sobre planejamento tributário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/impacto-do-criterio-de-desempate-em-decisoes-do-carf-sobre-planejamento-tributario",
+          "resumo": "Influência do instrumento é diferente em casos interpretativos e em casos fáticos",
+          "data_publicacao": "Sat, 28 Mar 2026 08:30:23 +0000",
+          "palavras_chave": [
+            "CARF",
+            "planejamento",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "A prova pericial e o contencioso administrativo fiscal paulista",
+          "link": "https://www.conjur.com.br/2026-mar-29/a-prova-pericial-e-o-contencioso-administrativo-fiscal-paulista/",
+          "resumo": "O contencioso fiscal em São Paulo é regido pela Lei Estadual nº 13.457/2009. Nela, não há enunciado que expressamente autorize a produção de prova pericial. Porém, não é necessário que haja menção direta ao instituto para que ele seja devidamente utilizado no processo administrativo tributário pauli",
+          "data_publicacao": "Sun, 29 Mar 2026 11:00:38 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "O enigma entre operações e fornecimento na reforma tributária",
+          "link": "https://www.conjur.com.br/2026-mar-29/o-enigma-entre-operacoes-e-fornecimento-na-reforma-tributaria/",
+          "resumo": "Ao analisar a Lei Complementar nº 214/2015 do ponto de vista linguístico, evidencia-se não apenas a existência de uma dificuldade interpretativa pontual, mas uma fragilidade estrutural na própria formulação de seus conceitos fundamentais sobretudo no que tange à relação entre os termos operações e f",
+          "data_publicacao": "Sun, 29 Mar 2026 10:00:53 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Sistema de três células possibilita fraude ao planejamento sucessório",
+          "link": "https://www.conjur.com.br/2026-mar-29/sistema-de-tres-celulas-possibilita-fraude-ao-planejamento-sucessorio/",
+          "resumo": "A Emenda Constitucional nº 132, de 2023, produziu uma reconfiguração do Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) que vai além da imposição da progressividade. Em conjunto com a Lei Complementar 227/26, ampliaram-se as hipóteses de incidência para abarcar heranças provenientes do exter",
+          "data_publicacao": "Sun, 29 Mar 2026 09:36:16 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
