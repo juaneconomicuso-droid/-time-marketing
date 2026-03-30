@@ -1,0 +1,116 @@
+{
+  "data_consolidacao": "2026-03-30T11:55:49.279351",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Precedentes tributários, IA e independência da magistratura",
+          "link": "https://www.jota.info/coberturas-especiais/jurisprudente/precedentes-tributarios-ia-e-independencia-da-magistratura",
+          "resumo": "Desafio não é resistir à tecnologia, mas garantir segurança jurídica, independência do magistrado e confiança no Judiciário",
+          "data_publicacao": "Mon, 30 Mar 2026 10:00:10 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "É devido IRPF em ganho de capital com incentivos fiscais na alienação de ações, diz Carf",
+          "link": "https://www.jota.info/tributos/e-devido-irpf-em-ganho-de-capital-com-incentivos-fiscais-na-alienacao-de-acoes-diz-carf",
+          "resumo": "Por voto de qualidade, Carf decide que incentivos fiscais capitalizados não podem integrar o custo de aquisição para fins de IRPF",
+          "data_publicacao": "Mon, 30 Mar 2026 09:31:24 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "Carf mantém IRRF sobre aquisição de software de empresa irlandesa para revenda",
+          "link": "https://www.jota.info/tributos/carf-mantem-irrf-sobre-aquisicao-de-software-de-empresa-irlandesa-para-revenda",
+          "resumo": "Segundo colegiado, negociação envolvendo a Dell configura contrato de comercialização e distribuição",
+          "data_publicacao": "Sun, 29 Mar 2026 09:54:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Caducidade da Enel não resolve desafios impostos pelo clima",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/caducidade-da-enel-nao-resolve-desafios-impostos-pelo-clima",
+          "resumo": "Modernização depende de diálogo técnico que considere incentivos regulatórios adequados e protocolos que melhorem resiliência do serviço",
+          "data_publicacao": "Sun, 29 Mar 2026 08:30:46 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf afasta multas em cobrança de CSLL de empresa com decisão judicial garantindo imunidade",
+          "link": "https://www.jota.info/tributos/carf-afasta-multas-em-cobranca-de-csll-de-empresa-com-decisao-judicial-garantindo-imunidade",
+          "resumo": "Para os conselheiros, decisões do TRF4, válidas desde 2016 e reafirmadas em 2019, geravam justa expectativa",
+          "data_publicacao": "Sat, 28 Mar 2026 10:11:28 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Impacto do critério de desempate em decisões do Carf sobre planejamento tributário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/impacto-do-criterio-de-desempate-em-decisoes-do-carf-sobre-planejamento-tributario",
+          "resumo": "Influência do instrumento é diferente em casos interpretativos e em casos fáticos",
+          "data_publicacao": "Sat, 28 Mar 2026 08:30:23 +0000",
+          "palavras_chave": [
+            "CARF",
+            "planejamento",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Código Tributário Nacional completa 60 anos. Parabéns para quem?",
+          "link": "https://www.conjur.com.br/2026-mar-30/codigo-tributario-nacional-completa-60-anos-parabens-para-quem/",
+          "resumo": "Em outubro de 2026, o Código Tributário Nacional (CTN) completará 60 anos. Editado sob a égide da Constituição de 1946, reformada pela EC 18/1965 (EC 18), recepcionado com reserva de lei complementar pela Constituição de 1967 e mantido nessa condição pela Constituição de 1988, o CTN atravessou mais ",
+          "data_publicacao": "Mon, 30 Mar 2026 11:00:49 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Inaplicabilidade da LC 224/2025 ao Funrural: distinção entre benefício fiscal e critério de incidência",
+          "link": "https://www.conjur.com.br/2026-mar-30/inaplicabilidade-da-lc-224-2025-ao-funrural-distincao-entre-beneficio-fiscal-e-criterio-de-incidencia/",
+          "resumo": "A Lei Complementar nº 224, publicada em 26 de dezembro de 2025, instituiu um mecanismo de redução linear de benefícios e incentivos fiscais federais, com o objetivo explícito de recompor a base arrecadatória da União a partir de 2026. Essa norma, de caráter excepcional e restritivo, restringe renúnc",
+          "data_publicacao": "Mon, 30 Mar 2026 10:02:38 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
