@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-04-01T11:55:16.223897",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf regulamenta uso de inteligência artificial na formalização de votos",
+          "link": "https://www.jota.info/tributos/carf-regulamenta-uso-de-inteligencia-artificial-na-formalizacao-de-votos",
+          "resumo": "Portaria prevê revisão obrigatória e apuração de responsabilidade administrativa em caso de uso indevido",
+          "data_publicacao": "Wed, 01 Apr 2026 09:16:31 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Evento discute o papel do Comitê Gestor do IBS na reforma tributária",
+          "link": "https://www.jota.info/casa-jota/evento-discute-o-papel-do-comite-gestor-do-ibs-na-reforma-tributaria",
+          "resumo": "Especialistas analisam governança, riscos e a cooperação entre estados e municípios no novo sistema",
+          "data_publicacao": "Tue, 31 Mar 2026 17:53:26 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
