@@ -1,0 +1,58 @@
+{
+  "data_consolidacao": "2026-04-02T11:51:10.596393",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "A reforma tributária e seus impactos sobre o mercado de apostas no Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/a-reforma-tributaria-e-seus-impactos-sobre-o-mercado-de-apostas-no-brasil",
+          "resumo": "Carga fiscal, imposto seletivo e o mercado preditivo",
+          "data_publicacao": "Thu, 02 Apr 2026 08:30:43 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Os destaques da pauta de abril e maio no STF: Reforma tributária, eleições no RJ e Ferrogrão",
+          "link": "https://www.jota.info/stf/do-supremo/os-destaques-da-pauta-de-abril-e-maio-no-stf-reforma-tributaria-eleicoes-no-rj-e-ferrograo",
+          "resumo": "Os ministros também poderão julgar casos sobre igualdade salarial, relatórios do Coaf, mínimo existencial e outros temas",
+          "data_publicacao": "Wed, 01 Apr 2026 14:29:43 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
