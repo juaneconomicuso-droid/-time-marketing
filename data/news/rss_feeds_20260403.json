@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-04-03T11:40:41.995635",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf decide afastar parte de autuação de R$1 bilhão sobre regras de preço de transferência",
+          "link": "https://www.jota.info/tributos/carf-decide-afastar-parte-de-autuacao-de-r1-bilhao-sobre-regras-de-preco-de-transferencia",
+          "resumo": "Conselho mantém afastada cobrança de IRPJ e CSLL em caso envolvendo afretamento de plataformas da Petrobrás",
+          "data_publicacao": "Fri, 03 Apr 2026 09:53:04 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "São João: entre a tradição e a Lei de Responsabilidade Fiscal",
+          "link": "https://www.conjur.com.br/2026-abr-02/sao-joao-e-responsabilidade-entre-tradicao-e-lei-de-responsabilidade-fiscal/",
+          "resumo": "As Festas Juninas estão entre as maiores expressões culturais do Brasil, especialmente no Nordeste, Mais do que tradição, elas movimentam a economia, fortalecem o turismo e geram renda. Ao longo do tempo, aquilo que antes se restringia a celebrações comunitárias ganhou escala institucional, passando",
+          "data_publicacao": "Fri, 03 Apr 2026 00:45:34 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
