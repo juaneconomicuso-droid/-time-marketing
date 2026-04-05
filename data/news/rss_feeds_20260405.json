@@ -1,0 +1,62 @@
+{
+  "data_busca": "2026-04-05T11:34:53.277879",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf decide manter dedução de juros de empréstimo para pagar dividendos a credores",
+          "link": "https://www.jota.info/tributos/carf-decide-manter-deducao-de-juros-de-emprestimo-para-pagar-dividendos-a-credores",
+          "resumo": "Fiscalização havia negado deduções ao interpretar que os juros não seriam despesas necessárias para a manutenção das atividades da Enel",
+          "data_publicacao": "Sun, 05 Apr 2026 09:50:50 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Quando a coerência vira controle: o risco de engessamento do contencioso do IBS",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/quando-a-coerencia-vira-controle-o-risco-de-engessamento-do-contencioso-do-ibs",
+          "resumo": "Problema real não é uniformização (legítima e necessária), mas quem a controla e sob qual arquitetura de poder ela opera",
+          "data_publicacao": "Sun, 05 Apr 2026 08:30:22 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "Fiscalização parlamentar em hospitais: limites constitucionais e riscos institucionais",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/fiscalizacao-parlamentar-em-hospitais-limites-constitucionais-e-riscos-institucionais",
+          "resumo": "Intervenções políticas sem respaldo institucional formal no setor de saúde assumem contornos midiáticos e intimidatórios",
+          "data_publicacao": "Sat, 04 Apr 2026 08:20:33 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf decide afastar parte de autuação de R$1 bilhão sobre regras de preço de transferência",
+          "link": "https://www.jota.info/tributos/carf-decide-afastar-parte-de-autuacao-de-r1-bilhao-sobre-regras-de-preco-de-transferencia",
+          "resumo": "Conselho mantém afastada cobrança de IRPJ e CSLL em caso envolvendo afretamento de plataformas da Petrobrás",
+          "data_publicacao": "Fri, 03 Apr 2026 09:53:04 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
