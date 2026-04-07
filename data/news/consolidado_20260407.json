@@ -1,0 +1,86 @@
+{
+  "data_consolidacao": "2026-04-07T11:56:05.872780",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Royalties pagos a empresa não sócia do mesmo grupo são dedutíveis, decide Carf",
+          "link": "https://www.jota.info/tributos/royalties-pagos-a-empresa-nao-socia-do-mesmo-grupo-sao-dedutiveis-decide-carf",
+          "resumo": "Conselho decidiu que valores podem ser abatidos da base de cálculo do IRPJ e da CSLL",
+          "data_publicacao": "Tue, 07 Apr 2026 09:35:35 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Bem-vindo, Comitê Gestor do IBS: a reforma tributária como arquitetura de sentido no Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/bem-vindo-comite-gestor-do-ibs-a-reforma-tributaria-como-arquitetura-de-sentido-no-brasil",
+          "resumo": "Está em curso uma transformação estrutural da forma como o Direito brasileiro constrói a própria realidade econômica",
+          "data_publicacao": "Tue, 07 Apr 2026 09:07:07 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "Entre planejamento e inovação: a estratégia chinesa para liderança global",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/gestao-politica-sociedade/entre-planejamento-e-inovacao-a-estrategia-chinesa-para-lideranca-global",
+          "resumo": "Nova fase do planejamento estatal chinês combina inovação tecnológica, política industrial e transição verde",
+          "data_publicacao": "Tue, 07 Apr 2026 08:00:48 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        },
+        {
+          "titulo": "Corte IDH condena Nicarágua por agressões contra fiscal eleitoral",
+          "link": "https://www.jota.info/coberturas-especiais/direitos-humanos/corte-idh-condena-nicaragua-por-agressoes-contra-fiscal-eleitoral",
+          "resumo": "Decisão amplia proteção a observadores e reconhece esses agentes como defensores de direitos humanos",
+          "data_publicacao": "Mon, 06 Apr 2026 23:31:40 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Simplificação e progressividade na reforma tributária preocupam especialistas",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/simplificacao-e-progressividade-na-reforma-tributaria-preocupam-especialistas",
+          "resumo": "Primeira rodada do Pulso da Reforma, iniciativa do JOTA, indica cautela e preocupações com implementação do novo sistema",
+          "data_publicacao": "Mon, 06 Apr 2026 19:32:11 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
