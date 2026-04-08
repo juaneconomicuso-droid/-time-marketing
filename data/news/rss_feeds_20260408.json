@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-04-08T11:57:04.582624",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf responsabiliza plataforma de pagamento por transações de empresas envolvidas em fraude",
+          "link": "https://www.jota.info/tributos/carf-responsabiliza-plataforma-de-pagamento-por-transacoes-de-empresas-envolvidas-em-fraude",
+          "resumo": "Conselho decide que Mercado Pago deve responder por pagamentos sem causa e pela recusa em fornecer dados à fiscalização",
+          "data_publicacao": "Wed, 08 Apr 2026 09:22:32 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O controle externo do Comitê Gestor do IBS na LC 227",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-controle-externo-do-comite-gestor-do-ibs-na-lc-227",
+          "resumo": "Arquitetura promissora ou arranjo fadado ao fracasso?",
+          "data_publicacao": "Wed, 08 Apr 2026 08:20:26 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
