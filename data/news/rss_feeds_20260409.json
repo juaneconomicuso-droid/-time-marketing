@@ -1,0 +1,81 @@
+{
+  "data_busca": "2026-04-09T11:57:20.603801",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf reconhece mudança de critério jurídico e mantém dedutibilidade de ágio em oferta pública",
+          "link": "https://www.jota.info/tributos/carf-reconhece-mudanca-de-criterio-juridico-e-mantem-dedutibilidade-de-agio-em-oferta-publica",
+          "resumo": "Caso trata da amortização de ágio gerado em oferta pública de aquisição (OPA) para o fechamento de capital da Redecard",
+          "data_publicacao": "Thu, 09 Apr 2026 10:09:56 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "STJ valida greve de auditores já encerrada, mas mantém multa por suspensão no Carf",
+          "link": "https://www.jota.info/justica/stj-valida-greve-de-auditores-ja-encerrada-mas-mantem-multa-por-suspensao-no-carf",
+          "resumo": "Corte afasta desconto dos dias parados e reconhece falha da União na regulamentação do bônus de eficiência",
+          "data_publicacao": "Thu, 09 Apr 2026 09:17:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Cashback tributário e seus desafios: o que a experiência gaúcha ensina ao Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/cashback-tributario-e-seus-desafios-o-que-a-experiencia-gaucha-ensina-ao-brasil",
+          "resumo": "Programa oferece modelo para implementação do cashback nacional previsto na reforma tributária",
+          "data_publicacao": "Thu, 09 Apr 2026 08:30:47 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Fiscalizar a educação é garantir que o futuro aconteça no tempo certo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/fiscalizar-a-educacao-e-garantir-que-o-futuro-aconteca-no-tempo-certo",
+          "resumo": "No complexo ecossistema educacional, sucesso de uma política pública não está no empenho orçamentário",
+          "data_publicacao": "Thu, 09 Apr 2026 08:00:28 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "O Comitê Gestor do IBS e a virada histórica do federalismo brasileiro",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-comite-gestor-do-ibs-e-a-virada-historica-do-federalismo-brasileiro",
+          "resumo": "Centralização do comitê tende a diminuir litígios, reduzir custos de conformidade e melhorar o ambiente de negócios",
+          "data_publicacao": "Thu, 09 Apr 2026 04:28:53 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Execução fiscal e honorários: distinguishing necessário no Tema 1.229 do STJ",
+          "link": "https://www.conjur.com.br/2026-abr-09/execucao-fiscal-e-honorarios-distinguishing-necessario-no-tema-1-229-do-stj/",
+          "resumo": "Freepik Em 2024, o Superior Tribunal de Justiça julgou o Tema Repetitivo 1.229, afirmando que não caberia a fixação de honorários advocatícios quando uma exceção de pré-executividade é acolhida para extinguir a execução fiscal devido ao reconhecimento da prescrição intercorrente, nos termos do artig",
+          "data_publicacao": "Thu, 09 Apr 2026 09:39:15 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
