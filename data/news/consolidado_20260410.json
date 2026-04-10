@@ -1,0 +1,49 @@
+{
+  "data_consolidacao": "2026-04-10T11:52:05.718437",
+  "total_fontes": 7,
+  "total_noticias": 1,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Carf reconhece retroatividade do conceito de praça no cálculo de IPI",
+          "link": "https://www.conjur.com.br/2026-abr-10/carf-reconhece-retroatividade-do-conceito-de-praca-no-calculo-de-ipi/",
+          "resumo": "Em um país de extensão continental como o Brasil, a utilização de centros de distribuição costuma ser um movimento indispensável às empresas industriais que pretendem ser mais competitivas em determinadas regiões. Ao adotar essa estrutura, a empresa tem ganho de escala em seus gastos logísticos e, e",
+          "data_publicacao": "Fri, 10 Apr 2026 10:01:53 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
