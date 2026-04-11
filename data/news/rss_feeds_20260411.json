@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-04-11T11:35:47.656830",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Ministra do STJ lança 16ª edição do livro Curso de Direito Tributário",
+          "link": "https://www.jota.info/tributos/ministra-do-stj-lanca-16a-edicao-do-livro-curso-de-direito-tributario",
+          "resumo": "Obra da ministra Regina Helena Costa analisa o direito tributário por uma abordagem constitucional e foco em direitos fundamentais",
+          "data_publicacao": "Fri, 10 Apr 2026 19:26:49 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
