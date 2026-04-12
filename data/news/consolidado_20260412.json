@@ -1,0 +1,77 @@
+{
+  "data_consolidacao": "2026-04-12T11:37:54.830271",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta contribuições a terceiros aplicadas a indenização por perda de estabilidade",
+          "link": "https://www.jota.info/tributos/carf-afasta-contribuicoes-a-terceiros-aplicadas-a-indenizacao-por-perda-de-estabilidade",
+          "resumo": "No entendimento dos conselheiros, pagamentos indenizatórios por justa causa não integram base de cálculo",
+          "data_publicacao": "Sun, 12 Apr 2026 09:01:16 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A institucionalização da inteligência artificial no Carf",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/a-institucionalizacao-da-inteligencia-artificial-no-carf",
+          "resumo": "Adoção de IA no órgão levanta debates sobre transparência, curadoria de dados e autonomia decisória",
+          "data_publicacao": "Sun, 12 Apr 2026 08:30:35 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Da beligerância à cooperação: melhor saída para o contencioso tributário",
+          "link": "https://www.conjur.com.br/2026-abr-12/da-beligerancia-a-cooperacao-a-melhor-saida-para-o-contencioso-tributario/",
+          "resumo": "Historicamente, a relação entre Fisco e contribuintes tem se estruturado sob uma lógica de enfrentamento e desconfiança recíproca. O fisco atua como ente punitivo e o contribuinte como potencial devedor ou sonegador, instaurando um ambiente de tensão permanente que alimenta elevados índices de litig",
+          "data_publicacao": "Sun, 12 Apr 2026 10:34:44 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "ITBI em leilões imobiliários: antecipação do tributo como distorção econômica e jurídica",
+          "link": "https://www.conjur.com.br/2026-abr-11/itbi-em-leiloes-imobiliarios-antecipacao-do-tributo-como-distorcao-economica-e-juridica/",
+          "resumo": "O debate sobre a incidência do Imposto sobre a Transmissão de Bens Imóveis (ITBI) nas arrematações judiciais e extrajudiciais ganhou relevância renovada diante da reforma tributária e da expansão do mercado de leilões imobiliários. No entanto, a controvérsia não se limita à definição do momento do f",
+          "data_publicacao": "Sat, 11 Apr 2026 20:26:11 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
