@@ -1,0 +1,105 @@
+{
+  "data_consolidacao": "2026-04-13T12:06:42.220583",
+  "total_fontes": 7,
+  "total_noticias": 7,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STJ decidirá em repetitivo redução de IRPJ e CSLL para serviços odontológicos",
+          "link": "https://www.jota.info/tributos/stj-decidira-em-repetitivo-reducao-de-irpj-e-csll-para-servicos-odontologicos",
+          "resumo": "Entre outros temas, 1ª Seção também julgará prazo prescricional para compensação de créditos tributários",
+          "data_publicacao": "Mon, 13 Apr 2026 09:46:21 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "O IBS, a CBS e as receitas dos ativos garantidores das reservas técnicas",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/o-ibs-a-cbs-e-as-receitas-dos-ativos-garantidores-das-reservas-tecnicas",
+          "resumo": "Resultado de julgamento no STF não eliminará totalmente controvérsias existentes",
+          "data_publicacao": "Mon, 13 Apr 2026 08:45:06 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O caso imatinibe: ressarcimento bilionário e lições para a reforma das PDPs",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-caso-imatinibe-ressarcimento-bilionario-e-licoes-para-a-reforma-das-pdps",
+          "resumo": "Ação Popular pode ser também um mecanismo catalisador de reformas estruturais de políticas públicas complexas",
+          "data_publicacao": "Mon, 13 Apr 2026 08:30:49 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "IRPF 2026: a declaração como plataforma de conformidade",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/irpf-2026-a-declaracao-como-plataforma-de-conformidade",
+          "resumo": "Se bem implementadas, inovações podem ser passo importante na transição para um modelo baseado na promoção da conformidade fiscal",
+          "data_publicacao": "Mon, 13 Apr 2026 08:00:06 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "Carf afasta contribuições a terceiros aplicadas a indenização por perda de estabilidade",
+          "link": "https://www.jota.info/tributos/carf-afasta-contribuicoes-a-terceiros-aplicadas-a-indenizacao-por-perda-de-estabilidade",
+          "resumo": "No entendimento dos conselheiros, pagamentos indenizatórios por justa causa não integram base de cálculo",
+          "data_publicacao": "Sun, 12 Apr 2026 09:01:16 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A institucionalização da inteligência artificial no Carf",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/a-institucionalizacao-da-inteligencia-artificial-no-carf",
+          "resumo": "Adoção de IA no órgão levanta debates sobre transparência, curadoria de dados e autonomia decisória",
+          "data_publicacao": "Sun, 12 Apr 2026 08:30:35 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Dimensões funcionais: o que se exige de um sistema tributário justo",
+          "link": "https://www.conjur.com.br/2026-abr-13/dimensoes-funcionais-o-que-se-exige-de-um-sistema-tributario-justo/",
+          "resumo": "Na coluna anterior (aqui), propus uma classificação das dimensões da justiça tributária e tratei das seis primeiras, agrupadas sob a designação de dimensões defensivas. Como antecipei ao final daquele texto, essa face defensiva não esgota o conteúdo da justiça tributária. Spacca Um sistema tributári",
+          "data_publicacao": "Mon, 13 Apr 2026 11:00:34 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
