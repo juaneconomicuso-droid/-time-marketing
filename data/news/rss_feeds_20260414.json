@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-04-14T12:00:20.848339",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Comitê Gestor do IBS e o peso de um poder sem precedentes: governança não é opcional",
+          "link": "https://www.conjur.com.br/2026-abr-14/comite-gestor-do-ibs-e-o-peso-de-um-poder-sem-precedentes-governanca-nao-e-opcional/",
+          "resumo": "No último dia 7 de abril, no Salão Negro do Congresso, tomou posse o primeiro presidente efetivo do Comitê Gestor do Imposto sobre Bens e Serviços — o CG-IBS. Flávio César de Oliveira, secretário de Fazenda de Mato Grosso do Sul e presidente do Comsefaz (Comitê Nacional de Secretarias Estaduais de F",
+          "data_publicacao": "Tue, 14 Apr 2026 09:32:13 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
