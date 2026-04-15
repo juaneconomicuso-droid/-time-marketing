@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-04-15T11:57:39.839838",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf permite créditos de PIS/Cofins sobre patrocínio da Visa nos Jogos Olímpicos",
+          "link": "https://www.jota.info/tributos/carf-permite-creditos-de-pis-cofins-sobre-patrocinio-da-visa-nos-jogos-olimpicos",
+          "resumo": "Gastos podem ser considerados insumos por estarem diretamente ligados aos serviços prestados pela empresa, entenderam conselheiros",
+          "data_publicacao": "Wed, 15 Apr 2026 09:23:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Quando a reforma tributária fala, em que língua ela fala?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quando-a-reforma-tributaria-fala-em-que-lingua-ela-fala",
+          "resumo": "Mudanças na linguagem jurídica podem redefinir alcance da tributação no novo sistema",
+          "data_publicacao": "Wed, 15 Apr 2026 08:10:28 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
