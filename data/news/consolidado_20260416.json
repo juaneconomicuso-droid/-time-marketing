@@ -1,0 +1,78 @@
+{
+  "data_consolidacao": "2026-04-16T12:00:36.905644",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STJ afasta cobrança de IPI contra Ambev e reforma acórdão do TRF2",
+          "link": "https://www.jota.info/tributos/stj-afasta-cobranca-de-ipi-contra-ambev-e-reforma-acordao-do-trf2",
+          "resumo": "Fabricante de bebidas já havia depositado os valores por ordem judicial, depois levantados por distribuidoras",
+          "data_publicacao": "Thu, 16 Apr 2026 09:39:13 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "O que esperar do contencioso de CBS e IBS",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/o-que-esperar-do-contencioso-de-cbs-e-ibs",
+          "resumo": "Avanços, assimetrias e riscos de litigiosidade no novo modelo da tributação do consumo",
+          "data_publicacao": "Thu, 16 Apr 2026 08:45:54 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "O contencioso judicial na reforma tributária",
+          "link": "https://www.conjur.com.br/2026-abr-16/o-contencioso-judicial-na-reforma-tributaria/",
+          "resumo": "A reforma da tributação do consumo aprovada pela Emenda Constitucional nº 132/23 representa uma das mais profundas transformações já promovidas no sistema tributário brasileiro desde a EC 18/65. Spacca O modelo anterior, marcado pela coexistência de múltiplos tributos indiretos administrados por dif",
+          "data_publicacao": "Thu, 16 Apr 2026 11:00:27 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Fiança na reforma do Código Civil: aumento da proteção jurídica conferida ao fiador",
+          "link": "https://www.conjur.com.br/2026-abr-16/a-reforma-do-codigo-civil-e-seus-impactos-na-fianca-aumento-da-protecao-juridica-conferida-ao-fiador/",
+          "resumo": "O chamado anteprojeto do “novo Código Civil”, que visa a atualizar grande parte dos artigos do atual diploma (Lei 10.406 de 2002), foi convertido no Projeto de Lei n° 4 de 2025 em fevereiro de 2025 e, atualmente, encontra-se em trâmite no Senado, em fase de apresentação de emendas. Spacca No tratame",
+          "data_publicacao": "Thu, 16 Apr 2026 09:02:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
