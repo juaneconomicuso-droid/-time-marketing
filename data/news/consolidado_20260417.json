@@ -1,0 +1,39 @@
+{
+  "data_consolidacao": "2026-04-17T11:54:41.355154",
+  "total_fontes": 7,
+  "total_noticias": 0,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
