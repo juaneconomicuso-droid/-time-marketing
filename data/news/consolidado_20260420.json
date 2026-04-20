@@ -1,0 +1,85 @@
+{
+  "data_consolidacao": "2026-04-20T12:07:56.660076",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma Tributária deve impulsionar ainda mais times a virarem SAFs, dizem analistas",
+          "link": "https://www.jota.info/tributos/reforma-tributaria-deve-impulsionar-ainda-mais-times-a-virarem-safs-dizem-analistas",
+          "resumo": "Clubes associativos pagarão cerca de 10 p.p. a mais de impostos do que as Sociedades Anônimas de Futebol",
+          "data_publicacao": "Mon, 20 Apr 2026 10:30:10 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Governança orçamentária do imposto seletivo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/governanca-orcamentaria-do-imposto-seletivo",
+          "resumo": "Entre a finalidade extrafiscal e a captura política",
+          "data_publicacao": "Mon, 20 Apr 2026 08:50:55 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "A advocacia pública e a reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/advogadas-publicas-em-debate/a-advocacia-publica-e-a-reforma-tributaria",
+          "resumo": "Novos desafios e o necessário protagonismo na implementação da reforma",
+          "data_publicacao": "Mon, 20 Apr 2026 08:30:32 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf mantém incentivo da Sudene para transporte de gás para área não beneficiada",
+          "link": "https://www.jota.info/tributos/carf-mantem-incentivo-da-sudene-para-transporte-de-gas-para-area-nao-beneficiada",
+          "resumo": "Empresa comprovou o exercício das atividades em Alagoas, onde possui direito ao incentivo",
+          "data_publicacao": "Sun, 19 Apr 2026 09:06:23 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Carf considera legítima amortização de ágio com uso de empresa veículo",
+          "link": "https://www.jota.info/tributos/carf-considera-legitima-amortizacao-de-agio-com-uso-de-empresa-veiculo",
+          "resumo": "Conselho liberou que Vigor Alimentos S.A amortize o ágio gerado na venda de suas ações pela JBS",
+          "data_publicacao": "Sat, 18 Apr 2026 09:46:19 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
