@@ -1,0 +1,115 @@
+{
+  "data_consolidacao": "2026-04-21T12:01:46.355693",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Receita antecipa adesão ao Simples Nacional em 2027 para viabilizar transição ao IBS e à CBS",
+          "link": "https://www.jota.info/tributos/receita-antecipa-adesao-ao-simples-nacional-em-2027-para-viabilizar-transicao-ao-ibs-e-a-cbs",
+          "resumo": "Segundo tributaristas, novo calendário antecipa decisões e exige adaptação rápida das empresas",
+          "data_publicacao": "Tue, 21 Apr 2026 10:17:18 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Quem responde à consulta tributária do IBS e da CBS?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quem-responde-a-consulta-tributaria-do-ibs-e-da-cbs",
+          "resumo": "Reforma substituiu imagem da consulta como resposta unilateral por uma lógica de resposta institucionalmente compartilhada",
+          "data_publicacao": "Tue, 21 Apr 2026 08:25:27 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Partilha de valorização de empresas na reforma do Código Civil gera insegurança jurídica",
+          "link": "https://www.jota.info/coberturas-especiais/jurisprudente/partilha-de-valorizacao-de-empresas-na-reforma-do-codigo-civil-gera-inseguranca-juridica",
+          "resumo": "Mudança inclui negócios criados antes da união, o que pode tornar a separação mais complexa e impactar empresas",
+          "data_publicacao": "Mon, 20 Apr 2026 13:24:19 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária deve impulsionar ainda mais times a virarem SAFs, dizem analistas",
+          "link": "https://www.jota.info/tributos/reforma-tributaria-deve-impulsionar-ainda-mais-times-a-virarem-safs-dizem-analistas",
+          "resumo": "Clubes associativos pagarão cerca de 10 p.p. a mais de impostos do que as Sociedades Anônimas de Futebol",
+          "data_publicacao": "Mon, 20 Apr 2026 10:30:10 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Governança orçamentária do imposto seletivo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/governanca-orcamentaria-do-imposto-seletivo",
+          "resumo": "Entre a finalidade extrafiscal e a captura política",
+          "data_publicacao": "Mon, 20 Apr 2026 08:50:55 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "A advocacia pública e a reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/advogadas-publicas-em-debate/a-advocacia-publica-e-a-reforma-tributaria",
+          "resumo": "Novos desafios e o necessário protagonismo na implementação da reforma",
+          "data_publicacao": "Mon, 20 Apr 2026 08:30:32 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Responsabilidade criminal por ilícito fiscal exige prova de conduta dolosa",
+          "link": "https://www.conjur.com.br/2026-abr-21/crime-fiscal-depende-de-dolo-em-fraudar-o-fisco-afirma-tj-sp/",
+          "resumo": "Não cabe confundir a responsabilidade tributária administrativa com a responsabilidade criminal por ilícitos fiscais. A conclusão é da 11ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo. O colegiado manteve a absolvição de um acusado de sonegação fiscal, reforçando a necessidade de p",
+          "data_publicacao": "Tue, 21 Apr 2026 11:23:56 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Lucro presumido não é benefício fiscal: o problema jurídico aberto pela LC 224/2025",
+          "link": "https://www.conjur.com.br/2026-abr-21/lucro-presumido-nao-e-beneficio-fiscal-o-problema-juridico-aberto-pela-lc-224-2025/",
+          "resumo": "A Lei Complementar 224/2025 promoveu uma alteração sensível na tributação das pessoas jurídicas submetidas ao lucro presumido. Ao prever o acréscimo de 10% nos percentuais de presunção do IRPJ e da CSLL sobre a parcela da receita bruta anual que exceder R$ 5 milhões, a norma passou a interferir dire",
+          "data_publicacao": "Tue, 21 Apr 2026 09:30:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
