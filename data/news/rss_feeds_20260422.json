@@ -1,0 +1,102 @@
+{
+  "data_busca": "2026-04-22T12:00:58.732213",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STJ garante acesso ao Reintegra para setor naval e exige regularidade fiscal",
+          "link": "https://www.jota.info/tributos/stj-garante-acesso-ao-reintegra-para-setor-naval-e-exige-regularidade-fiscal",
+          "resumo": "Programa concede crédito de PIS e Cofins em alíquotas que variam de 0,1% a 3% sobre a receita de exportações",
+          "data_publicacao": "Wed, 22 Apr 2026 09:49:30 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "É urgente modernizar a fiscalização em telecomunicações",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/e-urgente-modernizar-a-fiscalizacao-em-telecomunicacoes",
+          "resumo": "Modelo de responsabilização por função habilitadora é um caminho viável para fortalecer a eficiência regulatória",
+          "data_publicacao": "Wed, 22 Apr 2026 09:25:12 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf mantém cobrança de IRPF contra herdeiro das Casas Bahia",
+          "link": "https://www.jota.info/tributos/carf-mantem-cobranca-de-irpf-contra-herdeiro-das-casas-bahia",
+          "resumo": "Isenção tributária da variação cambial só se aplica às alienações de bens e direitos, disse relatora",
+          "data_publicacao": "Wed, 22 Apr 2026 09:07:34 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "Receita antecipa adesão ao Simples Nacional em 2027 para viabilizar transição ao IBS e à CBS",
+          "link": "https://www.jota.info/tributos/receita-antecipa-adesao-ao-simples-nacional-em-2027-para-viabilizar-transicao-ao-ibs-e-a-cbs",
+          "resumo": "Segundo tributaristas, novo calendário antecipa decisões e exige adaptação rápida das empresas",
+          "data_publicacao": "Tue, 21 Apr 2026 10:17:18 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Quem responde à consulta tributária do IBS e da CBS?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quem-responde-a-consulta-tributaria-do-ibs-e-da-cbs",
+          "resumo": "Reforma substituiu imagem da consulta como resposta unilateral por uma lógica de resposta institucionalmente compartilhada",
+          "data_publicacao": "Tue, 21 Apr 2026 08:25:27 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Omissão de receitas presumida por depósitos bancários na jurisprudência do Carf (parte 3)",
+          "link": "https://www.conjur.com.br/2026-abr-22/omissao-de-receitas-presumida-por-depositos-bancarios-na-jurisprudencia-do-carf-parte-3/",
+          "resumo": "Na coluna anterior desta série, analisamos a origem da proteção do direito ao sigilo bancário até o seu regramento no Brasil, com ênfase à edição da LC nº 105/2001, que assumiu a função de marco normativo do debate. Na aplicação do artigo 42 da Lei nº 9.430/96, assume especial relevância o artigo 6º",
+          "data_publicacao": "Wed, 22 Apr 2026 11:00:23 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Crédito não é caixa: A falsa percepção de liquidez da não cumulatividade plena na Reforma Tributária",
+          "link": "https://www.conjur.com.br/2026-abr-22/credito-nao-e-caixa-a-falsa-percepcao-de-liquidez-da-nao-cumulatividade-plena-na-reforma-tributaria/",
+          "resumo": "Uma pequena parte de empresas iniciou movimentações internas e externas buscando otimizar suas atividades e preparar eventuais contingências para a reforma tributária. Uma tarefa difícil lançada em paralelo aos compromissos diários, mas essencial para iniciar 2027 sobre os trilhos. Por mais que esse",
+          "data_publicacao": "Wed, 22 Apr 2026 09:01:31 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf vai inaugurar sala dedicada à advocacia no próximo dia 28",
+          "link": "https://www.conjur.com.br/2026-abr-21/carf-vai-inaugurar-sala-dedicada-a-advocacia-no-proximo-dia-28/",
+          "resumo": "A sede do Conselho Administrativo de Recursos Fiscais (Carf), em Brasília, terá uma sala dedicada à advocacia a partir do próximo dia 28. A iniciativa teve origem em ofícios das Comissões de Assuntos Tributários (Ceat) da Ordem dos Advogados do Brasil do Rio de Janeiro e de Processo Fiscal da OAB de",
+          "data_publicacao": "Tue, 21 Apr 2026 23:30:18 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
