@@ -1,0 +1,77 @@
+{
+  "data_consolidacao": "2026-04-23T12:01:07.349859",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Execução fiscal frustrada pode levar à falência: o novo recado do STJ às empresas",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/execucao-fiscal-frustrada-pode-levar-a-falencia-o-novo-recado-do-stj-as-empresas",
+          "resumo": "STJ decide que Fazenda Pública pode pedir falência de empresas caso a execução fiscal seja frustrada",
+          "data_publicacao": "Thu, 23 Apr 2026 08:35:15 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Suspeita em fiscalização de trânsito não autoriza busca no veículo",
+          "link": "https://www.conjur.com.br/2026-abr-23/suspeita-em-fiscalizacao-de-transito-nao-autoriza-busca-no-veiculo/",
+          "resumo": "A fiscalização de trânsito não autoriza, por si só, a abertura de portas, o ingresso no veículo ou qualquer outra forma de devassa interna sem fundada suspeita prévia.  Com esse entendimento, a 6ª Câmara Criminal do Tribunal de Justiça de Santa Catarina anulou as provas de um processo e absolveu um ",
+          "data_publicacao": "Thu, 23 Apr 2026 10:31:22 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A reforma necessária",
+          "link": "https://www.conjur.com.br/2026-abr-23/a-reforma-necessaria/",
+          "resumo": "O sistema de Justiça brasileiro precisa de mudanças profundas, muito embora julgue mais que qualquer outro no mundo. O índice de confiabilidade do cidadão no Poder Judiciário brasileiro e em suas decisões é extremamente baixo, se comparado com outros países do Ocidente. Se observarmos a crença no ac",
+          "data_publicacao": "Thu, 23 Apr 2026 09:34:53 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Da CLT à Constituição: segurança jurídica, custo empresarial e riscos da reforma da jornada",
+          "link": "https://www.conjur.com.br/2026-abr-23/da-clt-a-constituicao-seguranca-juridica-custo-empresarial-e-os-riscos-da-reforma-da-jornada-de-trabalho/",
+          "resumo": "O Direito do Trabalho no Brasil atravessa um momento de inflexão normativa. Enquanto temas estruturais tramitam no Supremo Tribunal Federal e no Tribunal Superior do Trabalho (i.e., pejotização, trabalho em plataformas digitais), o Congresso concentra, simultaneamente, três propostas legislativas qu",
+          "data_publicacao": "Thu, 23 Apr 2026 09:02:10 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
