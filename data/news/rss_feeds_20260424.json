@@ -1,0 +1,54 @@
+{
+  "data_busca": "2026-04-24T12:00:21.530376",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém tributação contra Itaú por programa de remuneração e PLR paga em ações",
+          "link": "https://www.jota.info/tributos/carf-mantem-tributacao-contra-itau-por-programa-de-remuneracao-e-plr-paga-em-acoes",
+          "resumo": "Por unanimidade de votos, colegiado manteve cobrança sobre valores pagos pelo Itaú",
+          "data_publicacao": "Fri, 24 Apr 2026 09:28:55 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Governo propõe que ganho de receita com petróleo vire corte de tributos sobre combustíveis",
+          "link": "https://www.jota.info/executivo/governo-propoe-que-ganho-de-receita-com-petroleo-vire-corte-de-tributos-sobre-combustiveis",
+          "resumo": "Projeto prevê converter a receita extra obtida com o setor de petróleo em redução de PIS, Cofins e Cide sobre diesel, biodiesel, gasolina e etanol",
+          "data_publicacao": "Thu, 23 Apr 2026 23:51:46 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Lógica e Direito Tributário: estrutura bicondicional da regra-matriz de incidência",
+          "link": "https://www.conjur.com.br/2026-abr-24/logica-e-direito-tributario-a-estrutura-bicondicional-da-regra-matriz-de-incidencia/",
+          "resumo": "A doutrina tributária brasileira consagrou, sobretudo a partir da influência de Hans Kelsen [1], a ideia de que a regra-matriz de incidência tributária possui uma estrutura lógica condicional simples: se ocorrido o fato descrito na hipótese, então surge a consequência jurídica correspondente. Em for",
+          "data_publicacao": "Fri, 24 Apr 2026 09:01:30 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
