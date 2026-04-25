@@ -1,0 +1,86 @@
+{
+  "data_consolidacao": "2026-04-25T11:41:39.527948",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf libera compensação sobre terço de férias sem trânsito em julgado",
+          "link": "https://www.jota.info/tributos/carf-libera-compensacao-sobre-terco-de-ferias-sem-transito-em-julgado",
+          "resumo": "Decisão também se aplica aos primeiros 15 dias de afastamento por doença",
+          "data_publicacao": "Sat, 25 Apr 2026 09:32:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reter tributo na recuperação judicial é suicídio disfarçado de estratégia",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reter-tributo-na-recuperacao-judicial-e-suicidio-disfarcado-de-estrategia",
+          "resumo": "Debate sobre CND está no lugar errado. O problema não é a exigência, é o que a empresa fez nos anos anteriores",
+          "data_publicacao": "Sat, 25 Apr 2026 04:27:52 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        },
+        {
+          "titulo": "Justiça do Trabalho impõe fiscalização permanente ao TRT17 por irregularidades administrativas",
+          "link": "https://www.jota.info/justica/justica-do-trabalho-impoe-fiscalizacao-permanente-ao-trt17-por-irregularidades-administrativas",
+          "resumo": "Medida rara mira descumprimento de diretrizes, fragilidades de governança e teletrabalho fora do padrão do CNJ",
+          "data_publicacao": "Fri, 24 Apr 2026 13:23:52 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Quando será o pagamento do primeiro lote da restituição do IRPF 2026?",
+          "link": "https://www.jota.info/tributos/quando-sera-o-pagamento-do-primeiro-lote-da-restituicao-do-irpf-2026",
+          "resumo": "Restituição do IRPF 2026 será paga em quatro lotes entre maio e agosto; primeiro pagamento será feito em 29/5",
+          "data_publicacao": "Fri, 24 Apr 2026 12:56:04 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "RJ sob pressão fiscal e risco de desfiguração da lógica de preservação da empresa viável",
+          "link": "https://www.conjur.com.br/2026-abr-25/recuperacao-judicial-sob-pressao-fiscal-e-o-risco-de-desfiguracao-da-logica-de-preservacao-da-empresa-viavel/",
+          "resumo": "A Lei 11.101/2005 representou um avanço significativo no Direito Empresarial e na realidade econômica ao superar (ou tentar superar) a lógica predominantemente liquidatória do Decreto-Lei 7.661/45 por um modelo orientado à preservação da empresa viável, com vistas a manutenção de empregos, à circula",
+          "data_publicacao": "Sat, 25 Apr 2026 09:39:43 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
