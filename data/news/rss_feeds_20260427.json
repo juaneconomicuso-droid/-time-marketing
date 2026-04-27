@@ -1,0 +1,54 @@
+{
+  "data_busca": "2026-04-27T12:21:08.516815",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Tribunais de contas e a imparcialidade das fiscalizações como direito do cidadão",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/tribunais-de-contas-e-a-imparcialidade-das-fiscalizacoes-como-direito-do-cidadao",
+          "resumo": "É preciso proteger a confiança pública no controle externo, o que exige interpretação adequada das normas",
+          "data_publicacao": "Mon, 27 Apr 2026 10:00:46 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf aplica Tema 985 do STF e afasta contribuição previdenciária sobre terço de férias",
+          "link": "https://www.jota.info/tributos/carf-aplica-tema-985-do-stf-e-afasta-contribuicao-previdenciaria-sobre-terco-de-ferias",
+          "resumo": "Conselho aplicou a modulação de efeitos definida pelo STF no Tema 985 de repercussão geral",
+          "data_publicacao": "Sun, 26 Apr 2026 09:16:07 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Execução fiscal de baixo valor não pode ser extinta quando parcelamento suspende processo",
+          "link": "https://www.conjur.com.br/2026-abr-27/execucao-fiscal-de-baixo-valor-nao-pode-ser-extinta-quando-parcelamento-suspende-processo/",
+          "resumo": "A extinção de uma execução fiscal de baixo valor (inferior a R$ 10 mil) não é aplicável se o processo estiver suspenso em virtude de um acordo de parcelamento administrativo. Para que haja o fim do caso, além do baixo valor, é necessário que a ação permaneça sem movimentação útil há mais de um ano, ",
+          "data_publicacao": "Mon, 27 Apr 2026 11:25:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
