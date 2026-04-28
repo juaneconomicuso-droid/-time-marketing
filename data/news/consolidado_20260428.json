@@ -1,0 +1,87 @@
+{
+  "data_consolidacao": "2026-04-28T12:25:16.901296",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Competitividade, Regulação e Reformas: o potencial da agenda do MDIC na redução do Custo Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/mulheres-na-regulacao/competitividade-regulacao-e-reformas-o-potencial-da-agenda-do-mdic-na-reducao-do-custo-brasil",
+          "resumo": "Consulta pública do MDIC dialoga diretamente com o framework da OCDE ao tratar a competitividade",
+          "data_publicacao": "Tue, 28 Apr 2026 12:14:16 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Pulso da Reforma: indefinição pressiona início da transição tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/pulso-da-reforma-indefinicao-pressiona-inicio-da-transicao-tributaria",
+          "resumo": "Levantamento do JOTA aponta gargalos operacionais e falta de regras claras no início da implementação",
+          "data_publicacao": "Tue, 28 Apr 2026 10:00:53 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Comitê Gestor aprova regulamento do IBS e CBS; norma deve ser publicada na quinta",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/comite-gestor-aprova-regulamento-do-ibs-e-cbs-norma-deve-ser-publicada-na-quinta",
+          "resumo": "Texto foi elaborado por grupo técnico formado por representantes de estados e municípios em articulação com a Fazenda",
+          "data_publicacao": "Tue, 28 Apr 2026 09:40:39 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "TCU libera prorrogação de outorgas da Tim, mas manda Anatel aprimorar fiscalização",
+          "link": "https://www.conjur.com.br/2026-abr-28/tcu-libera-prorrogacao-de-outorgas-da-tim-mas-manda-anatel-aprimorar-fiscalizacao/",
+          "resumo": "O Plenário do Tribunal de Contas da União autorizou, em acórdão publicado neste mês, a prorrogação de outorgas da operadora Tim para operar faixas de radiofrequência que pertenciam à Oi, hoje em recuperação judicial. Os ministros do TCU apontaram falhas da Agência Nacional de Telecomunicações (Anate",
+          "data_publicacao": "Tue, 28 Apr 2026 10:26:24 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "TCU revisa entendimento sobre uso de prejuízo fiscal em transação",
+          "link": "https://www.conjur.com.br/2026-abr-27/tcu-revisa-entendimento-sobre-transacao-tributaria-e-afasta-equiparacao-entre-desconto-e-uso-de-prejuizo-fiscal/",
+          "resumo": "O TCU (Tribunal de Contas da União), no Acórdão nº 990/2026-Plenário, proferido em 22 de abril de 2026, acolheu embargos de declaração apresentados pela Procuradoria-Geral da Fazenda Nacional e reformulou pontos relevantes de entendimento anterior acerca da utilização de prejuízo fiscal e base de cá",
+          "data_publicacao": "Tue, 28 Apr 2026 00:45:17 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
