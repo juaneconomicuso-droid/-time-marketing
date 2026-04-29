@@ -1,0 +1,62 @@
+{
+  "data_busca": "2026-04-29T12:19:12.458810",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O peso econômico na reforma do Judiciário proposta por Flávio Dino",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-flavia-maia/o-peso-economico-na-reforma-do-judiciario-proposta-por-flavio-dino",
+          "resumo": "Ministro mira calcanhar de Aquiles do Judiciário: precatórios, execuções fiscais e fundos com penduricalhos",
+          "data_publicacao": "Wed, 29 Apr 2026 10:00:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Receita não pode afastar imunidade de fundação com Cebas, diz Carf",
+          "link": "https://www.jota.info/tributos/receita-nao-pode-afastar-imunidade-de-fundacao-com-cebas-diz-carf",
+          "resumo": "Fiscalização sustentava que entidade não teria direito à imunidade em razão da cessão de mão de obra",
+          "data_publicacao": "Wed, 29 Apr 2026 09:35:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A reforma tributária e o passivo invisível das verbas comerciais no varejo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-reforma-tributaria-e-o-passivo-invisivel-das-verbas-comerciais-no-varejo",
+          "resumo": "A ausência de clareza na descrição das obrigações não protege. Ao contrário, expõe o varejista",
+          "data_publicacao": "Wed, 29 Apr 2026 09:00:43 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reforma na governança da ANP",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-na-governanca-da-anp",
+          "resumo": "Lições de uma suspensão temporária e a necessidade de oversight e accountability robustos",
+          "data_publicacao": "Wed, 29 Apr 2026 04:06:52 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
