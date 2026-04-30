@@ -1,0 +1,59 @@
+{
+  "data_consolidacao": "2026-04-30T12:17:26.401604",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O significado da publicação conjunta do Regulamento CBS/IBS pela Receita e pelo Comitê Gestor",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/o-significado-da-publicacao-conjunta-do-regulamento-cbs-ibs-pela-receita-e-pelo-comite-gestor",
+          "resumo": "Regulamento do IBS e da CBS inaugura o federalismo cooperativo e resgata a cidadania fiscal no Brasil",
+          "data_publicacao": "Thu, 30 Apr 2026 10:01:18 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O mito da holding S/A: promessa de invisibilidade fiscal não resiste ao Fisco",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-mito-da-holding-s-a-promessa-de-invisibilidade-fiscal-nao-resiste-ao-fisco",
+          "resumo": "O planejamento sucessório eficaz não é aquele que tenta escapar do sistema, mas o que opera dentro dele",
+          "data_publicacao": "Thu, 30 Apr 2026 09:30:23 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
