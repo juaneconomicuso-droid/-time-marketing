@@ -1,0 +1,69 @@
+{
+  "data_consolidacao": "2026-05-01T12:01:33.535234",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Multas por falta de destaque de IBS/CBS só serão cobradas em 2027, afirma Receita",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/multas-por-falta-de-destaque-de-ibs-cbs-so-serao-cobradas-em-2027-afirma-receita",
+          "resumo": "Período de testes será educativo, com foco na adaptação. Split payment, cashback e IPI ainda precisam de regulamentações específicas",
+          "data_publicacao": "Fri, 01 May 2026 09:44:45 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Decisão do TCU sobre prejuízo fiscal deve ‘destravar’ transação tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-barbara-mengardo/decisao-do-tcu-sobre-prejuizo-fiscal-deve-destravar-transacao-tributaria",
+          "resumo": "Após corte decidir que uso de prejuízo fiscal e base negativa de CSLL não impacta limite de desconto de 65%, PGFN deve abrir novos editais",
+          "data_publicacao": "Thu, 30 Apr 2026 18:30:38 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária exige revisão do Simples e muda estratégia das empresas",
+          "link": "https://www.conjur.com.br/2026-abr-30/reforma-tributaria-exige-revisao-do-simples-e-muda-estrategia-das-empresas/",
+          "resumo": "Muitos empresários optam automaticamente pelo Simples Nacional, principalmente para reduzir burocracias e simplificar o pagamento de tributos. A reforma tributária não acabou com Simples, mas trouxe impactos relevantes para os contribuintes enquadrados nesse regime. Spacca Uma das principais mudança",
+          "data_publicacao": "Fri, 01 May 2026 00:46:46 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
