@@ -1,0 +1,96 @@
+{
+  "data_consolidacao": "2026-05-02T11:50:54.249559",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf derruba multas substitutivas de perdimento contra Cervejaria Petrópolis",
+          "link": "https://www.jota.info/tributos/carf-derruba-multas-substitutivas-de-perdimento-contra-cervejaria-petropolis",
+          "resumo": "Julgadores entenderam que a fiscalização perdeu o direito de impor a penalidade por decorrência do prazo decadencial",
+          "data_publicacao": "Sat, 02 May 2026 09:12:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Com regulamentação, reforma tributária entra em nova fase: não basta mais acompanhar a lei, é preciso testar a operação",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/com-regulamentacao-reforma-tributaria-entra-em-nova-fase-nao-basta-mais-acompanhar-a-lei-e-preciso-testar-a-operacao",
+          "resumo": "Mesma com disciplina própria, o ecossistema regulatório ainda está em construção",
+          "data_publicacao": "Fri, 01 May 2026 14:55:54 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Multas por falta de destaque de IBS/CBS só serão cobradas em 2027, afirma Receita",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/multas-por-falta-de-destaque-de-ibs-cbs-so-serao-cobradas-em-2027-afirma-receita",
+          "resumo": "Período de testes será educativo, com foco na adaptação. Split payment, cashback e IPI ainda precisam de regulamentações específicas",
+          "data_publicacao": "Fri, 01 May 2026 09:44:45 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Redução do Imposto de Renda e a compensação tributária pelos entes municipais",
+          "link": "https://www.conjur.com.br/2026-mai-02/reducao-do-imposto-de-renda-e-a-utilizacao-da-compensacao-tributaria-pelos-entes-municipais/",
+          "resumo": "Recentemente, o Congresso aprovou a Lei Federal nº 15.270/2025, que tratou da redução do Imposto de Renda apurado, zerando os valores devidos para determinado montante mensal, bem como anual, com vistas a implementar uma desejada justiça tributária na atualização da tabela de alíquotas do tributo, c",
+          "data_publicacao": "Sat, 02 May 2026 10:01:45 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "A partir da reforma trabalhista, auxílio-alimentação não integra remuneração",
+          "link": "https://www.conjur.com.br/2026-mai-01/a-partir-da-reforma-trabalhista-auxilio-alimentacao-nao-integra-remuneracao/",
+          "resumo": "A 3ª Turma do Tribunal Regional do Trabalho da 9ª Região (PR), em reanálise de acórdão proferido por ela mesma em processo oriundo da 19ª Vara do Trabalho de Curitiba, decidiu que as parcelas recebidas por uma bancária da capital a título de auxílio-alimentação não integram a sua remuneração e não t",
+          "data_publicacao": "Fri, 01 May 2026 19:55:12 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Banco também responde por atraso em imóvel quando fiscaliza obra",
+          "link": "https://www.conjur.com.br/2026-mai-01/banco-tambem-responde-por-atraso-em-imovel-quando-fiscaliza-obra/",
+          "resumo": "A atuação da instituição financeira que vai além do financiamento, envolvendo a fiscalização e a gestão da obra, gera responsabilidade solidária por danos decorrentes do atraso na entrega do imóvel. O inadimplemento da construtora autoriza também a inversão da multa contratual. Com base nesse entend",
+          "data_publicacao": "Fri, 01 May 2026 19:21:01 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
