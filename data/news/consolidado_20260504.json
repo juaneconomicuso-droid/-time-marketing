@@ -1,0 +1,77 @@
+{
+  "data_consolidacao": "2026-05-04T12:22:00.086126",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Arrendamento mercantil financeiro na Reforma Tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/arrendamento-mercantil-financeiro-na-reforma-tributaria",
+          "resumo": "Para leasing, reforma cria regime propenso à dúvida interpretativa, à complexidade operacional e ao contencioso",
+          "data_publicacao": "Sun, 03 May 2026 09:20:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf nega crédito de PIS/Cofins na compra de ouro financeiro revendido como mercadoria",
+          "link": "https://www.jota.info/tributos/carf-nega-credito-de-pis-cofins-na-compra-de-ouro-financeiro-revendido-como-mercadoria",
+          "resumo": "Como a compra do ouro, não se sujeitou à incidência de contribuições, não há direito ao creditamento no regime não cumulativo",
+          "data_publicacao": "Sun, 03 May 2026 09:00:51 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Carf derruba multas substitutivas de perdimento contra Cervejaria Petrópolis",
+          "link": "https://www.jota.info/tributos/carf-derruba-multas-substitutivas-de-perdimento-contra-cervejaria-petropolis",
+          "resumo": "Julgadores entenderam que a fiscalização perdeu o direito de impor a penalidade por decorrência do prazo decadencial",
+          "data_publicacao": "Sat, 02 May 2026 09:12:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Dedutibilidade dos juros de mora sobre IRPJ e CSLL e a autonomia das despesas financeiras",
+          "link": "https://www.conjur.com.br/2026-mai-04/dedutibilidade-dos-juros-de-mora-sobre-irpj-e-csll-e-a-autonomia-das-despesas-financeiras/",
+          "resumo": "Analisarei a dedutibilidade, na apuração do IRPJ e da CSLL pela sistemática do lucro real, dos juros de mora incidentes sobre esses mesmos tributos, recolhidos em atraso. Sempre que o contribuinte quita tributo fora do prazo legal, incidem os acréscimos previstos no artigo 61 da Lei nº 9.430/1996, e",
+          "data_publicacao": "Mon, 04 May 2026 11:00:50 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
