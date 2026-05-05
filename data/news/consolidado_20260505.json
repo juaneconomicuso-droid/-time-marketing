@@ -1,0 +1,77 @@
+{
+  "data_consolidacao": "2026-05-05T12:05:52.829915",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf derruba contribuição previdenciária sobre abono por adesão a plano de carreira",
+          "link": "https://www.jota.info/tributos/carf-derruba-contribuicao-previdenciaria-sobre-abono-por-adesao-a-plano-de-carreira",
+          "resumo": "Conselho cancela cobrança sobre verbas pagas pela Petrobras a empregados, mas valida tributação sobre prêmios",
+          "data_publicacao": "Tue, 05 May 2026 08:59:43 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A nova Lei dos Contratos de Seguro e seus impactos nos planejamentos patrimoniais e sucessórios",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-nova-lei-dos-contratos-de-seguro-e-seus-impactos-nos-planejamentos-patrimoniais-e-sucessorios",
+          "resumo": "As repercussões do art. 115 da LCS na sucessão legítima, testamentária e na posição do cônjuge e dos herdeiros",
+          "data_publicacao": "Tue, 05 May 2026 05:06:54 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Afinal, é correto falar em crimes tributários formais e materiais? (parte 1)",
+          "link": "https://www.conjur.com.br/2026-mai-05/afinal-e-correto-falar-em-crimes-tributarios-formais-e-materiais-parte-1/",
+          "resumo": " Não, não é. Iniciemos quebrando o átomo. Depois a gente lida com alguns preconceitos. Paradigma científico na ciência penal A epistemologia é a teoria do conhecimento. A “ciência” da ciência. Aplicada à ciência penal, significa discutir as bases metodológicas sobre as quais irá construir-se o siste",
+          "data_publicacao": "Tue, 05 May 2026 11:00:47 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Gilmar defende fortalecimento da fiscalização do sistema financeiro",
+          "link": "https://www.conjur.com.br/2026-mai-04/gilmar-defende-fortalecimento-da-fiscalizacao-do-sistema-financeiro/",
+          "resumo": "Durante uma audiência pública promovida no Supremo Tribunal Federal nesta segunda-feira (4/5), o ministro Gilmar Mendes defendeu o fortalecimento da capacidade fiscalizatória da Comissão de Valores Mobiliários (CVM) e propôs uma agenda mais ampla de reformas institucionais no país. O debate ocorre n",
+          "data_publicacao": "Tue, 05 May 2026 01:15:00 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
