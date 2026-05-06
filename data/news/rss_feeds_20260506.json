@@ -1,0 +1,72 @@
+{
+  "data_busca": "2026-05-06T12:57:22.903764",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O controle do TCU na transação tributária e o uso de prejuízo fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-controle-do-tcu-na-transacao-tributaria-e-o-uso-de-prejuizo-fiscal",
+          "resumo": "Tribunal muda orientação e libera uso de prejuízo fiscal em transação tributária",
+          "data_publicacao": "Wed, 06 May 2026 10:00:17 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "‘Anormalidade’ de expediente por greve na RFB independe de ato legal, diz Carf",
+          "link": "https://www.jota.info/tributos/anormalidade-de-expediente-por-greve-na-rfb-independe-de-ato-legal-diz-carf",
+          "resumo": "Conselho reconhece tempestividade de recurso protocolado um dia útil após o prazo devido à paralisação",
+          "data_publicacao": "Wed, 06 May 2026 09:36:13 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Afinal, é correto falar em crimes tributários formais e materiais? (parte 2)",
+          "link": "https://www.conjur.com.br/2026-mai-06/afinal-e-correto-falar-em-crimes-tributarios-formais-e-materiais-parte-2/",
+          "resumo": "Continuação da parte 1 Imprestabilidade do conceito de ‘resultado naturalístico’ no direito penal contemporâneo Spacca A imensa maioria de penalistas que se dedica a comentar a Parte Especial do Código Penal dirá que o crime de sequestro ou cárcere privado (artigo 148) é material: a consumação depen",
+          "data_publicacao": "Wed, 06 May 2026 11:00:56 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Vinculação decisória, limitação de competência e julgamento no Carf",
+          "link": "https://www.conjur.com.br/2026-mai-06/vinculacao-decisoria-limitacao-de-competencia-e-julgamento-no-carf/",
+          "resumo": "A vinculação decisória dos julgadores administrativos costuma ser examinada, no debate tributário brasileiro, de forma fragmentária. Discutem-se pontualmente os efeitos das súmulas do Conselho Administrativo de Recursos Fiscais (Carf), a vinculação do conselho aos precedentes do Supremo Tribunal Fed",
+          "data_publicacao": "Wed, 06 May 2026 11:00:03 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Carf abre a porta da retroatividade benigna no regime aduaneiro",
+          "link": "https://www.conjur.com.br/2026-mai-06/multa-por-erro-na-classificacao-fiscal-carf-abre-a-porta-da-retroatividade-benigna-basta-o-contribuinte-entrar/",
+          "resumo": "A edição da Lei Complementar nº 227, de 2026, umas das leis de regulamentação da reforma tributária, trouxe ao Direito Aduaneiro brasileiro uma interessante alteração: a revogação expressa da multa de 1% sobre o valor aduaneiro da mercadoria aplicada em casos de erro de classificação fiscal na Decla",
+          "data_publicacao": "Wed, 06 May 2026 10:00:47 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
