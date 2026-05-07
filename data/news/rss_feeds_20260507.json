@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-05-07T12:59:09.632036",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "The law is in the air:  O regulamento CBS/IBS e o fim da criatividade infralegal no Brasil",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/the-law-is-in-the-air-o-regulamento-cbs-ibs-e-o-fim-da-criatividade-infralegal-no-brasil",
+          "resumo": "Pela primeira vez na história do direito tributário brasileiro, o regulamento faz exatamente o que um regulamento deve fazer",
+          "data_publicacao": "Thu, 07 May 2026 10:19:56 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Receita libera uso de prejuízo fiscal para amortizar crédito em transações",
+          "link": "https://www.jota.info/tributos/receita-libera-uso-de-prejuizo-fiscal-para-amortizar-credito-em-transacoes",
+          "resumo": "Após decisão do TCU, fisco ajusta portaria sobre as transações no administrativo fiscal e autoriza também o uso da base negativa de CSLL",
+          "data_publicacao": "Thu, 07 May 2026 09:50:13 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
