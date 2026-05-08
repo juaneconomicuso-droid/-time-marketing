@@ -1,0 +1,58 @@
+{
+  "data_consolidacao": "2026-05-08T12:10:45.335290",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Regulamento da reforma tributária inaugura fase operacional com definições pendentes",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/regulamento-da-reforma-tributaria-inaugura-fase-operacional-com-definicoes-pendentes",
+          "resumo": "Ainda há necessidade de complementação normativa, maturidade dos sistemas e definição de elementos de transição para novo modelo",
+          "data_publicacao": "Fri, 08 May 2026 10:00:57 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Desafios processuais do IVA-dual: a urgência de uma reforma adjetiva",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/desafios-processuais-do-iva-dual-a-urgencia-de-uma-reforma-adjetiva",
+          "resumo": "Inexistência de regras para o contencioso judicial gera risco de decisões conflitantes no IBS e CBS",
+          "data_publicacao": "Fri, 08 May 2026 05:42:40 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
