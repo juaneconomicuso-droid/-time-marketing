@@ -1,0 +1,6 @@
+{
+  "fonte": "Tributário nos Bastidores",
+  "data_busca": "2026-05-09T11:54:01.206474",
+  "noticias": [],
+  "erro": "HTTPSConnectionPool(host='tributarionosbastidores.com.br', port=443): Read timed out. (read timeout=10)"
+}
