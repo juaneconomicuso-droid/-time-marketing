@@ -1,0 +1,85 @@
+{
+  "data_consolidacao": "2026-05-10T11:56:06.451004",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Atuação cooperativa, integração e reforma tributária: quando os conceitos escondem os problemas",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/atuacao-cooperativa-integracao-e-reforma-tributaria-quando-os-conceitos-escondem-os-problemas",
+          "resumo": "Será que o novo sistema depende propriamente de cooperação ou seria de algo diverso?",
+          "data_publicacao": "Sat, 09 May 2026 13:42:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "O imposto seletivo é um dos piores que já vi, é uma caricatura, diz Heleno Torres",
+          "link": "https://www.jota.info/tributos/o-imposto-seletivo-e-um-dos-piores-que-ja-vi-e-uma-caricatura-diz-heleno-torres",
+          "resumo": "Para professor de Direito Financeiro da USP, o tributo criado na reforma tributária é tecnicamente mal desenhado e pode ser danoso à economia",
+          "data_publicacao": "Sat, 09 May 2026 12:11:46 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Entre a escala de 6X1 e a escala 5×2: Considerações para uma reforma estrutural",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/entre-a-escala-de-6x1-e-a-escala-5x2-consideracoes-para-uma-reforma-estrutural",
+          "resumo": "Mudança deve vir acompanhada de debate sobre políticas públicas que promovam melhores condições no acesso a bens e serviços públicos",
+          "data_publicacao": "Sat, 09 May 2026 11:29:48 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf afasta tributação de 27,5% sobre valores recebidos de trust no exterior",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/carf-afasta-tributacao-de-275-sobre-valores-recebidos-de-trust-no-exterior",
+          "resumo": "Decisão reconhece necessidade de se observar natureza dos valores recebidos para fins de tributação",
+          "data_publicacao": "Sat, 09 May 2026 11:00:01 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "STJ permite uso da função teimosinha em execução fiscal",
+          "link": "https://www.jota.info/tributos/stj-permite-uso-da-funcao-teimosinha-em-execucao-fiscal",
+          "resumo": "Tribunal autoriza uso da ferramenta do Sisbajud que repete automaticamente ordens de bloqueio de dinheiro",
+          "data_publicacao": "Sat, 09 May 2026 10:35:53 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
