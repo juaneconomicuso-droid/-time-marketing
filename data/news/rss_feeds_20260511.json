@@ -1,0 +1,81 @@
+{
+  "data_busca": "2026-05-11T13:49:11.039192",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Fim da escala 6×1: PEC prever regulamentação posterior, como feito na reforma tributária",
+          "link": "https://www.jota.info/trabalho/fim-da-escala-6x1-pec-prever-regulamentacao-posterior-como-feito-na-reforma-tributaria",
+          "resumo": "A ideia é estipular um prazo, a partir da promulgação, para que o Executivo envie projeto de lei regulamentando o que for aprovado",
+          "data_publicacao": "Mon, 11 May 2026 13:00:59 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e o novo desafio de fluxo de caixa das empresas",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-e-o-novo-desafio-de-fluxo-de-caixa-das-empresas",
+          "resumo": "Mudanças na apuração e no uso de créditos tributários exigem maior planejamento financeiro dos negócios",
+          "data_publicacao": "Mon, 11 May 2026 10:00:34 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf mantém cobrança de PIS/Cofins em arrendamento mercantil",
+          "link": "https://www.jota.info/tributos/carf-mantem-cobranca-de-pis-cofins-em-arrendamento-mercantil",
+          "resumo": "Cobrança foi mantida pelo colegiado por 4 votos a 2",
+          "data_publicacao": "Mon, 11 May 2026 09:18:01 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "STJ amplia alcance da Lei do Bem e reconhece inclusão da PLR no incentivo fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/stj-amplia-alcance-da-lei-do-bem-e-reconhece-inclusao-da-plr-no-incentivo-fiscal",
+          "resumo": "Decisões recentes abrem espaço para novas oportunidades envolvendo gastos incentivados",
+          "data_publicacao": "Mon, 11 May 2026 09:00:43 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "CARF: duas câmaras, um dia, decisões opostas sobre valor justo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/carf-duas-camaras-um-dia-decisoes-opostas-sobre-valor-justo",
+          "resumo": "Em dias consecutivos, mesmo tribunal aplicou o princípio da realização e chegou a conclusões opostas",
+          "data_publicacao": "Mon, 11 May 2026 08:40:04 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Execução fiscal prossegue mesmo diante da recuperação judicial",
+          "link": "https://www.conjur.com.br/2026-mai-11/execucao-fiscal-prossegue-mesmo-diante-da-recuperacao-judicial/",
+          "resumo": "Fabrikasimf/Freepik No último dia 16 de abril, a 2ª Turma do Superior Tribunal de Justiça, ao julgar o REsp nº 2.178.676/SP [1], consolidou o entendimento de que as execuções fiscais não se suspendem pelo deferimento da recuperação judicial, bem como, encerrou a controvérsia existente em torno da su",
+          "data_publicacao": "Mon, 11 May 2026 10:02:30 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
