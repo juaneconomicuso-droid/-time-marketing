@@ -1,0 +1,67 @@
+{
+  "data_consolidacao": "2026-05-12T13:07:13.670605",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Próximos meses serão decisivos para calibrar implementação da reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/proximos-meses-serao-decisivos-para-calibrar-implementacao-da-reforma-tributaria",
+          "resumo": "Split payment, convivência entre sistemas e governança serão os principais desafios da transição em 2026",
+          "data_publicacao": "Tue, 12 May 2026 12:00:06 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf derruba autuação baseada exclusivamente em súmula do TST",
+          "link": "https://www.jota.info/tributos/carf-derruba-autuacao-baseada-exclusivamente-em-sumula-do-tst",
+          "resumo": "Conselho anula exigência de contribuições envolvendo incapacidade laborativa e contribuições previdenciárias",
+          "data_publicacao": "Tue, 12 May 2026 09:02:07 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O que fazer para a declaração do Imposto de Renda não cair na malha fina",
+          "link": "https://www.jota.info/tributos/o-que-fazer-para-a-declaracao-do-imposto-de-renda-nao-cair-na-malha-fina",
+          "resumo": "Receita retém 8,15% das declarações do IRPF até abril; veja erros que mais levam contribuintes à malha fina",
+          "data_publicacao": "Mon, 11 May 2026 19:43:10 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
