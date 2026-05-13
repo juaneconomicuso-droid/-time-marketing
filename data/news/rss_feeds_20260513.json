@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-05-13T13:20:01.551139",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém cobrança de IOF e PIS/Cofins por simulação envolvendo seguradora",
+          "link": "https://www.jota.info/tributos/carf-mantem-cobranca-de-iof-e-pis-cofins-por-simulacao-envolvendo-seguradora",
+          "resumo": "Conselho valida IOF, PIS e Cofins por suposto aproveitamento indevido de isenção tributária em 2015 e em 2016",
+          "data_publicacao": "Wed, 13 May 2026 09:11:51 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Fórum Paraibano de Direito Tributário e Financeiro discutirá reconstrução do sistema tributário",
+          "link": "https://www.jota.info/tributos/forum-paraibano-de-direito-tributario-e-financeiro-discutira-reconstrucao-do-sistema-tributario",
+          "resumo": "6ª edição do evento será realizado nos dias 21 e 22 de maio, em João Pessoa (PB)",
+          "data_publicacao": "Wed, 13 May 2026 01:24:53 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
