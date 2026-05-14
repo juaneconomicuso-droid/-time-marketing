@@ -1,0 +1,69 @@
+{
+  "data_consolidacao": "2026-05-14T12:55:20.124877",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf anula cobranças feitas com base no lucro real, e não naquele arbitrado",
+          "link": "https://www.jota.info/tributos/carf-anula-cobrancas-feitas-com-base-no-lucro-real-e-nao-naquele-arbitrado",
+          "resumo": "Colegiado entendeu que houve erro material na cobrança contra empresa do Grupo Abril",
+          "data_publicacao": "Thu, 14 May 2026 09:34:14 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Juros, multas, encargos e o risco oculto na base de cálculo do IBS e CBS",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/juros-multas-encargos-e-o-risco-oculto-na-base-de-calculo-do-ibs-e-cbs",
+          "resumo": "Interpretação da nova regra pode elevar a carga tributária sobre inadimplência e reacender disputas judicializadas",
+          "data_publicacao": "Thu, 14 May 2026 08:30:16 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O vazio que cobra: IBS, CBS e o contencioso que se anuncia",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-vazio-que-cobra-ibs-cbs-e-o-contencioso-que-se-anuncia",
+          "resumo": "Cada mês de inércia legislativa é um mês em que contribuintes operam sob incerteza e o contencioso se organiza",
+          "data_publicacao": "Thu, 14 May 2026 08:10:29 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
