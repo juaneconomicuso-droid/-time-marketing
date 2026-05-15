@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-05-15T12:57:01.536167",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Cláudio Castro é alvo de operação da PF que investiga fraude fiscal em refinaria",
+          "link": "https://www.jota.info/stf/do-supremo/claudio-castro-e-alvo-de-operacao-da-pf-que-investiga-fraude-fiscal-em-refinaria",
+          "resumo": "Além do ex-governador do Rio, o dono do grupo Refit, Ricardo Magro, foi alvo de mandado de prisão e teve nome incluído na Divisão Vermelha da Interpol",
+          "data_publicacao": "Fri, 15 May 2026 12:21:09 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "O contencioso tributário está morto",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/o-contencioso-tributario-esta-morto",
+          "resumo": "A reforma tributária como superação estrutural da litigiosidade fiscal no Brasil",
+          "data_publicacao": "Fri, 15 May 2026 12:00:27 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Regulamento de IBS e CBS fixa 1% de tolerância para bens a granel, mas esquece exportação",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/regulamento-de-ibs-e-cbs-fixa-1-de-tolerancia-para-bens-a-granel-mas-esquece-exportacao",
+          "resumo": "Norma não especifica regra sobre cobrança de tributos para exportação e gera insegurança jurídica",
+          "data_publicacao": "Fri, 15 May 2026 08:10:36 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Pedalada fiscal patrimonial: manobras extraorçamentárias para capitalização do BRB",
+          "link": "https://www.conjur.com.br/2026-mai-15/pedalada-fiscal-patrimonial-manobras-extraorcamentarias-para-capitalizacao-do-brb/",
+          "resumo": "A Lei Distrital nº 7.845/2026, que autoriza a mobilização de bens do Distrito Federal e de algumas de suas estatais para fins de capitalização do Banco de Brasília (BRB), não trata apenas de uma operação de reforço patrimonial. Ao permitir que bens públicos e ativos de empresas estatais sejam utiliz",
+          "data_publicacao": "Fri, 15 May 2026 10:03:31 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
