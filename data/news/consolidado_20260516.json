@@ -1,0 +1,68 @@
+{
+  "data_consolidacao": "2026-05-16T11:55:08.269476",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf nega créditos de PIS/Cofins por despesas da Renner com publicidade digital",
+          "link": "https://www.jota.info/tributos/carf-nega-creditos-de-pis-cofins-por-despesas-da-renner-com-publicidade-digital",
+          "resumo": "Conselho concluiu que a publicidade não pode ser considerada insumo para as atividades da empresa",
+          "data_publicacao": "Sat, 16 May 2026 09:02:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A inovação de fundamentos no processo administrativo fiscal e o limite reafirmado pelo STJ",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-inovacao-de-fundamentos-no-processo-administrativo-fiscal-e-o-limite-reafirmado-pelo-stj",
+          "resumo": "Contribuinte tem o direito de saber exatamente contra o que está se defendendo",
+          "data_publicacao": "Fri, 15 May 2026 14:45:42 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Contradição do princípio da simplicidade: novo contencioso tributário",
+          "link": "https://www.conjur.com.br/2026-mai-16/contradicao-do-principio-da-simplicidade-novo-contencioso-tributario/",
+          "resumo": "A Emenda Constitucional n° 132/2023 traz expressamente em sua redação que o sistema tributário nacional deverá observar o princípio da simplicidade. Afinal de contas, a premissa reformista é facilitar e simplificar o sistema tributário, reduzindo a máquina estatal que trabalha não apenas para arreca",
+          "data_publicacao": "Sat, 16 May 2026 10:01:04 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
