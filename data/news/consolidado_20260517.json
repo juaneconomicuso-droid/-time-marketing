@@ -1,0 +1,67 @@
+{
+  "data_consolidacao": "2026-05-17T12:00:49.540588",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STJ exige intimação de terceiro antes do reconhecimento de fraude à execução fiscal",
+          "link": "https://www.jota.info/tributos/stj-exige-intimacao-de-terceiro-antes-do-reconhecimento-de-fraude-a-execucao-fiscal",
+          "resumo": "Caso envolve cessão de créditos tributários e foi decidido a favor do contribuinte",
+          "data_publicacao": "Sun, 17 May 2026 09:57:42 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "O controle da atividade de inteligência de Estado e as reformas legislativas em andamento",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-controle-da-atividade-de-inteligencia-de-estado-e-as-reformas-legislativas-em-andamento",
+          "resumo": "Há um descompasso entre o avanço normativo e a  eficácia prática",
+          "data_publicacao": "Sat, 16 May 2026 14:26:01 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf nega créditos de PIS/Cofins por despesas da Renner com publicidade digital",
+          "link": "https://www.jota.info/tributos/carf-nega-creditos-de-pis-cofins-por-despesas-da-renner-com-publicidade-digital",
+          "resumo": "Conselho concluiu que a publicidade não pode ser considerada insumo para as atividades da empresa",
+          "data_publicacao": "Sat, 16 May 2026 09:02:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
