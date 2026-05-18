@@ -1,0 +1,101 @@
+{
+  "data_busca": "2026-05-18T14:32:47.925665",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "1ª Seção do Carf tem R$ 85 bilhões em processos para serem julgados até setembro",
+          "link": "https://www.jota.info/tributos/1a-secao-do-carf-tem-r-85-bilhoes-em-processos-para-serem-julgados-ate-setembro",
+          "resumo": "Maior valor envolve não adição de parcelas de receitas oriundas de exportação a pessoa vinculada",
+          "data_publicacao": "Mon, 18 May 2026 09:27:10 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Mútuo oneroso, cash companies e os limites materiais do IBS e da CBS",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/mutuo-oneroso-cash-companies-e-os-limites-materiais-do-ibs-e-da-cbs",
+          "resumo": "Uma reflexão sobre o que pode ser tributado sob essa rubrica",
+          "data_publicacao": "Mon, 18 May 2026 08:15:55 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "A tributação das SAFs na reforma tributária e os impactos da LC 224/25",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/a-tributacao-das-safs-na-reforma-tributaria-e-os-impactos-da-lc-224-25",
+          "resumo": "Debate ultrapassa a simples mensuração aritmética da majoração de alíquotas",
+          "data_publicacao": "Mon, 18 May 2026 08:00:53 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STJ exige intimação de terceiro antes do reconhecimento de fraude à execução fiscal",
+          "link": "https://www.jota.info/tributos/stj-exige-intimacao-de-terceiro-antes-do-reconhecimento-de-fraude-a-execucao-fiscal",
+          "resumo": "Caso envolve cessão de créditos tributários e foi decidido a favor do contribuinte",
+          "data_publicacao": "Sun, 17 May 2026 09:57:42 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "O controle da atividade de inteligência de Estado e as reformas legislativas em andamento",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-controle-da-atividade-de-inteligencia-de-estado-e-as-reformas-legislativas-em-andamento",
+          "resumo": "Há um descompasso entre o avanço normativo e a  eficácia prática",
+          "data_publicacao": "Sat, 16 May 2026 14:26:01 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf nega créditos de PIS/Cofins por despesas da Renner com publicidade digital",
+          "link": "https://www.jota.info/tributos/carf-nega-creditos-de-pis-cofins-por-despesas-da-renner-com-publicidade-digital",
+          "resumo": "Conselho concluiu que a publicidade não pode ser considerada insumo para as atividades da empresa",
+          "data_publicacao": "Sat, 16 May 2026 09:02:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Imposto de Renda Mínimo: imposto sobre renda presumida é tributo novo?",
+          "link": "https://www.conjur.com.br/2026-mai-18/imposto-de-renda-minimo-imposto-sobre-renda-presumida-e-tributo-novo/",
+          "resumo": "Spacca Participei recentemente de um painel da 10ª Jornada de Debates da Associação Brasileira de Advocacia Tributária (Abat), dedicado às alterações da tributação da renda das pessoas físicas promovidas pela Lei nº 15.270/2025. Entre os pontos discutidos, um se destaca pela densidade técnica e pelo",
+          "data_publicacao": "Mon, 18 May 2026 12:24:57 +0000",
+          "palavras_chave": [
+            "tributo",
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Espetacularização política e limites constitucionais da fiscalização parlamentar individual",
+          "link": "https://www.conjur.com.br/2026-mai-18/a-espetacularizacao-politica-e-os-limites-constitucionais-da-fiscalizacao-parlamentar-individual/",
+          "resumo": "A imagem do parlamentar fiscalizando repartições públicas, visitando escolas, constrangendo servidores e exigindo documentos diretamente de gestores tornou-se prática recorrente na política contemporânea. As redes sociais ampliaram esse comportamento ao transformar exposição pública em ativo polític",
+          "data_publicacao": "Mon, 18 May 2026 11:00:38 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
