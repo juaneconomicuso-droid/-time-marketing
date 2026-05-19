@@ -1,0 +1,55 @@
+{
+  "data_busca": "2026-05-19T13:56:01.351686",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "A autópsia da morte do contencioso tributário",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/a-autopsia-da-morte-do-contencioso-tributario",
+          "resumo": "A reforma tributária como resposta estrutural ao que uma pesquisa do Insper diagnosticou",
+          "data_publicacao": "Tue, 19 May 2026 12:37:55 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Núcleos de Justiça 4.0 para questões de CBS e IBS?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/nucleos-de-justica-4-0-para-questoes-de-cbs-e-ibs",
+          "resumo": "Não há dúvida de que o atual modelo de competências jurisdicionais não é adequado para esses casos",
+          "data_publicacao": "Mon, 18 May 2026 20:16:52 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Receita de Consenso e o risco fiscal da cooperação aduaneira",
+          "link": "https://www.conjur.com.br/2026-mai-19/receita-de-consenso-e-o-risco-fiscal-da-cooperacao-aduaneira/",
+          "resumo": "A conhecida metáfora da “armadilha de Tucídides”, recentemente retomada por Xi Jinping ao tratar da relação entre China e Estados Unidos, descreve situações em que estruturas persistentes de desconfiança recíproca acabam conduzindo atores relevantes a dinâmicas de conflito mesmo quando nenhum deles ",
+          "data_publicacao": "Tue, 19 May 2026 11:00:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
