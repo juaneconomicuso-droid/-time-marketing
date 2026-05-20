@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-05-20T13:43:11.972205",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Legislação vigente na exportação é a que vale para fins de Reintegra no IRPJ/CSLL",
+          "link": "https://www.jota.info/tributos/legislacao-vigente-na-exportacao-e-a-que-vale-para-fins-de-reintegra-no-irpj-csll",
+          "resumo": "Carf entendeu que tributação depende da lei vigente à época das exportações, não na tomada de crédito",
+          "data_publicacao": "Wed, 20 May 2026 09:07:35 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Omissão de receitas presumida por depósitos bancários na jurisprudência do Carf (parte 4)",
+          "link": "https://www.conjur.com.br/2026-mai-20/omissao-de-receitas-presumida-por-depositos-bancarios-na-jurisprudencia-do-carf-parte-4/",
+          "resumo": "Nas colunas anteriores desta série estabelecemos as bases conceituais sobre a omissão de receitas presumida a partir de depósitos bancários, analisamos o histórico do sigilo bancário no Brasil e as etapas procedimentais para a obtenção dessas informações pela fiscalização. Hoje, aprofundaremos a aná",
+          "data_publicacao": "Wed, 20 May 2026 11:00:11 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
