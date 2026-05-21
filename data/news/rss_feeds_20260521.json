@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-05-21T14:15:23.121676",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Autonomia financeira das agências: o limite entre ajuste fiscal e esvaziamento regulatório",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/autonomia-financeira-das-agencias-o-limite-entre-ajuste-fiscal-e-esvaziamento-regulatorio",
+          "resumo": "Decisão na ADI 7791 reforça que taxas de fiscalização não podem ser dissociadas da atividade que justificou cobrança",
+          "data_publicacao": "Thu, 21 May 2026 08:00:15 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
