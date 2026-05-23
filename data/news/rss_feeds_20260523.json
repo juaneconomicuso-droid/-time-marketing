@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-05-23T12:01:54.071055",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "A tributação dos influenciadores digitais na reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/regulacao-e-novas-tecnologias/a-tributacao-dos-influenciadores-digitais-na-reforma-tributaria",
+          "resumo": "Simplificação fiscal ou nova insegurança regulatória?",
+          "data_publicacao": "Sat, 23 May 2026 08:30:59 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
