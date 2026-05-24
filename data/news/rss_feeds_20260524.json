@@ -1,0 +1,53 @@
+{
+  "data_busca": "2026-05-24T12:02:41.176542",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém reclassificação de conservador comercial como congelador para fins de IPI",
+          "link": "https://www.jota.info/tributos/carf-mantem-reclassificacao-de-conservador-comercial-como-congelador-para-fins-de-ipi",
+          "resumo": "Alíquota foi mantida em 15% em processo que defendia classificação dos produtos como 'outros' aparelhos para produção de frio",
+          "data_publicacao": "Sun, 24 May 2026 09:17:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e crimes econômicos",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-crimes-economicos",
+          "resumo": "Novo modelo não representa abrandamento do direito penal tributário, mas uma mudança de paradigma",
+          "data_publicacao": "Sun, 24 May 2026 08:15:08 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "A tributação dos influenciadores digitais na reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/regulacao-e-novas-tecnologias/a-tributacao-dos-influenciadores-digitais-na-reforma-tributaria",
+          "resumo": "Simplificação fiscal ou nova insegurança regulatória?",
+          "data_publicacao": "Sat, 23 May 2026 08:30:59 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
