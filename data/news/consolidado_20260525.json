@@ -1,0 +1,87 @@
+{
+  "data_consolidacao": "2026-05-25T14:11:43.837741",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf segue LC 227, que regulamenta a reforma tributária, e cancela multa a empresa",
+          "link": "https://www.jota.info/tributos/carf-segue-lc-227-que-regulamenta-a-reforma-tributaria-e-cancela-multa-a-empresa",
+          "resumo": "Decisão foi orientada pela Lei Complementar 227/2026, um dois textos responsáveis pela regulamentação da reforma tributária",
+          "data_publicacao": "Mon, 25 May 2026 09:33:43 +0000",
+          "palavras_chave": [
+            "CARF",
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Exportação de serviços na reforma tributária: menos tese, mais governança",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/exportacao-de-servicos-na-reforma-tributaria-menos-tese-mais-governanca",
+          "resumo": "Reforma trouxe mais objetividade, mas disputa tende a não desaparecer, apenas mudar de forma",
+          "data_publicacao": "Mon, 25 May 2026 08:20:25 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf mantém reclassificação de conservador comercial como congelador para fins de IPI",
+          "link": "https://www.jota.info/tributos/carf-mantem-reclassificacao-de-conservador-comercial-como-congelador-para-fins-de-ipi",
+          "resumo": "Alíquota foi mantida em 15% em processo que defendia classificação dos produtos como 'outros' aparelhos para produção de frio",
+          "data_publicacao": "Sun, 24 May 2026 09:17:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e crimes econômicos",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-crimes-economicos",
+          "resumo": "Novo modelo não representa abrandamento do direito penal tributário, mas uma mudança de paradigma",
+          "data_publicacao": "Sun, 24 May 2026 08:15:08 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Paraguai atrai, mas saída fiscal só se sustenta com prova de substância",
+          "link": "https://www.conjur.com.br/2026-mai-25/paraguai-atrai-mas-saida-fiscal-so-se-sustenta-com-prova-de-substancia/",
+          "resumo": "Wikicommons O Paraguai deixou de ser apenas uma curiosidade tributária de fronteira. Tornou-se uma alternativa concreta para brasileiros que buscam reorganizar a vida patrimonial e, em alguns casos, a própria estrutura produtiva. O tema, porém, costuma ser tratado com superficialidade, visto que mui",
+          "data_publicacao": "Mon, 25 May 2026 09:30:55 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
