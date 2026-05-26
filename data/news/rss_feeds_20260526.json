@@ -1,0 +1,36 @@
+{
+  "data_busca": "2026-05-26T13:55:10.080506",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf altera regimento interno para se adaptar à reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/carf-altera-regimento-interno-para-se-adaptar-a-reforma-tributaria",
+          "resumo": "Portaria fixa em cinco dias úteis prazo para embargos e agravo. Para recurso voluntário, prazo é de 20 dias",
+          "data_publicacao": "Tue, 26 May 2026 10:06:44 +0000",
+          "palavras_chave": [
+            "CARF",
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
