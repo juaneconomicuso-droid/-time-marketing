@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-05-27T14:28:45.534632",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Cobrança de Cide-Royalties sobre direitos autorais é mantida pelo Carf",
+          "link": "https://www.jota.info/tributos/cobranca-de-cide-royalties-sobre-direitos-autorais-e-mantida-pelo-carf",
+          "resumo": "Caso tratava de remessas do licenciamento de conteúdo de programação audiovisual feitas pela Embratel Tvsat Telecomunicações",
+          "data_publicacao": "Wed, 27 May 2026 09:06:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A reforma tributária e o vazio institucional dos entes subnacionais",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-reforma-tributaria-e-o-vazio-institucional-dos-entes-subnacionais",
+          "resumo": "Verdadeiro divisor de águas não está apenas no sistema tributário, mas na qualidade das instituições subnacionais",
+          "data_publicacao": "Wed, 27 May 2026 08:15:17 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "CTN e reforma: entre tradição e ruptura",
+          "link": "https://www.conjur.com.br/2026-mai-27/ctn-e-reforma-entre-tradicao-e-ruptura/",
+          "resumo": "As alterações promovidas pela Emenda Constitucional 132 transcendem a simples substituição e regulação de tributos. Ela modifica a própria lógica de funcionamento da tributação do consumo no Brasil e obriga a releitura de categorias clássicas construídas ao longo de décadas pelo Código Tributário Na",
+          "data_publicacao": "Wed, 27 May 2026 11:00:55 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Vitória do povo na Casa do Povo: ‘terrorismo econômico’ contra a reforma",
+          "link": "https://www.conjur.com.br/2026-mai-27/vitoria-do-povo-na-casa-do-povo-terrorismo-economico-contra-a-reforma/",
+          "resumo": "“Quando sentirem saudades, então estudem mais, perguntem tudo que não entenderem, perguntem sempre o porquê das coisas – perguntar e pensar – ver se é certo, se não for, falem, discutam – ver se é justo, se não for, lutem para mudar.” Até então, nesta série, nos dedicamos a demonstrar a legitimidade",
+          "data_publicacao": "Wed, 27 May 2026 11:00:46 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
