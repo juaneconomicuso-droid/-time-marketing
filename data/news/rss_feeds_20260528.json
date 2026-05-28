@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-05-28T14:39:14.589495",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "IBS e a exportação indireta: suspensão ou imunidade?",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/ibs-e-a-exportacao-indireta-suspensao-ou-imunidade",
+          "resumo": "LC 214/25 condiciona desoneração nas vendas a comerciais exportadoras a requisitos rigorosos e gera controvérsia constitucional",
+          "data_publicacao": "Thu, 28 May 2026 08:30:17 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Limites invasivos da fiscalização e o devido processo legal",
+          "link": "https://www.conjur.com.br/2026-mai-28/limites-invasivos-da-fiscalizacao-e-o-devido-processo-legal/",
+          "resumo": "A Constituição de 1988 inaugurou uma série de direitos e garantias individuais como corolário libertário de um momento opressivo; estabeleceu, assim, o Estado Constitucional, no qual a lei foi o único ou era o único escudo frente a várias formas de opressão do Estado contra o indivíduo. Nem sequer u",
+          "data_publicacao": "Thu, 28 May 2026 13:17:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
