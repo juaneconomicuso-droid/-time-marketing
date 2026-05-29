@@ -1,0 +1,47 @@
+{
+  "data_busca": "2026-05-29T14:10:07.075743",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Com base na regulamentação da reforma tributária, Carf cancela multa aduaneira de 1%",
+          "link": "https://www.jota.info/tributos/com-base-na-regulamentcaao-da-reforma-tributaria-carf-cancela-multa-aduaneira-de-1",
+          "resumo": "Lei extinguiu multa aduaneira de 1% por erro na classificação fiscal ou descrição de mercadorias importadas",
+          "data_publicacao": "Fri, 29 May 2026 09:20:32 +0000",
+          "palavras_chave": [
+            "CARF",
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "CBS/IBS e imunidade tributária: exoneração das exportações para o agronegócio",
+          "link": "https://www.conjur.com.br/2026-mai-29/cbs-ibs-e-imunidade-tributaria-exoneracao-das-exportacoes-para-o-agronegocio/",
+          "resumo": "Agronegócio e vocação exportadora O artigo desta semana decorre e homenageia o tradicional e relevante 29º Congresso de Direito Tributário IGA-Idepe, que tive a honra, mais uma vez, de realizar palestra no painel da tributação no agronegócio a respeito do tema das exportações na reforma tributária. ",
+          "data_publicacao": "Fri, 29 May 2026 11:00:25 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
