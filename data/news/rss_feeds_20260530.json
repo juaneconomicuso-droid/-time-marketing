@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-05-30T12:05:34.463432",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária e contratos de concessão preexistentes",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-contratos-de-concessao-preexistentes",
+          "resumo": "O desafio do reequilíbrio econômico-financeiro",
+          "data_publicacao": "Sat, 30 May 2026 08:20:24 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "ConJur estreia ferramenta de enquetes com pergunta sobre reforma administrativa",
+          "link": "https://www.conjur.com.br/2026-mai-29/conjur-estreia-ferramenta-de-enquetes-com-pergunta-sobre-reforma-administrativa/",
+          "resumo": "A revista eletrônica Consultor Jurídico conta agora com mais uma maneira de ouvir seus leitores sobre os temas mais relevantes do Judiciário, da política e da administração pública: uma ferramenta de enquetes que funcionará como um termômetro do humor de um público altamente qualificado. A primeira ",
+          "data_publicacao": "Sat, 30 May 2026 00:45:05 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
