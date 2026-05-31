@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-05-31T12:13:48.699924",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Cooperação para enfrentar o novo contencioso judicial do IBS e da CBS",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/cooperacao-para-enfrentar-o-novo-contencioso-judicial-do-ibs-e-da-cbs",
+          "resumo": "Princípio deve se refletir na atuação judicial dos entes federativos frente aos novos tributos",
+          "data_publicacao": "Sun, 31 May 2026 08:15:11 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e contratos de concessão preexistentes",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-contratos-de-concessao-preexistentes",
+          "resumo": "O desafio do reequilíbrio econômico-financeiro",
+          "data_publicacao": "Sat, 30 May 2026 08:20:24 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
