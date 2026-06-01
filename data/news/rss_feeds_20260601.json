@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-06-01T16:41:15.163207",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Fiscalização sanitária em transformação: o que o setor regulado precisa saber",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/fiscalizacao-sanitaria-em-transformacao-o-que-o-setor-regulado-precisa-saber",
+          "resumo": "Três consultas públicas abertas pela Anvisa entre dezembro de 2024 e março deste ano constroem novo cenário",
+          "data_publicacao": "Mon, 01 Jun 2026 15:00:35 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf derruba cobrança de PIS e Cofins de R$ 1,1 bilhão contra a Petrobras",
+          "link": "https://www.jota.info/tributos/carf-derruba-cobranca-de-pis-e-cofins-de-r-11-bilhao-contra-a-petrobras",
+          "resumo": "Caso envolve aproveitamento de créditos por despesas com contratos de transporte dutoviário de gás natural",
+          "data_publicacao": "Mon, 01 Jun 2026 09:43:35 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
