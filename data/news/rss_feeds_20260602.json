@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-06-02T14:57:14.180056",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf autoriza BRF a excluir incentivo de ICMS sem reserva por prejuízos acumulados",
+          "link": "https://www.jota.info/tributos/carf-autoriza-brf-a-excluir-incentivo-de-icms-sem-reserva-por-prejuizos-acumulados",
+          "resumo": "Conselho autoriza dedução de valores da base do IRPJ e da CSLL.  Fisco argumentou que BRF não constituiu reserva de incentivos fiscais",
+          "data_publicacao": "Tue, 02 Jun 2026 09:41:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
