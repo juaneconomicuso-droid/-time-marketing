@@ -1,0 +1,58 @@
+{
+  "data_consolidacao": "2026-06-03T15:48:45.019603",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Desembargador do TRF3 suspende adicional de 10% no IRPJ e na CSLL para empresa de SP",
+          "link": "https://www.jota.info/tributos/desembargador-do-trf3-suspende-adicional-de-10-no-irpj-e-na-csll-para-empresa-de-sp",
+          "resumo": "Magistrado entendeu que majoração trata o lucro presumido indevidamente como benefício fiscal",
+          "data_publicacao": "Wed, 03 Jun 2026 09:57:08 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária amplia desafios no regime drawback-suspensão",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-amplia-desafios-no-regime-drawback-suspensao",
+          "resumo": "Regulamentação de IBS e CBS impõe barreiras financeiras e sistêmicas, contrariando promessa de simplificação",
+          "data_publicacao": "Wed, 03 Jun 2026 08:00:01 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
