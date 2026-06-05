@@ -1,0 +1,36 @@
+{
+  "data_busca": "2026-06-05T13:53:22.504870",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "CDE não é tributo: as consequências disso para ICMS, PIS/Cofins, IRPJ e CSLL",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/cde-nao-e-tributo-as-consequencias-disso-para-icms-pis-cofins-irpj-e-csll",
+          "resumo": "Consolidação do STJ sobre a Conta de Desenvolvimento Energético impacta cálculo de tributos",
+          "data_publicacao": "Fri, 05 Jun 2026 08:15:57 +0000",
+          "palavras_chave": [
+            "tributo",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
