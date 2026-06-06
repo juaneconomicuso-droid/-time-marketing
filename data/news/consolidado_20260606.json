@@ -1,0 +1,70 @@
+{
+  "data_consolidacao": "2026-06-06T12:10:33.774149",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf estuda criar turmas especializadas para julgar CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/carf-estuda-criar-turmas-especializadas-para-julgar-cbs",
+          "resumo": "Conselho se prepara para analisar novo tributo federal criado pela reforma tributária. Julgamentos na área administrativa ficarão com a 3ª Seção do Carf",
+          "data_publicacao": "Sat, 06 Jun 2026 10:46:01 +0000",
+          "palavras_chave": [
+            "CARF",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "CDE não é tributo: as consequências disso para ICMS, PIS/Cofins, IRPJ e CSLL",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/cde-nao-e-tributo-as-consequencias-disso-para-icms-pis-cofins-irpj-e-csll",
+          "resumo": "Consolidação do STJ sobre a Conta de Desenvolvimento Energético impacta cálculo de tributos",
+          "data_publicacao": "Fri, 05 Jun 2026 08:15:57 +0000",
+          "palavras_chave": [
+            "tributo",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Carf fortalece tese sobre prescrição do artigo 168 do CTN e antecipando debate do STJ no Tema 1.428",
+          "link": "https://www.conjur.com.br/2026-jun-06/carf-fortalece-tese-sobre-prescricao-do-artigo-168-do-ctn-e-antecipando-debate-do-stj-no-tema-1-428/",
+          "resumo": "Em julgamento realizado pela 1ª Seção, 3ª Câmara, 2ª Turma Ordinária do Conselho Administrativo de Recursos Fiscais (Carf) foi proferido acórdão favorável ao contribuinte ao reconhecer que o prazo prescricional de cinco anos previsto no artigo 168, inciso I, do Código Tributário Nacional se aplica a",
+          "data_publicacao": "Sat, 06 Jun 2026 09:30:18 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
