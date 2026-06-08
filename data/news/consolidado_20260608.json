@@ -1,0 +1,60 @@
+{
+  "data_consolidacao": "2026-06-08T14:49:55.242943",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Justiça estadual e federal divergem em decisões sobre suspensão de CBS e IBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/justica-estadual-e-federal-divergem-em-decisoes-sobre-suspensao-de-cbs-e-ibs",
+          "resumo": "Ações foram levadas à Justiça para questionar dispositivo da LC 214, que trata de suspensão tributária em exportações indiretas",
+          "data_publicacao": "Sun, 07 Jun 2026 10:10:30 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Carf estuda criar turmas especializadas para julgar CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/carf-estuda-criar-turmas-especializadas-para-julgar-cbs",
+          "resumo": "Conselho se prepara para analisar novo tributo federal criado pela reforma tributária. Julgamentos na área administrativa ficarão com a 3ª Seção do Carf",
+          "data_publicacao": "Sat, 06 Jun 2026 10:46:01 +0000",
+          "palavras_chave": [
+            "CARF",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
