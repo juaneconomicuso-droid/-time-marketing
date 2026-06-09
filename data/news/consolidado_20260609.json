@@ -1,0 +1,49 @@
+{
+  "data_consolidacao": "2026-06-09T13:47:51.625665",
+  "total_fontes": 7,
+  "total_noticias": 1,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Imposto Seletivo: bebidas alcoólicas terão duas alíquotas, mas modelo segue indefinido",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/imposto-seletivo-bebidas-alcoolicas-terao-duas-aliquotas-mas-modelo-segue-indefinido",
+          "resumo": "Será cobrado um percentual por litro de álcool puro presente na bebida e mais uma alíquota, que poderá variar",
+          "data_publicacao": "Tue, 09 Jun 2026 09:53:48 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
