@@ -1,0 +1,59 @@
+{
+  "data_consolidacao": "2026-06-10T14:26:01.794091",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária e fim da escala 6×1 são desafios para o setor aéreo, diz CEO da Latam",
+          "link": "https://www.jota.info/tributos-e-empresas/mercado/reforma-tributaria-e-fim-da-escala-6x1-sao-desafios-para-o-setor-aereo-diz-ceo-da-latam",
+          "resumo": "Jerome Cadier diz que a reforma deve aumentar custos da passagem e reafirma que a redução da jornada poderá impactar voos longos",
+          "data_publicacao": "Wed, 10 Jun 2026 10:30:35 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reformar o Judiciário protege o STF, defende a Constituição e preserva a democracia",
+          "link": "https://www.conjur.com.br/2026-jun-10/reformar-o-judiciario-e-proteger-o-stf-defender-a-constituicao-e-preservar-a-democracia/",
+          "resumo": "A questão é de princípio: o Poder Judiciário é um poder derivado da Constituição de 1988, única depositária da soberania popular constituinte. Somente o Poder Executivo e o Poder Legislativo nasceram diretamente da legitimidade conferida pela soberania popular constituinte. Geraldo Magela/Agência Se",
+          "data_publicacao": "Wed, 10 Jun 2026 12:08:05 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
