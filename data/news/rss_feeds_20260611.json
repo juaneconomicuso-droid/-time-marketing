@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-06-11T14:41:45.118338",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "RioComex e o novo incentivo fiscal do RJ",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/riocomex-e-o-novo-incentivo-fiscal-do-rj",
+          "resumo": "É hora de considerar o Rio nas operações de importação? Regime em vigor desde 1º/6 exige análise de requisitos e custos",
+          "data_publicacao": "Thu, 11 Jun 2026 08:00:29 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "A reforma tributária e os fluxos de caixa das empresas: como analisar?",
+          "link": "https://www.conjur.com.br/2026-jun-11/a-reforma-tributaria-e-os-fluxos-de-caixa-das-empresas-como-analisar/",
+          "resumo": "Na velha contabilidade, as empresas eram medidas por seus resultados e, em consequência, pelos lucros e dividendos que poderiam distribuir. Desde que o Brasil aderiu aos princípios contábeis do International Financial Reporting Standards (IFRS — Padrões Internacionais de Relatório Financeiro), em 20",
+          "data_publicacao": "Thu, 11 Jun 2026 11:00:32 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
