@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-06-12T14:11:05.341165",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária, setor tecnológico e a dependência estrutural",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-setor-tecnologico-e-a-dependencia-estrutural",
+          "resumo": "O mundo mudou e o direito tributário precisa acompanhar",
+          "data_publicacao": "Fri, 12 Jun 2026 08:10:13 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
