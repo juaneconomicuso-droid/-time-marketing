@@ -1,0 +1,79 @@
+{
+  "data_consolidacao": "2026-06-13T12:52:33.376610",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "A Iara no Carf e o verdadeiro teste da inteligência artificial no Estado",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-iara-no-carf-e-o-verdadeiro-teste-da-inteligencia-artificial-no-estado",
+          "resumo": "Quando a tecnologia influencia caminho da decisão, governança passa a ser parte essencial da legitimidade do próprio julgamento",
+          "data_publicacao": "Sat, 13 Jun 2026 08:30:01 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Fachin cria três frentes de ação para reformar o Judiciário e busca agregar colegas à proposta",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-flavia-maia/fachin-cria-tres-frentes-de-acao-para-reformar-o-judiciario-e-busca-agregar-colegas-a-proposta",
+          "resumo": "Fachin não desistiu do Código de Ética, mas aprendeu que a pior oposição é a interna",
+          "data_publicacao": "Sat, 13 Jun 2026 00:55:55 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Uma provocativa solução ao contencioso judicial do IBS/CBS",
+          "link": "https://www.conjur.com.br/2026-jun-13/uma-provocativa-solucao-ao-contencioso-judicial-do-ibs-cbs/",
+          "resumo": "Por meio da Emenda Constitucional nº 132/2023, o Brasil buscou unificar a tributação do consumo em dois tributos e se socorreu de um mecanismo interno de repartição de receitas para satisfazer a autonomia dos entes públicos. Isso trouxe inegáveis avanços do ponto de vista da racionalidade jurídica, ",
+          "data_publicacao": "Sat, 13 Jun 2026 12:22:48 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Estrutura da Câmara Nacional de Integração do Contencioso Administrativo do IBS/CBS",
+          "link": "https://www.conjur.com.br/2026-jun-13/a-estrutura-da-camara-nacional-de-integracao-do-contencioso-administrativo-do-ibs-e-da-cbs/",
+          "resumo": "A Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS (Cnica) foi criada pela Lei Complementar nº 227, de 13 de janeiro de 2026, com o objetivo de integrar os contenciosos administrativos do IBS e da CBS e uniformizar os julgados proferidos pelo Comitê Gestor do IBS (CGIBS) e",
+          "data_publicacao": "Sat, 13 Jun 2026 09:02:43 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
