@@ -1,0 +1,72 @@
+{
+  "data_busca": "2026-06-14T13:00:29.273082",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Ensaio sobre a cegueira fiscal: pautas-bomba e terrorismo legislativo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ensaio-sobre-a-cegueira-fiscal-pautas-bomba-e-terrorismo-legislativo",
+          "resumo": "Aprovar benefício sem fonte de custeio não testa o Tesouro, convoca o STF que o Congresso depois vai acusar de ativismo",
+          "data_publicacao": "Sun, 14 Jun 2026 08:30:57 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "IA e fiscalização: limites à prevenção e repressão de crimes ambientais no Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ia-e-fiscalizacao-limites-a-prevencao-e-repressao-de-crimes-ambientais-no-brasil",
+          "resumo": "Proteção do meio ambiente, por mais urgente que seja, não autoriza atalhos incompatíveis com garantias constitucionais",
+          "data_publicacao": "Sun, 14 Jun 2026 08:10:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A Iara no Carf e o verdadeiro teste da inteligência artificial no Estado",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-iara-no-carf-e-o-verdadeiro-teste-da-inteligencia-artificial-no-estado",
+          "resumo": "Quando a tecnologia influencia caminho da decisão, governança passa a ser parte essencial da legitimidade do próprio julgamento",
+          "data_publicacao": "Sat, 13 Jun 2026 08:30:01 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Fachin cria três frentes de ação para reformar o Judiciário e busca agregar colegas à proposta",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-flavia-maia/fachin-cria-tres-frentes-de-acao-para-reformar-o-judiciario-e-busca-agregar-colegas-a-proposta",
+          "resumo": "Fachin não desistiu do Código de Ética, mas aprendeu que a pior oposição é a interna",
+          "data_publicacao": "Sat, 13 Jun 2026 00:55:55 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Setor naval tem direito ao Reintegra mediante regularidade fiscal, diz STJ",
+          "link": "https://www.conjur.com.br/2026-jun-14/setor-naval-tem-direito-ao-reintegra-mediante-regularidade-fiscal-diz-stj/",
+          "resumo": "O setor naval brasileiro tem direito ao Regime Especial de Reintegração de Valores Tributários para Empresas Exportadoras (Reintegra), desde que suas atividades estejam incluídas no Registro Especial Brasileiro (REB) e as empresas demonstrem sua regularidade fiscal. Essa conclusão é da 1ª Turma do S",
+          "data_publicacao": "Sun, 14 Jun 2026 11:24:39 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
