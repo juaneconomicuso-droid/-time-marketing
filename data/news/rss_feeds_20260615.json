@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-06-15T16:18:49.126208",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Quem pensa que a reforma tributária é assunto do fiscal já está atrasado",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/quem-pensa-que-a-reforma-tributaria-e-assunto-do-fiscal-ja-esta-atrasado",
+          "resumo": "Empresas que não integrarem áreas e processos podem perder caixa e rentabilidade na transição",
+          "data_publicacao": "Mon, 15 Jun 2026 13:00:54 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Ensaio sobre a cegueira fiscal: pautas-bomba e terrorismo legislativo",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ensaio-sobre-a-cegueira-fiscal-pautas-bomba-e-terrorismo-legislativo",
+          "resumo": "Aprovar benefício sem fonte de custeio não testa o Tesouro, convoca o STF que o Congresso depois vai acusar de ativismo",
+          "data_publicacao": "Sun, 14 Jun 2026 08:30:57 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
