@@ -1,0 +1,56 @@
+{
+  "data_busca": "2026-06-16T15:59:31.792916",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Receita de Consenso: segurança jurídica ou estímulo ao descumprimento tributário?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/receita-de-consenso-seguranca-juridica-ou-estimulo-ao-descumprimento-tributario",
+          "resumo": "Possibilidade de acordos durante a fiscalização desestimula a busca de soluções prévias",
+          "data_publicacao": "Tue, 16 Jun 2026 08:05:24 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e mercado de carbono: clareza para o futuro, indefinição do presente",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-mercado-de-carbono-clareza-para-o-futuro-indefinicao-do-presente",
+          "resumo": "Mercado voluntário já é realidade, a despeito da indefinição quanto ao tratamento tributário aplicável sob o novo sistema",
+          "data_publicacao": "Tue, 16 Jun 2026 08:00:38 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Importação, IBS e CBS: o que revela a regulamentação da reforma tributária",
+          "link": "https://www.conjur.com.br/2026-jun-16/importacao-ibs-e-cbs-o-que-revela-a-regulamentacao-da-reforma-tributaria/",
+          "resumo": "Desde a promulgação da Emenda Constitucional nº 132/2023, tenho acompanhado nesta coluna os impactos da reforma tributária sobre o comércio exterior brasileiro, [1] examinando temas como exportações, regimes aduaneiros especiais, Zona Franca de Manaus, Zonas de Processamento de Exportação, Repetro, ",
+          "data_publicacao": "Tue, 16 Jun 2026 12:24:43 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
