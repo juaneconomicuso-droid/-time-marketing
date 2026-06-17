@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-06-17T14:26:45.798738",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Gerente de marketing de banco é cargo com natureza bancária, decide Carf",
+          "link": "https://www.jota.info/tributos/gerente-de-marketing-de-banco-e-cargo-com-natureza-bancaria-decide-carf",
+          "resumo": "Conselho mantém cobrança de Risco Ambiental do Trabalho (RAT) contra o Banco Safra S.A à alíquota de 3%",
+          "data_publicacao": "Wed, 17 Jun 2026 11:00:32 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Agências reguladoras alertam para impacto de bloqueios orçamentários na fiscalização",
+          "link": "https://www.jota.info/legislativo/agencias-reguladoras-alertam-para-impacto-de-bloqueios-orcamentarios-na-fiscalizacao",
+          "resumo": "Bloqueios somam R$ 44,9 milhões na ANA e R$ 57 milhões na ANTT; após audiência, Senado aprovou proposta para blindar despesas das agências reguladoras",
+          "data_publicacao": "Tue, 16 Jun 2026 22:45:23 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
