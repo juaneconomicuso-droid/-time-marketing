@@ -1,0 +1,58 @@
+{
+  "data_consolidacao": "2026-06-18T14:13:20.683977",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "TRF3 tem 9,2 mil casos tributários e previdenciários à espera de julgamento no STF",
+          "link": "https://www.jota.info/tributos/trf3-tem-92-mil-casos-tributarios-e-previdenciarios-a-espera-de-julgamento-no-stf",
+          "resumo": "Inclusão do ISS na base do PIS/Cofins é a principal discussão. TRF3 tem mais 1,5 mil casos aguardando o STJ",
+          "data_publicacao": "Thu, 18 Jun 2026 10:01:14 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "O paradoxo da proteção social: indexação, rigidez orçamentária e sustentabilidade fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-fiscal/o-paradoxo-da-protecao-social-indexacao-rigidez-orcamentaria-e-sustentabilidade-fiscal",
+          "resumo": "Indexação de despesas obrigatórias engessa o orçamento e ameaça o futuro das próprias políticas sociais",
+          "data_publicacao": "Thu, 18 Jun 2026 08:30:31 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
