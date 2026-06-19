@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-06-19T14:14:12.156047",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Telecomunicações e reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/telecomunicacoes-e-reforma-tributaria",
+          "resumo": "Sistema novo, carga antiga e disputas que sobrevivem",
+          "data_publicacao": "Fri, 19 Jun 2026 08:00:21 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
