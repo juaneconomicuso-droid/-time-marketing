@@ -1,0 +1,68 @@
+{
+  "data_consolidacao": "2026-06-20T12:27:23.058378",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STJ derruba penhora de imóvel vendido com certidão fiscal irregular",
+          "link": "https://www.jota.info/tributos/stj-derruba-penhora-de-imovel-vendido-com-certidao-fiscal-irregular",
+          "resumo": "O ministro relator, Gurgel de Faria, entendeu que a construtora foi induzida ao erro pelo estado e que não houve fraude",
+          "data_publicacao": "Sat, 20 Jun 2026 10:14:19 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A crise no financiamento do ensino superior e a urgência de superar a barreira fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-crise-no-financiamento-do-ensino-superior-e-a-urgencia-de-superar-a-barreira-fiscal",
+          "resumo": "Uma análise econômica do Direito e do controle das políticas públicas sobre o contingenciamento nas universidades federais",
+          "data_publicacao": "Sat, 20 Jun 2026 08:10:37 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Imposto Seletivo não pode desprezar efeitos do mercado ilegal",
+          "link": "https://www.conjur.com.br/2026-jun-20/imposto-seletivo-nao-pode-desprezar-efeitos-do-mercado-ilegal/",
+          "resumo": "A lógica do Imposto Seletivo parece simples. Ao aumentar a tributação de determinados produtos, espera-se elevar seus preços, reduzir seu consumo e diminuir os danos associados à sua utilização. Essa relação fundamenta a adoção de tributos sobre cigarros, bebidas alcoólicas, bebidas açucaradas e out",
+          "data_publicacao": "Sat, 20 Jun 2026 09:32:10 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
