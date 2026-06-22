@@ -1,0 +1,54 @@
+{
+  "data_busca": "2026-06-22T15:57:06.649416",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "JOTA Principal: Fazenda quer negociação com setores impactados por imposto do pecado",
+          "link": "https://www.jota.info/newsletters/jota-principal/jota-principal-fazenda-quer-negociacao-com-setores-impactados-por-imposto-do-pecado",
+          "resumo": "A ideia é fazer um acordo para evitar que o projeto de lei enviado ao Congresso com as alíquotas sofra resistência",
+          "data_publicacao": "Mon, 22 Jun 2026 12:30:13 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf mantém contribuições previdenciárias sobre ‘hiring bonus’ pago após 90 dias",
+          "link": "https://www.jota.info/tributos/carf-mantem-contribuicoes-previdenciarias-sobre-hiring-bonus-pago-apos-90-dias",
+          "resumo": "Empresa alegou que objetivo foi indenizar empregado pelos riscos de deixar o trabalho anterior",
+          "data_publicacao": "Mon, 22 Jun 2026 09:58:34 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Fraude à execução fiscal e responsabilidade tributária do sócio: REsp 2.030.470/SC",
+          "link": "https://www.conjur.com.br/2026-jun-22/fraude-a-execucao-fiscal-e-responsabilidade-tributaria-do-socio-a-posicao-do-stj-no-resp-2-030-470-sc/",
+          "resumo": "No julgamento do Recurso Especial nº 2.030.470/SC, concluído no último dia 16 de junho, a 1ª Turma do Superior Tribunal de Justiça enfrentou uma questão que transcende os limites da execução fiscal e alcança um dos pilares do Estado de Direito: a proteção da confiança legítima depositada pelos parti",
+          "data_publicacao": "Mon, 22 Jun 2026 14:23:55 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
