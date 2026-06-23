@@ -1,0 +1,72 @@
+{
+  "data_busca": "2026-06-23T13:43:52.029166",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "1ª Seção do STJ vai julgar conflitos federativos da reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/1a-secao-do-stj-vai-julgar-conflitos-federativos-da-reforma-tributaria",
+          "resumo": "Escolha do colegiado, que reúne integrantes da 1ª e 2ª Turmas, decorre de sua especialização em matérias tributárias e de Direito Público",
+          "data_publicacao": "Tue, 23 Jun 2026 13:11:37 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Gurgel de Faria paralisa julgamento sobre IRPJ e CSLL em operação de hedge cambial",
+          "link": "https://www.jota.info/tributos/gurgel-de-faria-paralisa-julgamento-sobre-irpj-e-csll-em-operacao-de-hedge-cambial",
+          "resumo": "Ministro, que é relator do caso, pediu vista regimental depois de voto-vista da ministra Regina Helena Costa",
+          "data_publicacao": "Tue, 23 Jun 2026 09:57:19 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Caiado defende reformas estruturantes para reduzir o ‘Custo Brasil’ em evento da CNI",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/caiado-defende-reformas-estruturantes-para-reduzir-o-custo-brasil-em-evento-da-cni",
+          "resumo": "Segundo o ex-governador de Goiás, é necessário revisar as reformas trabalhista, previdenciária e tributária",
+          "data_publicacao": "Tue, 23 Jun 2026 00:11:44 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Flávio Bolsonaro propõe suspender reforma tributária e reduzir IVA a 20%",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/flavio-bolsonaro-propoe-suspender-reforma-tributaria-e-reduzir-iva-a-20",
+          "resumo": "Pré-candidato também prometeu promover uma desregulamentação geral, revogando decretos e portarias que incidem sobre as empresas",
+          "data_publicacao": "Mon, 22 Jun 2026 21:32:36 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Presidenciáveis respondem apelo por segurança jurídica com promessa de reformas",
+          "link": "https://www.conjur.com.br/2026-jun-23/presidenciaveis-respondem-pedidos-de-seguranca-juridica-com-promessa-de-reformas/",
+          "resumo": "No que depender de Flávio Bolsonaro (PL), Romeu Zema (Novo) ou Ronaldo Caiado (PSB), o Brasil a partir de 2027 será um país de reformas estruturais, inclusive de áreas recentemente e profundamente reformadas, e gerenciais — a título de regulação e fiscalização. Essa foi a visão que os três pré-candi",
+          "data_publicacao": "Tue, 23 Jun 2026 11:28:30 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
