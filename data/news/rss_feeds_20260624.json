@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-06-24T13:25:11.872855",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Tribunais administrativos pós-reforma tributária e o descompasso judicante",
+          "link": "https://www.conjur.com.br/2026-jun-24/tribunais-administrativos-pos-reforma-tributaria-e-o-descompasso-judicante/",
+          "resumo": "A reforma tributária sobre o consumo já não é mais uma novidade nos foros de discussão acadêmica, bem como já se sabe qual é um dos seus pilares fundamentais e, por conseguinte, também o seu ponto de vulnerabilidade: a necessidade de unidade jurídica tanto no âmbito normativo como no momento de real",
+          "data_publicacao": "Wed, 24 Jun 2026 11:00:42 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
