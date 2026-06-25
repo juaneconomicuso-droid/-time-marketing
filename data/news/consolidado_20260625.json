@@ -1,0 +1,60 @@
+{
+  "data_consolidacao": "2026-06-25T13:24:26.430563",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Matar o médico para curar a doença: o projeto que quer acabar com o Carf",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/matar-o-medico-para-curar-a-doenca-o-projeto-que-quer-acabar-com-o-carf",
+          "resumo": "PL 2665 propõe transferir acervo trilionário de processos para uma Justiça Federal já sobrecarregada",
+          "data_publicacao": "Thu, 25 Jun 2026 08:40:43 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
