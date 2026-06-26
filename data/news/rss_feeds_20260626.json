@@ -1,0 +1,85 @@
+{
+  "data_busca": "2026-06-26T13:14:29.161296",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Complexidade, informalidade e alta carga: os desafios tributários na América Latina",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-barbara-mengardo/complexidade-informalidade-e-alta-carga-os-desafios-tributarios-na-america-latina",
+          "resumo": "O JOTA entrevistou tributaristas de seis países latino-americanos para saber pontos positivos e negativos de cada sistema",
+          "data_publicacao": "Fri, 26 Jun 2026 10:00:26 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "As justificativas da AGU para deixar de detalhar riscos de processos no anexo fiscal do PLDO",
+          "link": "https://www.jota.info/tributos/as-justificativas-da-agu-para-deixar-de-detalhar-riscos-de-processos-no-anexo-fiscal-do-pldo",
+          "resumo": "PLDO de 2027 deixou de detalhar ações e temas específicos de processos em tramitação nas cortes superiores; especialistas criticam falta de transparência",
+          "data_publicacao": "Fri, 26 Jun 2026 09:45:21 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Existe uma jurisprudência uniforme do Carf sobre planejamento tributário?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/existe-uma-jurisprudencia-uniforme-do-carf-sobre-planejamento-tributario",
+          "resumo": "Uma análise das divergências estruturais entre as seções de julgamento",
+          "data_publicacao": "Fri, 26 Jun 2026 08:30:05 +0000",
+          "palavras_chave": [
+            "CARF",
+            "planejamento",
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e reequilíbrio provisório",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-reequilibrio-provisorio",
+          "resumo": "O desafio da resposta administrativa",
+          "data_publicacao": "Fri, 26 Jun 2026 08:10:11 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STF – Benefício fiscal para compra de veículos por pessoas com deficiência – 25/6/2026",
+          "link": "https://www.jota.info/stf/do-supremo/stf-ao-vivo-beneficio-fiscal-para-compra-de-veiculos-por-pessoas-com-deficiencia-25-6-2026",
+          "resumo": "STF começa a julgar mudanças da reforma tributária na compra de veículos com isenção para PCDs",
+          "data_publicacao": "Thu, 25 Jun 2026 16:47:07 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Funrural e reforma tributária: a base de cálculo do IBS/CBS",
+          "link": "https://www.conjur.com.br/2026-jun-26/funrural-e-reforma-tributaria-a-base-de-calculo-do-ibs-cbs/",
+          "resumo": "Embora a contribuição previdenciária sobre a receita bruta da produção rural do produtor (pessoa física e jurídica) e da agroindústria, denominada de Funrural (artigo 22-A e 25, da Lei nº 8.212/91; artigo 8.870/94) não tenha sido objeto da reforma tributária sobre o consumo (Emenda Constitucional 13",
+          "data_publicacao": "Fri, 26 Jun 2026 11:00:56 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
