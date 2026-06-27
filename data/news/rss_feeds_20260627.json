@@ -1,0 +1,71 @@
+{
+  "data_busca": "2026-06-27T12:10:18.387323",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf admite créditos da tese do século, mas nega compensação não homologada",
+          "link": "https://www.jota.info/tributos/carf-admite-creditos-da-tese-do-seculo-mas-nega-compensacao-nao-homologada",
+          "resumo": "Créditos devem ser vinculados ao direito reconhecido em mandado de segurança da empresa",
+          "data_publicacao": "Sat, 27 Jun 2026 09:07:14 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Obras atrasadas, custos invisíveis e a crise de planejamento no setor público de SP",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/obras-atrasadas-custos-invisiveis-e-a-crise-de-planejamento-no-setor-publico-de-sp",
+          "resumo": "A incapacidade da administração pública paulista em transformar planejamento em resultados concretos para a população",
+          "data_publicacao": "Sat, 27 Jun 2026 08:50:43 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        },
+        {
+          "titulo": "O Direito Administrativo da reforma tributária: eles, os servidores",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-direito-administrativo-da-reforma-tributaria-eles-os-servidores",
+          "resumo": "Quem executará as competências do Comitê Gestor?",
+          "data_publicacao": "Sat, 27 Jun 2026 08:20:31 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Complexidade, informalidade e alta carga: os desafios tributários na América Latina",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-barbara-mengardo/complexidade-informalidade-e-alta-carga-os-desafios-tributarios-na-america-latina",
+          "resumo": "O JOTA entrevistou tributaristas de seis países latino-americanos para saber pontos positivos e negativos de cada sistema",
+          "data_publicacao": "Fri, 26 Jun 2026 10:00:26 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "As justificativas da AGU para deixar de detalhar riscos de processos no anexo fiscal do PLDO",
+          "link": "https://www.jota.info/tributos/as-justificativas-da-agu-para-deixar-de-detalhar-riscos-de-processos-no-anexo-fiscal-do-pldo",
+          "resumo": "PLDO de 2027 deixou de detalhar ações e temas específicos de processos em tramitação nas cortes superiores; especialistas criticam falta de transparência",
+          "data_publicacao": "Fri, 26 Jun 2026 09:45:21 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
