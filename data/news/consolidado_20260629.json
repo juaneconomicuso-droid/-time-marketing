@@ -1,0 +1,88 @@
+{
+  "data_consolidacao": "2026-06-29T14:49:04.241829",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "TJSP derruba modelo de IPTU de São Paulo atualizado com base na reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/tjsp-revoga-modelo-de-iptu-de-sao-paulo-atualizado-com-base-na-reforma-tributaria",
+          "resumo": "Corte paulista derrubou decreto que atualizou valores venais dos imóveis, mas manteve lei que restabeleceu regras de 1998",
+          "data_publicacao": "Mon, 29 Jun 2026 09:47:01 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Uma reforma eficaz do Poder Judiciário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/uma-reforma-eficaz-do-poder-judiciario",
+          "resumo": "Reflexão sobre trabalho dos juízes também requer renovação do compromisso jurídico e ético dos magistrados perante o povo brasileiro",
+          "data_publicacao": "Mon, 29 Jun 2026 08:00:08 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STJ nega uso de prejuízo fiscal de empresa para quitar dívida pessoal no Pert",
+          "link": "https://www.jota.info/tributos/stj-nega-uso-de-prejuizo-fiscal-de-empresa-para-quitar-divida-pessoal-no-pert",
+          "resumo": "Com o resultado, foi mantido o entendimento desfavorável ao contribuinte adotado pelo TRF da 2ª Região",
+          "data_publicacao": "Sun, 28 Jun 2026 09:44:08 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "STF deixa receitas próprias do MPU fora do arcabouço fiscal",
+          "link": "https://www.conjur.com.br/2026-jun-29/stf-deixa-receitas-proprias-do-mpu-fora-do-arcabouco-fiscal/",
+          "resumo": "O teto de gastos estabelecido pelo arcabouço fiscal não deve ser aplicado às receitas próprias do Ministério Público da União. Foi o que decidiu o Plenário do Supremo Tribunal Federal em julgamento virtual encerrado na última sexta-feira (26/6). O MPU é formado pelos Ministérios Públicos do Trabalho",
+          "data_publicacao": "Mon, 29 Jun 2026 13:25:30 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
