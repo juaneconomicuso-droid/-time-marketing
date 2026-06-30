@@ -1,0 +1,71 @@
+{
+  "data_busca": "2026-06-30T13:09:59.525798",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Renan Santos aciona Justiça para que débitos tributários contra ele deixem de ser públicos",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/renan-santos-aciona-justica-para-que-debitos-tributarios-contra-ele-deixem-de-ser-publicos",
+          "resumo": "Pré-candidato à Presidência pelo Missão alega que cobrança de R$ 1,17 milhão feita PGFN é indevida, já que ele não integrava empresa na data dos débitos",
+          "data_publicacao": "Tue, 30 Jun 2026 13:02:54 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "O que a reforma espanhola ensina ao Brasil sobre litigância predatória?",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/direito-economia-mercado/o-que-a-reforma-espanhola-ensina-ao-brasil-sobre-litigancia-predatoria",
+          "resumo": "Nomear a externalidade, atribuir-lhe consequência patrimonial e condicionar acesso a um esforço prévio de composição não fecha a porta do Judiciário",
+          "data_publicacao": "Tue, 30 Jun 2026 13:00:22 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "O impacto da reforma tributária no varejo farmacêutico",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-impacto-da-reforma-tributaria-no-varejo-farmaceutico",
+          "resumo": "Empresas que não avançarem em gestão de dados e digitalização terão mais dificuldade para acompanhar nova estrutura tributária",
+          "data_publicacao": "Tue, 30 Jun 2026 12:30:48 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Tese de que eficácia de EPI não afasta adicional por ruído predomina no Carf",
+          "link": "https://www.jota.info/tributos/tese-de-que-eficacia-de-epi-nao-afasta-adicional-por-ruido-predomina-no-carf",
+          "resumo": "Entendimento se apoia no Tema 555 do STF, no qual foi discutido o fornecimento de EPI como fator de descaracterização do tempo de serviço especial",
+          "data_publicacao": "Tue, 30 Jun 2026 09:42:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "CNC contesta no STF adicional de 10% no IRPJ e CSLL para empresas do lucro presumido",
+          "link": "https://www.jota.info/tributos/cnc-contesta-no-stf-adicional-de-10-no-irpj-e-csll-para-empresas-do-lucro-presumido",
+          "resumo": "Confederação alega que mudança viola a Constituição, amplia carga tributária e ignora margens de rentabilidade de cada setor",
+          "data_publicacao": "Mon, 29 Jun 2026 15:28:22 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
