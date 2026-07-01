@@ -1,0 +1,90 @@
+{
+  "data_consolidacao": "2026-07-01T13:35:10.303758",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "TST mantém natureza salarial de auxílio-alimentação concedido antes da Reforma Trabalhista",
+          "link": "https://www.jota.info/trabalho/tst-mantem-natureza-salarial-de-auxilio-alimentacao-concedido-antes-da-reforma-trabalhista",
+          "resumo": "Com a decisão, o auxílio acaba não sendo afetado de forma retroativa pelas alterações promovidas com a Lei 13.467/2017",
+          "data_publicacao": "Wed, 01 Jul 2026 13:09:16 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Justiça suspende ISSQN gerado em emissão de notas para fins de IBS/CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/justica-suspende-issqn-gerado-em-emissao-de-notas-para-fins-de-ibs-cbs",
+          "resumo": "Processo discute tributação de aluguel de aparelhos de comunicação, atividade isenta do imposto municipal",
+          "data_publicacao": "Wed, 01 Jul 2026 10:02:52 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Insumo na economia digital: o que a decisão do Carf sobre a Uber revela e o que ela não resolve",
+          "link": "https://www.conjur.com.br/2026-jul-01/insumo-na-economia-digital-o-que-a-decisao-do-carf-sobre-a-uber-revela-e-o-que-ela-nao-resolve/",
+          "resumo": "Quando o Superior Tribunal de Justiça julgou o Tema 779 (REsp 1.221.170/PR), em 2018, a expectativa era de que o longo contencioso sobre o conceito de insumo para fins de creditamento de PIS e Cofins finalmente encontrasse um porto seguro. O tribunal afastou tanto a leitura restritiva da Receita Fed",
+          "data_publicacao": "Wed, 01 Jul 2026 12:22:28 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Honorários sucumbenciais não sofrem incidência de ISS, IBS e CBS",
+          "link": "https://www.conjur.com.br/2026-jul-01/honorarios-sucumbenciais-nao-sofrem-incidencia-de-iss-ibs-e-cbs/",
+          "resumo": "A recente decisão monocrática proferida pelo ministro Teodoro Silva Santos, do Superior Tribunal de Justiça, que reconheceu a inclusão dos honorários advocatícios de sucumbência na base de cálculo do Simples Nacional (REsp nº 2.261.019/SC), tem suscitado intenso debate desde a sua publicação. Spacca",
+          "data_publicacao": "Wed, 01 Jul 2026 11:00:40 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
