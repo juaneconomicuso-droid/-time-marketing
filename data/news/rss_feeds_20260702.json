@@ -1,0 +1,35 @@
+{
+  "data_busca": "2026-07-02T13:00:04.771617",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária criará uma nova jabuticaba logística?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-criara-uma-nova-jabuticaba-logistica",
+          "resumo": "Proposta de fragmentação do transporte internacional porta a porta e exigência de novas obrigações acessórias podem gerar insegurança jurídica",
+          "data_publicacao": "Thu, 02 Jul 2026 08:30:14 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}

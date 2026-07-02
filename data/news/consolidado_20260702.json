@@ -1,0 +1,60 @@
+{
+  "data_consolidacao": "2026-07-02T13:00:07.969966",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária criará uma nova jabuticaba logística?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-criara-uma-nova-jabuticaba-logistica",
+          "resumo": "Proposta de fragmentação do transporte internacional porta a porta e exigência de novas obrigações acessórias podem gerar insegurança jurídica",
+          "data_publicacao": "Thu, 02 Jul 2026 08:30:14 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
