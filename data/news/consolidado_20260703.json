@@ -1,0 +1,79 @@
+{
+  "data_consolidacao": "2026-07-03T13:00:59.739104",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Fazenda torna vinculantes 51 súmulas do Carf para a Receita Federal",
+          "link": "https://www.jota.info/tributos/fazenda-torna-vinculantes-51-sumulas-do-carf-para-a-receita-federal",
+          "resumo": "Com isso, os entendimentos consolidados deverão ser observados por toda a administração tributária federal",
+          "data_publicacao": "Fri, 03 Jul 2026 10:12:47 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e agronegócio: regulamentações e preocupações",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-agronegocio-regulamentacoes-e-preocupacoes",
+          "resumo": "Efeitos principais deixam de ser a alíquota nominal e passam a ser a arquitetura do sistema",
+          "data_publicacao": "Fri, 03 Jul 2026 08:40:51 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Inércia do Estado leva a prescrição de crime tributário formal",
+          "link": "https://www.conjur.com.br/2026-jul-03/inercia-do-estado-leva-a-prescricao-de-crime-tributario-formal/",
+          "resumo": "O prazo prescricional de crimes tributários de natureza formal começa a correr no dia seguinte ao vencimento do tributo não pago. A consumação ocorre de forma instantânea e independente do exaurimento da via administrativa para o lançamento fiscal, impedindo a punição se o Estado não agir no tempo l",
+          "data_publicacao": "Fri, 03 Jul 2026 10:52:58 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
