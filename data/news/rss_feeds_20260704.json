@@ -1,0 +1,46 @@
+{
+  "data_busca": "2026-07-04T12:09:02.913807",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Benefício de caráter geral não é subvenção e integra a base do IRPJ e CSLL, decide Carf",
+          "link": "https://www.jota.info/tributos/beneficio-de-carater-geral-nao-e-subvencao-e-integra-a-base-do-irpj-e-csll-decide-carf",
+          "resumo": "Caso envolve exclusões de benefícios de ICMS da base dos tributos federais feitas por indústria de laticínios",
+          "data_publicacao": "Sat, 04 Jul 2026 09:14:56 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Fim da tributação na remessa? Impactos da reforma tributária nas operações de consignação",
+          "link": "https://www.conjur.com.br/2026-jul-04/fim-da-tributacao-na-remessa-impactos-da-reforma-tributaria-nas-operacoes-de-consignacao/",
+          "resumo": "Com a reforma tributária do consumo, instituída pela Emenda Constitucional nº 132/2023 e regulamentada pelas Leis Complementares 214/2025 e 227/2026, o tratamento tributário das operações de consignação tende a sofrer uma transformação estrutural significativa. Spacca Na sistemática vigente do ICMS,",
+          "data_publicacao": "Sat, 04 Jul 2026 09:34:43 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
