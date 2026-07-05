@@ -1,0 +1,80 @@
+{
+  "data_consolidacao": "2026-07-05T12:21:45.925461",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Benefício de caráter geral não é subvenção e integra a base do IRPJ e CSLL, decide Carf",
+          "link": "https://www.jota.info/tributos/beneficio-de-carater-geral-nao-e-subvencao-e-integra-a-base-do-irpj-e-csll-decide-carf",
+          "resumo": "Caso envolve exclusões de benefícios de ICMS da base dos tributos federais feitas por indústria de laticínios",
+          "data_publicacao": "Sat, 04 Jul 2026 09:14:56 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária e o desequilíbrio das concessões e PPPs de saneamento",
+          "link": "https://www.conjur.com.br/2026-jul-05/reforma-tributaria-e-o-desequilibrio-das-concessoes-e-ppps-de-saneamento-a-problematica-do-374-da-lc-214-2025/",
+          "resumo": "A reforma tributária, conformada pela Emenda Constitucional nº 132/2023 e pela Lei Complementar nº 214/2025, deixou o saneamento de fora do regime de redução de 60% das alíquotas de IBS e CBS conferido a setores reputados essenciais, como saúde e educação [1]. Com isso, a carga tributária efetiva do",
+          "data_publicacao": "Sun, 05 Jul 2026 11:00:34 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "A reforma tributária esquecida: o contencioso judicial do IVA dual",
+          "link": "https://www.conjur.com.br/2026-jul-05/a-reforma-tributaria-esquecida-o-contencioso-judicial-do-iva-dual/",
+          "resumo": "A reforma tributária do consumo é, provavelmente, a mais importante alteração do sistema fiscal brasileiro desde a Constituição de 1988. Depois de décadas de debates, o país decidiu enfrentar um problema conhecido por todos que lidam com a atividade econômica: a fragmentação da tributação sobre o co",
+          "data_publicacao": "Sun, 05 Jul 2026 10:01:13 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
