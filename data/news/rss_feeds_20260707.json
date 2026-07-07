@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-07-07T13:22:23.344392",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic",
+          "link": "https://www.jota.info/tributos/juiza-federal-determina-retomada-da-correcao-de-depositos-tributarios-pela-selic",
+          "resumo": "Para magistrada, substituição da taxa Selic pelo IPCA rompe a paridade entre a atualização dos créditos tributários federais",
+          "data_publicacao": "Tue, 07 Jul 2026 09:59:02 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
