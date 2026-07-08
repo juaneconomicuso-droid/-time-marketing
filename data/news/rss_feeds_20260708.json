@@ -1,0 +1,74 @@
+{
+  "data_busca": "2026-07-08T12:23:27.273801",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Imposto Seletivo: eventual ‘plano B’ do governo dificilmente escapará do Congresso",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/imposto-seletivo-eventual-plano-b-do-governo-dificilmente-escapara-do-congresso",
+          "resumo": "Mesmo a manutenção da carga tributária do IPI, reafirmada por Dario Durigan, precisaria ser analisada pelo Legislativo",
+          "data_publicacao": "Wed, 08 Jul 2026 10:12:45 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "A Declaração de Regimes Específicos (DeRe) e a tradução da reforma tributária em código",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/a-declaracao-de-regimes-especificos-dere-e-a-traducao-da-reforma-tributaria-em-codigo",
+          "resumo": "A legalidade tributária na era dos sistemas",
+          "data_publicacao": "Tue, 07 Jul 2026 14:00:13 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Devolução de depósito judicial deve seguir índice do crédito fiscal",
+          "link": "https://www.conjur.com.br/2026-jul-08/deposito-judicial-tributario-deve-seguir-indice-do-credito-fiscal/",
+          "resumo": "A devolução de depósitos judiciais usados para suspender exigibilidade de tributos deve ter o mesmo índice de atualização do crédito fiscal. A aplicação de índice inferior aos valores depositados pelo contribuinte rompe a isonomia e gera desequilíbrio na relação jurídico-tributária.  Com base nesse ",
+          "data_publicacao": "Wed, 08 Jul 2026 10:52:24 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Pode o Fisco exigir pagamento antecipado de imposto para permitir a emissão de nota fiscal?",
+          "link": "https://www.conjur.com.br/2026-jul-08/pode-o-fisco-exigir-pagamento-antecipado-de-imposto-para-permitir-a-emissao-de-nota-fiscal/",
+          "resumo": "Freepik A resposta deve começar com uma distinção. O ordenamento admite, em certos casos, técnicas de antecipação tributária previstas em lei, como substituição tributária, regimes de recolhimento diferenciado, antecipação em operações interestaduais e controles especiais de fiscalização. Esse não é",
+          "data_publicacao": "Wed, 08 Jul 2026 09:35:22 +0000",
+          "palavras_chave": [
+            "imposto",
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
