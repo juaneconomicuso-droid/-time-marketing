@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-07-09T13:50:58.534565",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Câmara Superior do Carf aplica tese do STF e mantém Cide sobre direitos autorais",
+          "link": "https://www.jota.info/tributos/camara-superior-do-carf-aplica-tese-do-stf-e-mantem-cide-sobre-direitos-autorais",
+          "resumo": "Conselho restabelece tributo sobre remessas ao exterior referentes à exploração de direitos autorais feitas pela Globo",
+          "data_publicacao": "Thu, 09 Jul 2026 09:33:09 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "PGR defende validade de decreto que aumentou IOF e tributou risco sacado",
+          "link": "https://www.jota.info/stf/do-supremo/pgr-defende-validade-de-decreto-que-aumentou-iof-e-tributou-risco-sacado",
+          "resumo": "Manifestação é assinada por Paulo Gonet e foi protocolada em um conjunto de ações que discutem o tema no STF",
+          "data_publicacao": "Wed, 08 Jul 2026 18:18:32 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Previdência privada como ferramenta de planejamento sucessório: ponderações necessárias",
+          "link": "https://www.conjur.com.br/2026-jul-09/previdencia-privada-como-ferramenta-de-planejamento-sucessorio-ponderacoes-necessarias/",
+          "resumo": "Há tempos corre solta, e com grande entusiasmo, a máxima de que “a previdência não entra em inventário”. Das salas reservadas de instituições financeiras (onde nem tudo é contado) às rodas de conversas entre amigos, passando pela cobertura jornalística [1] e atingindo as famigeradas chamadas em rede",
+          "data_publicacao": "Thu, 09 Jul 2026 11:00:39 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
