@@ -1,0 +1,98 @@
+{
+  "data_consolidacao": "2026-07-12T12:02:36.368221",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf aprova ágio em operação entre Getnet e Santander no setor de meios de pagamento",
+          "link": "https://www.jota.info/tributos/carf-aprova-agio-em-operacao-entre-getnet-e-santander-no-setor-de-meios-de-pagamento",
+          "resumo": "Conselho rejeita acusação de que houve uma empresa veículo interposta para viabilizar aproveitamento fiscal",
+          "data_publicacao": "Sun, 12 Jul 2026 09:20:33 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Carf nega admissão de hotel flutuante no Repetro-Sped",
+          "link": "https://www.jota.info/tributos/carf-nega-admissao-de-hotel-flutuante-no-repetro-sped",
+          "resumo": "Processo envolve a Petrobras que alegou uso da unidade como apoio às atividades offshore; argumento foi recusado pelo relator",
+          "data_publicacao": "Sat, 11 Jul 2026 09:08:49 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e desenvolvimento econômico municipal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-desenvolvimento-economico-municipal",
+          "resumo": "Uma mudança de curso",
+          "data_publicacao": "Sat, 11 Jul 2026 08:00:50 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Da tipicidade à residualidade: nova técnica de definição de competência na reforma tributária",
+          "link": "https://www.conjur.com.br/2026-jul-12/da-tipicidade-a-residualidade-nova-tecnica-de-definicao-de-competencia-na-reforma-tributaria/",
+          "resumo": "Spacca A Emenda Constitucional nº 132/2023 tem sido analisada, com razão, sob o prisma de suas escolhas de política fiscal, quais sejam: a não cumulatividade plena, a tributação no destino, a uniformidade de alíquota entre bens e serviços. Menos atenção, porém, tem recebido uma transformação de natu",
+          "data_publicacao": "Sun, 12 Jul 2026 09:30:40 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
