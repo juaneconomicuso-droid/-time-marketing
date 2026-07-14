@@ -1,0 +1,91 @@
+{
+  "data_consolidacao": "2026-07-14T12:17:19.416743",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf e Comitê ainda precisam definir estrutura de uniformização do IBS e CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/carf-e-comite-ainda-precisam-definir-estrutura-de-uniformizacao-do-ibs-e-cbs",
+          "resumo": "Segundo o presidente do Carf, Carlos Higino Ribeiro de Alencar, a estruturação do colegiado começará ainda em 2026",
+          "data_publicacao": "Tue, 14 Jul 2026 10:13:14 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Quem paga a conta do Imposto Seletivo?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quem-paga-a-conta-do-imposto-seletivo",
+          "resumo": "Começar a maior reorganização tributária em décadas invertendo o princípio que a justifica seria erro difícil de corrigir depois",
+          "data_publicacao": "Tue, 14 Jul 2026 08:30:07 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "IBS e CBS: até onde a lei pode relativizar a habitualidade",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/ibs-e-cbs-ate-onde-a-lei-pode-relativizar-a-habitualidade",
+          "resumo": "Ampliação da sujeição passiva pela lei complementar deve alimentar o contencioso",
+          "data_publicacao": "Tue, 14 Jul 2026 08:00:15 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
