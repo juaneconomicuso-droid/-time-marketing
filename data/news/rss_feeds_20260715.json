@@ -1,0 +1,55 @@
+{
+  "data_busca": "2026-07-15T12:18:37.859912",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "IBS e CBS: a não-cumulatividade é realmente plena na LC 214/25?",
+          "link": "https://www.conjur.com.br/2026-jul-15/ibs-e-cbs-a-nao-cumulatividade-e-realmente-plena-na-lc-214-25/",
+          "resumo": "A adoção de tributos não cumulativos, no Brasil, se fez pela Emenda Constitucional nº 18/65, que introduziu o Imposto sobre a Circulação de Mercadorias (ICM), assim designado até o ano de 1988 e, a partir de então ICMS, pois passou a incidir também sobre a circulação de serviços, além do Imposto sob",
+          "data_publicacao": "Wed, 15 Jul 2026 11:00:49 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "A nova casa do Carf: memória e futuro",
+          "link": "https://www.conjur.com.br/2026-jul-15/a-nova-casa-do-carf-memoria-e-futuro/",
+          "resumo": "O ano de 2025 marcou o centenário da criação do primeiro Conselho de Contribuintes, órgão que deu origem ao atual Conselho Administrativo de Recursos Fiscais (Carf). Ao longo desse século de existência, a segunda instância administrativa de julgamento de litígios tributários consolidou-se como um do",
+          "data_publicacao": "Wed, 15 Jul 2026 11:00:34 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
