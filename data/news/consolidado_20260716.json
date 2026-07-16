@@ -1,0 +1,97 @@
+{
+  "data_consolidacao": "2026-07-16T12:22:44.033898",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém indedutibilidade de despesas de sucursais no exterior em caso da Lava Jato",
+          "link": "https://www.jota.info/tributos/carf-mantem-indedutibilidade-de-despesas-de-sucursais-no-exterior-em-caso-lava-jato",
+          "resumo": "Autuação original, de R$ 3,85 bilhões, decorreu de operações reveladas em acordos de leniência e colaboração premiada envolvendo a CNO",
+          "data_publicacao": "Thu, 16 Jul 2026 09:27:05 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O contencioso da reforma tributária como teste da moral tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-contencioso-da-reforma-tributaria-como-teste-da-moral-tributaria",
+          "resumo": "Confiança dependerá da segurança jurídica e da atuação coerente do Estado na cobrança tributária",
+          "data_publicacao": "Thu, 16 Jul 2026 08:30:51 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Imposto Seletivo nas apostas: quando a proteção vira ameaça",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/imposto-seletivo-nas-apostas-quando-a-protecao-vira-ameaca",
+          "resumo": "Jogador, confrontado com custos invisíveis, desiste do mercado legal e retorna ao ilegal",
+          "data_publicacao": "Thu, 16 Jul 2026 08:10:41 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária não pode obrigar novos contribuintes a regras típicas de ICMS e ISS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-nao-pode-obrigar-novos-contribuintes-a-regras-tipicas-de-icms-e-iss",
+          "resumo": "Nota fiscal precisa documentar operação sujeita a novos tributos sem ressuscitar obrigações que a própria reforma pretende superar",
+          "data_publicacao": "Wed, 15 Jul 2026 15:00:57 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
