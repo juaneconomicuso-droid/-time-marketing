@@ -1,0 +1,119 @@
+{
+  "data_consolidacao": "2026-07-18T11:55:14.225573",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Governo e Comitê Gestor estudam adiar obrigação de destaque de IBS/CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/governo-e-comite-gestor-estudam-adiar-obrigacao-de-destaque-de-ibs-cbs",
+          "resumo": "Empresas temem que sistema inviabilize emissão de notas fora do novo padrão; tendência é que contribuintes tenham mais um mês para adaptação",
+          "data_publicacao": "Sat, 18 Jul 2026 10:28:18 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O diálogo (e o conflito) entre as súmulas Carf 76 e 99 no Simples Nacional",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/por-dentro-do-carf/o-dialogo-e-o-conflito-entre-as-sumulas-carf-76-e-99-no-simples-nacional",
+          "resumo": "Aplicação combinada é defendida como garantia de segurança jurídica ao contribuinte",
+          "data_publicacao": "Fri, 17 Jul 2026 12:30:03 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Adicionais de até R$ 64 mil e jetons de R$ 46 mil dividem Comitê Gestor do IBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/adicionais-de-ate-r-64-mil-e-jetons-de-r-46-mil-dividem-comite-gestor-do-ibs",
+          "resumo": "Proposta deve voltar à votação após conselheiros pedirem vista por considerarem elevados os valores previstos para  servidores cedidos ao órgão",
+          "data_publicacao": "Fri, 17 Jul 2026 09:46:18 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária: necessidade de auditar fornecedores do Simples Nacional",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-necessidade-de-auditar-fornecedores-do-simples-nacional",
+          "resumo": "Extrair eficiência efetiva do novo sistema não admitirá análises fragmentadas da cadeia de suprimentos",
+          "data_publicacao": "Fri, 17 Jul 2026 08:10:16 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Lei do Bem: a pergunta que todo profissional tributário deveria fazer ao cliente",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/lei-do-bem-a-pergunta-que-todo-profissional-tributario-deveria-fazer-ao-cliente",
+          "resumo": "Empresas gastam com inovação sem capturar o benefício tributário previsto em lei",
+          "data_publicacao": "Fri, 17 Jul 2026 08:00:23 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Usufruto gratuito de quotas e IRPF: o Carf tributou renda onde havia doação",
+          "link": "https://www.conjur.com.br/2026-jul-18/usufruto-gratuito-de-quotas-e-irpf-o-carf-tributou-renda-onde-havia-doacao/",
+          "resumo": "O Conselho Administrativo de Recursos Fiscais (Carf) voltou a enfrentar um tema caro ao planejamento patrimonial: a tributação do usufruto de participações societárias. No Acórdão nº 2002-009.868, uma turma manteve a incidência do Imposto de Renda da Pessoa Física sobre a instituição gratuita de usu",
+          "data_publicacao": "Sat, 18 Jul 2026 09:33:08 +0000",
+          "palavras_chave": [
+            "CARF",
+            "tributo",
+            "IRPF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
