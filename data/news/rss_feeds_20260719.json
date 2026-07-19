@@ -1,0 +1,65 @@
+{
+  "data_busca": "2026-07-19T12:01:07.651079",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf permite crédito de PIS/Cofins sobre royalties de sementes geneticamente modificadas",
+          "link": "https://www.jota.info/tributos/carf-permite-credito-de-pis-cofins-sobre-royalties-de-sementes-geneticamente-modificadas",
+          "resumo": "Tecnologia incorporada às sementes não pode ser dissociada e integra os valores da atividade produtiva",
+          "data_publicacao": "Sun, 19 Jul 2026 09:53:23 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Governo e Comitê Gestor estudam adiar obrigação de destaque de IBS/CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/governo-e-comite-gestor-estudam-adiar-obrigacao-de-destaque-de-ibs-cbs",
+          "resumo": "Empresas temem que sistema inviabilize emissão de notas fora do novo padrão; tendência é que contribuintes tenham mais um mês para adaptação",
+          "data_publicacao": "Sat, 18 Jul 2026 10:28:18 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Estudo legislativo aponta necessidade de reformas para estabilizar dívida pública",
+          "link": "https://www.conjur.com.br/2026-jul-19/estudo-legislativo-aponta-para-a-necessidade-de-novas-reformas-para-estabilizar-a-divida-publica/",
+          "resumo": "Estudo da Consultoria de Orçamento da Câmara dos Deputados sinaliza o aumento da dívida pública brasileira nos próximos anos, em contraste com as projeções do governo, que indicam queda a partir de 2029. Em maio, a dívida era de 81,1% do Produto Interno Bruto, mas as projeções de especialistas apont",
+          "data_publicacao": "Sun, 19 Jul 2026 10:50:43 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
