@@ -1,0 +1,99 @@
+{
+  "data_consolidacao": "2026-07-20T13:09:25.073315",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf permite crédito de PIS/Cofins sobre royalties de sementes geneticamente modificadas",
+          "link": "https://www.jota.info/tributos/carf-permite-credito-de-pis-cofins-sobre-royalties-de-sementes-geneticamente-modificadas",
+          "resumo": "Tecnologia incorporada às sementes não pode ser dissociada e integra os valores da atividade produtiva",
+          "data_publicacao": "Sun, 19 Jul 2026 09:53:23 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Governo e Comitê Gestor estudam adiar obrigação de destaque de IBS/CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/governo-e-comite-gestor-estudam-adiar-obrigacao-de-destaque-de-ibs-cbs",
+          "resumo": "Empresas temem que sistema inviabilize emissão de notas fora do novo padrão; tendência é que contribuintes tenham mais um mês para adaptação",
+          "data_publicacao": "Sat, 18 Jul 2026 10:28:18 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Prescrição intercorrente no Carf permite anulação de multa aduaneira",
+          "link": "https://www.conjur.com.br/2026-jul-20/prescricao-intercorrente-no-carf-permite-anulacao-de-multa-aduaneira/",
+          "resumo": "A prescrição intercorrente é aplicável em processo administrativo sobre infração aduaneira de natureza não tributária paralisado por mais de três anos. Nesses casos, a inércia da Administração Pública gera a nulidade das multas aplicadas. Com base nesse entendimento, a juíza federal substituta Livia",
+          "data_publicacao": "Mon, 20 Jul 2026 12:52:55 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Critérios para benefícios tributários devem seguir a legislação estadual",
+          "link": "https://www.conjur.com.br/2026-jul-20/criterios-para-beneficios-tributarios-devem-seguir-a-legislacao-estadual/",
+          "resumo": "Impor restrições a benefícios fiscais não previstas pelo legislador viola o princípio da legalidade tributária, uma vez que a interpretação da norma deve observar os limites estabelecidos pelo Código Tributário Nacional e pela legislação estadual. Com esse entendimento, a 2ª Câmara de Direito Públic",
+          "data_publicacao": "Mon, 20 Jul 2026 10:50:30 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
