@@ -1,0 +1,99 @@
+{
+  "data_consolidacao": "2026-07-21T12:24:39.543756",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Após repercussão negativa, Comitê Gestor do IBS suspende proposta de remuneração",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/apos-repercussao-negativa-comite-gestor-do-ibs-suspende-proposta-de-remuneracao",
+          "resumo": "Órgão discutia adicionais de até R$ 64,6 mil e jetons de R$ 46 mil; projeto na Câmara tenta limitar pagamentos",
+          "data_publicacao": "Tue, 21 Jul 2026 09:50:30 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "Como o outsourcing fiscal se torna estratégico na nova agenda tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/como-o-outsourcing-fiscal-se-torna-estrategico-na-nova-agenda-tributaria",
+          "resumo": "Mais do que uma solução operacional, trata-se de uma transformação estrutural da função fiscal",
+          "data_publicacao": "Tue, 21 Jul 2026 08:30:16 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A retirada da substituição tributária e os desafios da implementação da reforma",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-retirada-da-substituicao-tributaria-e-os-desafios-da-implementacao-da-reforma",
+          "resumo": "Administrações tributárias serão capazes de conduzir uma transição segura?",
+          "data_publicacao": "Tue, 21 Jul 2026 08:00:17 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Carf e a reforma tributária: nova arquitetura do contencioso administrativo",
+          "link": "https://www.conjur.com.br/2026-jul-21/carf-e-a-reforma-tributaria-nova-arquitetura-do-contencioso-administrativo/",
+          "resumo": "Em diversos artigos desta coluna, foram examinados os impactos da reforma tributária na seara aduaneira. Agora, voltamos nossa atenção para uma questão pontual: os efeitos da reforma sobre o contencioso administrativo tributário e aduaneiro [1]. A reforma tributária sobre o consumo não se limita à c",
+          "data_publicacao": "Tue, 21 Jul 2026 11:00:47 +0000",
+          "palavras_chave": [
+            "CARF",
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
