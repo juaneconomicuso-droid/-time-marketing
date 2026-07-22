@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-07-22T12:27:06.922261",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Após episódio de machismo, Comitê Gestor do IBS cria comitê de ética",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/apos-episodio-de-machismo-comite-gestor-do-ibs-cria-comite-de-etica",
+          "resumo": "Presidência reconhece falha na condução de sessão e anuncia medidas para prevenir violência de gênero e fortalecer governança",
+          "data_publicacao": "Wed, 22 Jul 2026 09:27:20 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "Calibração das alíquotas e risco eleitoral concentram incertezas sobre reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/calibracao-das-aliquotas-e-risco-eleitoral-concentram-incertezas-sobre-reforma-tributaria",
+          "resumo": "Apesar disso, comitê de especialistas formado pelo JOTA vê implementação com otimismo, com destaque para regulamento do IBS e da CBS",
+          "data_publicacao": "Tue, 21 Jul 2026 18:03:39 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Baixa de créditos deve preceder adesão a programa de quitação fiscal",
+          "link": "https://www.conjur.com.br/2026-jul-22/baixa-de-creditos-deve-preceder-adesao-a-programa-de-quitacao-fiscal/",
+          "resumo": "A baixa dos créditos de prejuízo fiscal e de base de cálculo negativa de Contribuição Social sobre o Lucro Líquido (CSLL) nos livros fiscais é um requisito prévio para adesão ao Programa de Redução de Litígios Tributários (Prorelit). A conclusão é da 1ª Turma do Superior Tribunal de Justiça, que neg",
+          "data_publicacao": "Wed, 22 Jul 2026 11:54:42 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Cidadania Fiscal",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/cidadania",
+          "resumo": "Notícias sobre as ações de cidadania fiscal realizadas pela Receita Federal.",
+          "data_publicacao": "2022-03-24T20:34:16Z",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    }
+  ]
+}
