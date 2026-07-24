@@ -1,0 +1,83 @@
+{
+  "data_busca": "2026-07-24T12:22:30.975871",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "IA em contratos: Reforma tributária exige transformação imediata do departamento jurídico",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ia-em-contratos-reforma-tributaria-exige-transformacao-imediata-do-departamento-juridico",
+          "resumo": "Trate a IA como o que ela é: uma ferramenta poderosa a serviço do julgamento jurídico, não um substituto para ele",
+          "data_publicacao": "Fri, 24 Jul 2026 12:02:11 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Governo adia para 2027 nota fiscal e CNPJ de pessoa física e produtor rural",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/governo-adia-para-2027-nota-fiscal-e-cnpj-de-pessoa-fisica-e-produtor-rural",
+          "resumo": "Esta é a primeira vez que há prorrogação de prazo para adequação às novas regras",
+          "data_publicacao": "Fri, 24 Jul 2026 10:05:45 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária é ameaçada por atrasos, gargalos no Comitê Gestor e riscos para o Imposto Seletivo",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-e-ameaca-por-atrasos-gargalos-no-comite-gestor-e-riscos-para-o-imposto-seletivo",
+          "resumo": "Sequência de erros em cronograma e timing eleitoral são obstáculos à implementação do novo sistema, apontam especialistas de comitê formado pelo JOTA",
+          "data_publicacao": "Thu, 23 Jul 2026 12:30:07 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Empresas de revenda de veículos devem pagar menos IRPJ e CSLL",
+          "link": "https://www.conjur.com.br/2026-jul-24/empresas-de-revenda-de-veiculos-devem-pagar-menos-irpj-e-csll/",
+          "resumo": "Empresas de revenda de veículos usados exercem atividades comerciais, devendo ser aplicadas para elas, no regime do lucro presumido, alíquotas de 8% para Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e 12% para Contribuição Social sobre o Lucro Líquido (CSLL), conforme jurisprudência do Superio",
+          "data_publicacao": "Fri, 24 Jul 2026 10:31:00 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária: a lição dos 40 anos do IVA em Portugal",
+          "link": "https://www.conjur.com.br/2026-jul-24/reforma-tributaria-a-licao-dos-40-anos-do-iva-em-portugal/",
+          "resumo": "Em 2026, Portugal completa quatro décadas de utilização do Imposto sobre o Valor Acrescentado (IVA), enquanto o Brasil inicia a operação prática de seu IVA dual, formado pela Contribuição sobre Bens e Serviços (CBS) e pelo Imposto sobre Bens e Serviços (IBS). A coincidência permite observar um ponto",
+          "data_publicacao": "Fri, 24 Jul 2026 09:30:05 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
