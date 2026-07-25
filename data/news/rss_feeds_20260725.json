@@ -1,0 +1,73 @@
+{
+  "data_busca": "2026-07-25T12:03:59.468516",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Deliberações sem estimativa de impacto fiscal e a proposta de súmula vinculante 150",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/observatorio-constitucional/deliberacoes-sem-estimativa-de-impacto-fiscal-e-a-proposta-de-sumula-vinculante-150",
+          "resumo": "Nos regimentos internos das Casas Legislativas, não faltam previsões normativas a respeito da matéria",
+          "data_publicacao": "Sat, 25 Jul 2026 05:49:11 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "IA em contratos: Reforma tributária exige transformação imediata do departamento jurídico",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ia-em-contratos-reforma-tributaria-exige-transformacao-imediata-do-departamento-juridico",
+          "resumo": "Trate a IA como o que ela é: uma ferramenta poderosa a serviço do julgamento jurídico, não um substituto para ele",
+          "data_publicacao": "Fri, 24 Jul 2026 12:02:11 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Governo adia para 2027 nota fiscal e CNPJ de pessoa física e produtor rural",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/governo-adia-para-2027-nota-fiscal-e-cnpj-de-pessoa-fisica-e-produtor-rural",
+          "resumo": "Esta é a primeira vez que há prorrogação de prazo para adequação às novas regras",
+          "data_publicacao": "Fri, 24 Jul 2026 10:05:45 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma política: por que deveríamos rediscutir o sistema lista fechada?",
+          "link": "https://www.conjur.com.br/2026-jul-25/reforma-politica-por-que-deveriamos-rediscutir-o-sistema-lista-fechada/",
+          "resumo": "A adoção do sistema eleitoral de lista fechada merece voltar ao centro do debate sobre reforma política. Embora não constitua solução para todos os problemas do sistema representativo brasileiro, poderia auxiliar em mudanças estruturais necessárias, arrefecer a crise de governabilidade hoje existent",
+          "data_publicacao": "Sat, 25 Jul 2026 10:01:15 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
