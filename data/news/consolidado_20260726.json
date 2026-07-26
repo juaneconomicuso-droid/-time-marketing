@@ -1,0 +1,107 @@
+{
+  "data_consolidacao": "2026-07-26T12:06:41.596413",
+  "total_fontes": 7,
+  "total_noticias": 7,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf limita dedução de juros pagos pela Braskem a empresa na Holanda por regime privilegiado",
+          "link": "https://www.jota.info/tributos/carf-limita-deducao-de-juros-pagos-pela-braskem-a-empresa-na-holanda-por-regime-privilegiado",
+          "resumo": "Conselho veda abatimento de despesas da base de cálculo do IRPJ e da CSLL, em caso sobre subcapitalização",
+          "data_publicacao": "Sun, 26 Jul 2026 09:30:13 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O imposto mínimo global e o custo da convergência",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-imposto-minimo-global-e-o-custo-da-convergencia",
+          "resumo": "Multinacionais fazem o primeiro recolhimento do adicional da CSLL neste mês, mas só detalharão a apuração à Receita Federal a partir de 2027",
+          "data_publicacao": "Sat, 25 Jul 2026 17:06:22 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Deliberações sem estimativa de impacto fiscal e a proposta de súmula vinculante 150",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/observatorio-constitucional/deliberacoes-sem-estimativa-de-impacto-fiscal-e-a-proposta-de-sumula-vinculante-150",
+          "resumo": "Nos regimentos internos das Casas Legislativas, não faltam previsões normativas a respeito da matéria",
+          "data_publicacao": "Sat, 25 Jul 2026 05:49:11 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária e saneamento básico: a quem cabe a prova do desequilíbrio contratual?",
+          "link": "https://www.conjur.com.br/2026-jul-26/reforma-tributaria-e-saneamento-basico-a-quem-cabe-a-prova-do-desequilibrio-contratual/",
+          "resumo": "A reforma tributária alterou a carga que incide sobre contratos administrativos de longa duração — incluídas as concessões e PPPs de saneamento básico — e o artigo 374 da Lei Complementar nº 214/2025 assegura o direito à recomposição do equilíbrio econômico-financeiro sempre que esse impacto for com",
+          "data_publicacao": "Sun, 26 Jul 2026 11:00:17 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Consumação da integralização de imóveis para fins de IRPF: propriedade e transmissão",
+          "link": "https://www.conjur.com.br/2026-jul-25/a-consumacao-da-integralizacao-de-imoveis-para-fins-de-irpf-entre-a-propriedade-civil-e-a-transmissao-economica-do-bem/",
+          "resumo": "Em um planejamento sucessório, um imóvel adquirido há décadas é conferido a uma holding patrimonial com o objetivo de facilitar a transmissão para os herdeiros. A sociedade é criada e o imóvel é indicado para subscrição do capital social pelo valor histórico do bem, com os registros necessários na j",
+          "data_publicacao": "Sat, 25 Jul 2026 20:24:51 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
