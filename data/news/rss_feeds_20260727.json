@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-07-27T13:40:27.318480",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O último capítulo da reforma do Judiciário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-ultimo-capitulo-da-reforma-do-judiciario",
+          "resumo": "Com sanção presidencial, filtro de relevância no recurso especial transformará STJ em corte de precedentes, mais célere e efetiva",
+          "data_publicacao": "Mon, 27 Jul 2026 08:30:38 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Zona Franca de Manaus ganha novo peso estratégico com a reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/zona-franca-de-manaus-ganha-novo-peso-estrategico-com-a-reforma-tributaria",
+          "resumo": "Já a partir de 2027, ZFM oferece benefícios importantes de IPI e CBS; tendência é que Manaus vire moda",
+          "data_publicacao": "Mon, 27 Jul 2026 08:20:10 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf limita dedução de juros pagos pela Braskem a empresa na Holanda por regime privilegiado",
+          "link": "https://www.jota.info/tributos/carf-limita-deducao-de-juros-pagos-pela-braskem-a-empresa-na-holanda-por-regime-privilegiado",
+          "resumo": "Conselho veda abatimento de despesas da base de cálculo do IRPJ e da CSLL, em caso sobre subcapitalização",
+          "data_publicacao": "Sun, 26 Jul 2026 09:30:13 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
