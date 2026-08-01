@@ -1,0 +1,74 @@
+{
+  "data_busca": "2026-08-01T12:03:55.162462",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Emissão de notas com IBS e CBS será obrigatória em etapas a partir de agosto",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/emissao-de-notas-com-ibs-e-cbs-sera-obrigatoria-em-etapas-a-partir-de-agosto",
+          "resumo": "Cronograma define quando cada documento fiscal eletrônico passa a ser obrigatório para operacionalizar a CBS e o IBS",
+          "data_publicacao": "Sat, 01 Aug 2026 10:05:34 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Prorrogações antecipadas no setor portuário: quem fiscaliza investimentos prometidos?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/prorrogacoes-antecipadas-no-setor-portuario-quem-fiscaliza-investimentos-prometidos",
+          "resumo": "Uma análise do Acórdão TCU 1.574/2026 sobre arrendamentos portuários",
+          "data_publicacao": "Sat, 01 Aug 2026 08:20:30 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "De Vargas a Milei, plano de Renan Santos propõe ampla reforma do Estado",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/de-vargas-a-milei-plano-de-renan-santos-propoe-ampla-reforma-do-estado",
+          "resumo": "Pré-candidato à Presidência apresentou plano de governo, com as diretrizes que deverão guiar seu mandato caso seja eleito",
+          "data_publicacao": "Fri, 31 Jul 2026 13:39:25 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "O mapa tributário das multinacionais no Brasil",
+          "link": "https://conjur.com.br/2026-ago-01/o-mapa-tributario-das-multinacionais-no-brasil/",
+          "resumo": "Há duas suspeitas recorrentes no debate brasileiro sobre multinacionais. A primeira é que os grupos brasileiros que se internacionalizam deslocam empregos e lucros para fora. A segunda é que os grupos estrangeiros extraem valor do país sem contribuir tributariamente na mesma proporção. Os dados agre",
+          "data_publicacao": "Sat, 01 Aug 2026 10:02:58 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
