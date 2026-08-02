@@ -1,0 +1,101 @@
+{
+  "data_busca": "2026-08-02T12:04:54.025802",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta PIS sobre condomínio de coproprietários do Shopping Amazonas",
+          "link": "https://www.jota.info/tributos/carf-afasta-pis-sobre-condominio-de-coproprietarios-do-shopping-amazonas",
+          "resumo": "Para a fiscalização, o Condomínio Amazonas atuava além das atividades de gestão e manutenção de áreas comuns",
+          "data_publicacao": "Sun, 02 Aug 2026 09:59:23 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Regulamentação da reforma tributária e incentivos à cadeia da reciclagem",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/fronteiras-concorrencia-regulacao/regulamentacao-da-reforma-tributaria-e-incentivos-a-cadeia-da-reciclagem",
+          "resumo": "Reflexões sobre o novo regime e propostas em favor dos catadores e catadoras de materiais recicláveis",
+          "data_publicacao": "Sun, 02 Aug 2026 08:30:24 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "MPT reafirma direito constitucional de sindicatos fiscalizarem contratos de terceirização do poder público",
+          "link": "https://www.jota.info/trabalho/mpt-reafirma-direito-constitucional-de-sindicatos-fiscalizarem-contratos-de-terceirizacao-do-poder-publico",
+          "resumo": "Recusa injustificada ao fornecimento de informações, segundo o órgão, pode caracterizar prática antissindical, sujeita à intervenção do MPT",
+          "data_publicacao": "Sat, 01 Aug 2026 13:04:39 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Emissão de notas com IBS e CBS será obrigatória em etapas a partir de agosto",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/emissao-de-notas-com-ibs-e-cbs-sera-obrigatoria-em-etapas-a-partir-de-agosto",
+          "resumo": "Cronograma define quando cada documento fiscal eletrônico passa a ser obrigatório para operacionalizar a CBS e o IBS",
+          "data_publicacao": "Sat, 01 Aug 2026 10:05:34 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Prorrogações antecipadas no setor portuário: quem fiscaliza investimentos prometidos?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/prorrogacoes-antecipadas-no-setor-portuario-quem-fiscaliza-investimentos-prometidos",
+          "resumo": "Uma análise do Acórdão TCU 1.574/2026 sobre arrendamentos portuários",
+          "data_publicacao": "Sat, 01 Aug 2026 08:20:30 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reintegra: é preciso regular lista de produtos com subvenção fiscal",
+          "link": "https://conjur.com.br/2026-ago-02/reintegra-e-preciso-regular-lista-de-produtos-com-subvencao-fiscal/",
+          "resumo": "Dois grãos saem do mesmo cafezal. O primeiro, torrado, parte para o exterior amparado pelo Reintegra e devolve ao exportador parte do tributo que ficou retido na cadeia. O segundo, beneficiado em grão, embora passe por operação que a própria Lei 13.043/2014 reconhece como industrialização para fins ",
+          "data_publicacao": "Sun, 02 Aug 2026 09:33:06 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Suspensão do prazo decadencial tributário: lacuna normativa em perspectiva",
+          "link": "https://conjur.com.br/2026-ago-01/suspensao-do-prazo-decadencial-tributario-uma-lacuna-normativa-em-perspectiva/",
+          "resumo": "O ideal central de construção de um Direito Tributário justo, como se sabe, sempre teve como diretriz intransponível e inafastável o princípio da legalidade, ou, sendo até mais fiel e rigoroso ao contexto, o da estrita legalidade (Roque Carrazza). Isso vale tanto aos interesses do Fisco como aos dos",
+          "data_publicacao": "Sat, 01 Aug 2026 20:28:40 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
