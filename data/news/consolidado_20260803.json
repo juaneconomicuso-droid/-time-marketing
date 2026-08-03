@@ -1,0 +1,107 @@
+{
+  "data_consolidacao": "2026-08-03T13:45:20.699539",
+  "total_fontes": 7,
+  "total_noticias": 7,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Via-crúcis, funeral, luto pelo CTN e o poder do sistema CBS/IBS na EC 132/23",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/via-crucis-funeral-luto-pelo-ctn-e-o-poder-do-sistema-cbs-ibs-na-ec-132-23",
+          "resumo": "Será doloroso aceitar a completa incompatibilidade da EC 132/23 com o Código Tributário Nacional",
+          "data_publicacao": "Mon, 03 Aug 2026 12:02:57 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Carf mantém contribuição previdenciária em caso de diretor que assinou a própria contratação",
+          "link": "https://www.jota.info/tributos/carf-mantem-contribuicao-previdenciaria-em-caso-de-diretor-que-assinou-a-propria-contratacao",
+          "resumo": "Conselho valida contribuições sobre valores pagos por meio de PJ antes da formalização de vínculo empregatício",
+          "data_publicacao": "Mon, 03 Aug 2026 09:34:40 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Deepfakes e imagens falsas: como a Justiça Eleitoral tem imposto limites ao uso de IA nas eleições",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/deepfakes-e-imagens-falsas-como-a-justica-eleitoral-tem-imposto-limites-ao-uso-de-ia-nas-eleicoes",
+          "resumo": "TSE aprovou regras contra conteúdos falsos, entre elas as que restringem manipulação de materiais e deepfakes",
+          "data_publicacao": "Sun, 02 Aug 2026 13:12:29 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf afasta PIS sobre condomínio de coproprietários do Shopping Amazonas",
+          "link": "https://www.jota.info/tributos/carf-afasta-pis-sobre-condominio-de-coproprietarios-do-shopping-amazonas",
+          "resumo": "Para a fiscalização, o Condomínio Amazonas atuava além das atividades de gestão e manutenção de áreas comuns",
+          "data_publicacao": "Sun, 02 Aug 2026 09:59:23 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Regulamentação da reforma tributária e incentivos à cadeia da reciclagem",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/fronteiras-concorrencia-regulacao/regulamentacao-da-reforma-tributaria-e-incentivos-a-cadeia-da-reciclagem",
+          "resumo": "Reflexões sobre o novo regime e propostas em favor dos catadores e catadoras de materiais recicláveis",
+          "data_publicacao": "Sun, 02 Aug 2026 08:30:24 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "O sistema de justiça criminal não pode fiscalizar a si próprio",
+          "link": "https://conjur.com.br/2026-ago-03/o-sistema-de-justica-criminal-nao-pode-fiscalizar-a-si-proprio/",
+          "resumo": "No dia 14 de agosto, o Supremo Tribunal Federal deve retomar o julgamento sobre a homologação dos planos estaduais do Pena Justa, suspenso após pedido de vista do ministro Flávio Dino. Mais do que uma etapa formal, o julgamento definirá como será acompanhada a implementação das medidas destinadas a ",
+          "data_publicacao": "Mon, 03 Aug 2026 10:00:55 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
