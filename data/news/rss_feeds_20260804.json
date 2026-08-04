@@ -1,0 +1,72 @@
+{
+  "data_busca": "2026-08-04T13:04:31.577651",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "JOTA Principal: Promessa de Lula para a educação desafia plano da Fazenda de ajuste fiscal",
+          "link": "https://www.jota.info/newsletters/jota-principal/promessa-lula-educacao-desafia-plano-fazenda-ajuste-fiscal",
+          "resumo": "Plano petista deve incluir mecanismo para expandir gastos, na contramão do que defende a pasta",
+          "data_publicacao": "Tue, 04 Aug 2026 12:59:52 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "STF amplia benefício fiscal para compra de carro por PCDs",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/stf-amplia-beneficio-fiscal-para-compra-de-carro-por-pcds",
+          "resumo": "Este foi o primeiro caso da reforma tributária a ser julgado pelo STF",
+          "data_publicacao": "Tue, 04 Aug 2026 10:07:23 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e pejotização: novo arquétipo das sociedades profissionais",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-pejotizacao-novo-arquetipo-das-sociedades-profissionais",
+          "resumo": "O art. 127 da LC 214/25 e seus reflexos interpretativos no debate previdenciário",
+          "data_publicacao": "Mon, 03 Aug 2026 17:00:34 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STF – Benefício fiscal para compra de veículos por pessoas com deficiência – 3/8/2026",
+          "link": "https://www.jota.info/stf/do-supremo/stf-ao-vivo-beneficio-fiscal-para-compra-de-veiculos-por-pessoas-com-deficiencia-3-8-2026",
+          "resumo": "Corte realiza sessão de abertura do semestre e discute restrição da aplicação de tributos na compra de veículos por pessoas com deficiência",
+          "data_publicacao": "Mon, 03 Aug 2026 14:04:21 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
