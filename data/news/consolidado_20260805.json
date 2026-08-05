@@ -1,0 +1,70 @@
+{
+  "data_consolidacao": "2026-08-05T12:59:29.243513",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Concessões: a reforma tributária em dois mundos",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/concessoes-a-reforma-tributaria-em-dois-mundos",
+          "resumo": "Impactos mais incertos não estão na transação pública, mas sim sobre o feixe de transações privadas e seus efeitos indiretos",
+          "data_publicacao": "Wed, 05 Aug 2026 08:40:37 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Devedor contumaz: competência subtraída do Carf às vésperas do centenário da paridade",
+          "link": "https://conjur.com.br/2026-ago-05/devedor-contumaz-a-competencia-subtraida-do-carf-as-vesperas-do-centenario-da-paridade/",
+          "resumo": "A Receita Federal editou, em julho de 2026, a Portaria RFB 702/2026, que altera a Portaria RFB 309/2023 e desloca para as turmas recursais da Delegacia de Julgamento Recursal da Receita Federal do Brasil (DRJ-R) o julgamento, em segunda e última instância administrativa, dos recursos voluntários int",
+          "data_publicacao": "Wed, 05 Aug 2026 09:08:05 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
