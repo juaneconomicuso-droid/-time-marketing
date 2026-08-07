@@ -1,0 +1,116 @@
+{
+  "data_consolidacao": "2026-08-07T11:49:19.271036",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Receita e Comitê Gestor do IBS devem lançar programa de conformidade em 15 dias",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/receita-e-comite-gestor-do-ibs-devem-lancar-programa-de-conformidade-em-15-dias",
+          "resumo": "Contribuintes com dificuldade de emitir os documentos fiscais poderão aderir ao programa antes da fiscalização e evitar multas",
+          "data_publicacao": "Fri, 07 Aug 2026 10:12:38 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária muda regras para investidor pessoa física em imóveis",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-muda-as-regras-para-o-investidor-pessoa-fisica-em-imoveis",
+          "resumo": "Impactos econômicos de mudança ainda precisarão ser medidos pelo mercado",
+          "data_publicacao": "Fri, 07 Aug 2026 08:00:48 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Congresso no Recife debate reforma tributária e contencioso administrativo",
+          "link": "https://www.jota.info/tributos/congresso-no-recife-debate-reforma-tributaria-e-contencioso-administrativo",
+          "resumo": "Evento reunirá autoridades do Carf, da Receita, do Judiciário e dos tribunais administrativos",
+          "data_publicacao": "Thu, 06 Aug 2026 19:23:02 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária: cesta básica, vedação ao retrocesso social e neutralidade",
+          "link": "https://conjur.com.br/2026-ago-07/reforma-tributaria-cesta-basica-vedacao-ao-retrocesso-social-e-neutralidade/",
+          "resumo": "Apesar de toda controvérsia durante o processo de confecção da reforma tributária sobre o consumo, reconheceu-se a necessidade de uma carga fiscal reduzida para produtos alimentícios essenciais, que iriam compor uma Cesta Básica Nacional de Alimentos [1]. Daí porque, em atenção à concretização de di",
+          "data_publicacao": "Fri, 07 Aug 2026 11:00:31 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Desembargador afasta 10% fixo de IRPF sobre lucro acima de R$ 50 mil",
+          "link": "https://conjur.com.br/2026-ago-07/tutela-de-urgencia-adequa-retencao-de-ir-sobre-lucros-e-dividendos-para-altas-rendas/",
+          "resumo": "A exigência de retenção na fonte de imposto de renda sobre dividendos em alíquota máxima de dez por cento viola a capacidade contributiva e a razoabilidade. O adiantamento mensal de tributos deve refletir a projeção da alíquota real devida pelo contribuinte na declaração de ajuste anual. Com base ne",
+          "data_publicacao": "Fri, 07 Aug 2026 10:52:36 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
