@@ -1,0 +1,78 @@
+{
+  "data_consolidacao": "2026-08-08T11:34:34.744365",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "PIS/Cofins sobre receitas de reservas técnicas de seguradoras é mantido pelo Carf",
+          "link": "https://www.jota.info/tributos/pis-cofins-sobre-receitas-de-reservas-tecnicas-de-seguradoras-e-mantido-pelo-carf",
+          "resumo": "Tributação divide conselheiros do Carf. STF discute o tema em repercussão geral",
+          "data_publicacao": "Sat, 08 Aug 2026 09:40:02 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "ANPD abre processo de fiscalização contra o Discord por possíveis infrações ao ECA Digital",
+          "link": "https://www.jota.info/justica/anpd-abre-processo-de-fiscalizacao-contra-o-discord-por-possiveis-infracoes-ao-eca-digital",
+          "resumo": "Empresa terá 5 dias úteis para informar quais mecanismos adota para combater crimes contra crianças e adolescentes na rede",
+          "data_publicacao": "Fri, 07 Aug 2026 23:13:53 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Hipóteses do IBS e CBS que provavelmente acarretarão Judicialização",
+          "link": "https://tributarionosbastidores.com.br/2026/06/hipoteses-do-ibs-e-cbs-que-provavelmente-acarretarao-judicializacao/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
