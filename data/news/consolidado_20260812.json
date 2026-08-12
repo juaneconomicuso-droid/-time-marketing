@@ -1,0 +1,108 @@
+{
+  "data_consolidacao": "2026-08-12T11:50:31.575038",
+  "total_fontes": 7,
+  "total_noticias": 7,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "De 0 a 28%: reforma tributária e créditos de carbono do mercado voluntário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/de-0-a-28-reforma-tributaria-e-creditos-de-carbono-do-mercado-voluntario",
+          "resumo": "Como CBS e IBS geram dúvidas sobre tributação das operações ambientais",
+          "data_publicacao": "Wed, 12 Aug 2026 08:20:18 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Os desafios do novo contencioso tributário do IBS e da CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/os-desafios-do-novo-contencioso-tributario-do-ibs-e-da-cbs",
+          "resumo": "Divergências entre Justiça Federal e Estadual podem comprometer a harmonização entre os dois tributos",
+          "data_publicacao": "Tue, 11 Aug 2026 14:42:15 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Obrigações acessórias e a reforma tributária: a tributação oculta resiste?",
+          "link": "https://conjur.com.br/2026-ago-12/obrigacoes-acessorias-e-a-reforma-tributaria-a-tributacao-oculta-resiste/",
+          "resumo": "Desde muitos anos venho me interessando pelas obrigações acessórias dos tributos, muito especialmente pelas dificuldades na sua observância e pelo alto custo que o seu descumprimento pode causar considerando-se as multas que sempre atrai, o que levou à atuação do Poder Judiciário, no sentido de tent",
+          "data_publicacao": "Wed, 12 Aug 2026 11:00:29 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Dedutibilidade de multas regulatórias no Carf",
+          "link": "https://conjur.com.br/2026-ago-12/dedutibilidade-de-multas-regulatorias-no-carf/",
+          "resumo": "Nesta semana, trataremos de controvérsia recorrente na jurisprudência do Conselho Administrativo de Recursos Fiscais (Carf), envolvendo a possibilidade de dedução, para fins de apuração do IRPJ e da CSLL, dos valores pagos por pessoas jurídicas a título de multas regulatórias ou administrativas. A t",
+          "data_publicacao": "Wed, 12 Aug 2026 11:00:27 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Contencioso tributário é terreno em que filtro terá mais dificuldade",
+          "link": "https://conjur.com.br/2026-ago-12/a-lei-da-relevancia-e-o-contencioso-tributario/",
+          "resumo": "A Emenda Constitucional 125, de 14 de julho de 2022, inseriu o § 2º no artigo 105 da Constituição e passou a exigir do recorrente a demonstração da relevância das questões de direito federal infraconstitucional discutidas no caso. O dispositivo nasceu, contudo, com eficácia contida. Ainda em outubro",
+          "data_publicacao": "Wed, 12 Aug 2026 09:33:25 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
