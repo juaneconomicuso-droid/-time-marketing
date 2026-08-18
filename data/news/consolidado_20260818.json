@@ -1,0 +1,78 @@
+{
+  "data_consolidacao": "2026-08-18T11:28:26.331255",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf derruba cobrança de R$ 870 milhões por compra de cervejaria pela Ambev",
+          "link": "https://www.jota.info/tributos/carf-derruba-cobranca-de-r-870-milhoes-por-compra-de-cervejaria-pela-ambev",
+          "resumo": "Conselho manteve a amortização do ágio gerado pela compra de parte da Cervecería Nacional Dominicana",
+          "data_publicacao": "Tue, 18 Aug 2026 10:14:18 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Durigan defende rigor na responsabilidade fiscal e fala em ‘liderança global’ do Brasil",
+          "link": "https://www.jota.info/executivo/durigan-defende-rigor-na-responsabilidade-fiscal-e-fala-em-lideranca-global-do-brasil",
+          "resumo": "Ministro da Fazenda aposta em energia, biocombustíveis e minerais críticos para ampliar protagonismo global do Brasil",
+          "data_publicacao": "Mon, 17 Aug 2026 18:49:43 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
