@@ -1,0 +1,68 @@
+{
+  "data_consolidacao": "2026-08-22T11:26:21.271457",
+  "total_fontes": 7,
+  "total_noticias": 3,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém ITR sobre imóvel rural invadido por trabalhadores sem terra",
+          "link": "https://www.jota.info/tributos/carf-mantem-itr-sobre-imovel-rural-invadido-por-trabalhadores-sem-terra",
+          "resumo": "Para maioria dos conselheiros, invasão, por si só, não afasta a propriedade do imóvel, de forma que tributo deve ser cobrado",
+          "data_publicacao": "Sat, 22 Aug 2026 10:05:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O panóptico invertido: quem fiscaliza o STF?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-panoptico-invertido-quem-fiscaliza-o-stf",
+          "resumo": "Investigar quem vazou a notícia é o oposto do que o Supremo decidiu sobre sigilo da fonte e liberdade de imprensa",
+          "data_publicacao": "Sat, 22 Aug 2026 08:30:05 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A uniformidade jurisprudencial do IBS e da CBS: reflexões após o 9º Congresso da ABDF",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-uniformidade-jurisprudencial-do-ibs-e-da-cbs-reflexoes-apos-o-9o-congresso-da-abdf",
+          "resumo": "Uma homenagem ao professor Gustavo Brigagão",
+          "data_publicacao": "Sat, 22 Aug 2026 08:10:07 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
