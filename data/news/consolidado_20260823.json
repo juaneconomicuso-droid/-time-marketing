@@ -1,0 +1,89 @@
+{
+  "data_consolidacao": "2026-08-23T11:24:07.187548",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém ITR sobre imóvel rural invadido por trabalhadores sem terra",
+          "link": "https://www.jota.info/tributos/carf-mantem-itr-sobre-imovel-rural-invadido-por-trabalhadores-sem-terra",
+          "resumo": "Para maioria dos conselheiros, invasão, por si só, não afasta a propriedade do imóvel, de forma que tributo deve ser cobrado",
+          "data_publicacao": "Sat, 22 Aug 2026 10:05:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O panóptico invertido: quem fiscaliza o STF?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-panoptico-invertido-quem-fiscaliza-o-stf",
+          "resumo": "Investigar quem vazou a notícia é o oposto do que o Supremo decidiu sobre sigilo da fonte e liberdade de imprensa",
+          "data_publicacao": "Sat, 22 Aug 2026 08:30:05 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A uniformidade jurisprudencial do IBS e da CBS: reflexões após o 9º Congresso da ABDF",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-uniformidade-jurisprudencial-do-ibs-e-da-cbs-reflexoes-apos-o-9o-congresso-da-abdf",
+          "resumo": "Uma homenagem ao professor Gustavo Brigagão",
+          "data_publicacao": "Sat, 22 Aug 2026 08:10:07 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "A quem cabe o risco do erro de classificação na cadeia de créditos do IBS e da CBS",
+          "link": "https://conjur.com.br/2026-ago-23/a-quem-cabe-o-risco-do-erro-de-classificacao-na-cadeia-de-creditos-do-ibs-e-da-cbs/",
+          "resumo": "A reforma tributária do consumo foi apresentada ao país como uma promessa de simplificação. No plano da técnica, ela é isso e mais alguma coisa: é também uma redistribuição silenciosa de risco. Ao condicionar o crédito do adquirente a um fato que ocorre na esfera do fornecedor, o novo modelo transfe",
+          "data_publicacao": "Sun, 23 Aug 2026 10:03:58 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}

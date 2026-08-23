@@ -1,0 +1,6 @@
+{
+  "fonte": "Tributário nos Bastidores",
+  "data_busca": "2026-08-23T11:24:04.173617",
+  "noticias": [],
+  "erro": "HTTPSConnectionPool(host='tributarionosbastidores.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)')))"
+}
