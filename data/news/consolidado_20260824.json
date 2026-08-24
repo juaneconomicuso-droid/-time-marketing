@@ -1,0 +1,87 @@
+{
+  "data_consolidacao": "2026-08-24T11:32:36.869894",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Alíquotas do Imposto Seletivo devem ir ao Congresso na primeira quinzena de setembro",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/aliquotas-do-is-devem-ir-ao-congresso-na-primeira-quinzena-de-setembro",
+          "resumo": "Tema não deve ir ao Legislativo antes do PLOA, cujo limite para apresentação é o dia 31 de agosto",
+          "data_publicacao": "Mon, 24 Aug 2026 09:38:01 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf mantém ITR sobre imóvel rural invadido por trabalhadores sem terra",
+          "link": "https://www.jota.info/tributos/carf-mantem-itr-sobre-imovel-rural-invadido-por-trabalhadores-sem-terra",
+          "resumo": "Para maioria dos conselheiros, invasão, por si só, não afasta a propriedade do imóvel, de forma que tributo deve ser cobrado",
+          "data_publicacao": "Sat, 22 Aug 2026 10:05:00 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O panóptico invertido: quem fiscaliza o STF?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-panoptico-invertido-quem-fiscaliza-o-stf",
+          "resumo": "Investigar quem vazou a notícia é o oposto do que o Supremo decidiu sobre sigilo da fonte e liberdade de imprensa",
+          "data_publicacao": "Sat, 22 Aug 2026 08:30:05 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Avanços da Resolução nº 1.031/26 na fiscalização de álcool e drogas no trânsito",
+          "link": "https://conjur.com.br/2026-ago-24/avancos-da-resolucao-no-1-031-26-na-fiscalizacao-de-alcool-e-drogas-no-transito/",
+          "resumo": "Por mais de 13 anos, a Resolução Contran nº 432, de 23 de janeiro de 2013, regulou os procedimentos de fiscalização da condução de veículo sob influência de álcool ou de outra substância psicoativa. Editada logo após as alterações promovidas pela chamada “Nova Lei Seca”, a Resolução nº 432/2013 unif",
+          "data_publicacao": "Mon, 24 Aug 2026 10:04:31 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    }
+  ]
+}
