@@ -1,0 +1,59 @@
+{
+  "data_consolidacao": "2026-08-25T11:32:16.321207",
+  "total_fontes": 7,
+  "total_noticias": 2,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O dilema da representação municipal na reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/o-dilema-da-representacao-municipal-na-reforma-tributaria",
+          "resumo": "Ausência de trava populacional na LC 227/26 permite que pequenos municípios superem os grandes centros",
+          "data_publicacao": "Mon, 24 Aug 2026 14:00:25 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
