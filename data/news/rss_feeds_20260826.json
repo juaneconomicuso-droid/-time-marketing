@@ -1,0 +1,74 @@
+{
+  "data_busca": "2026-08-26T11:33:10.337301",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STJ: execução fiscal contra espólio e sucessores depende de citação do devedor antes da morte",
+          "link": "https://www.jota.info/tributos/stj-execucao-fiscal-contra-espolio-e-sucessores-depende-de-citacao-do-devedor-antes-da-morte",
+          "resumo": "Relatora ajustou voto após vista, para limitar redirecionamento a casos em que houve citação antes do falecimento",
+          "data_publicacao": "Wed, 26 Aug 2026 10:02:20 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Economista da campanha de Flávio Bolsonaro propõe PEC fiscal e corte de 10 ministérios",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/economista-da-campanha-de-flavio-bolsonaro-propoe-pec-fiscal-e-corte-de-10-ministerios",
+          "resumo": "De acordo com Daniella Marques, plano prevê revisão do arcabouço fiscal e medidas para reduzir a dívida pública",
+          "data_publicacao": "Tue, 25 Aug 2026 21:33:19 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A reforma tributária vai acabar com o contencioso?",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/direito-economia-mercado/a-reforma-tributaria-vai-acabar-com-o-contencioso",
+          "resumo": "O erro de prever o fim dos processos tributários sem olhar para os incentivos de Fisco e contribuintes",
+          "data_publicacao": "Tue, 25 Aug 2026 14:30:30 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Subvenções de ICMS e limites da fiscalização: debate que chega ao seminário do Carf",
+          "link": "https://conjur.com.br/2026-ago-26/subvencoes-de-icms-e-os-limites-da-fiscalizacao-o-debate-que-chega-ao-seminario-carf/",
+          "resumo": "Há temas que parecem resolvidos até que a realidade dos autos lhes devolva a complexidade. A tributação dos benefícios fiscais de ICMS é um deles. A Lei Complementar nº 160/2017 e, depois, o Tema 1.182 do STJ afastaram parte relevante das antigas discussões sobre a finalidade do incentivo. Ainda ass",
+          "data_publicacao": "Wed, 26 Aug 2026 11:00:33 +0000",
+          "palavras_chave": [
+            "CARF",
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
