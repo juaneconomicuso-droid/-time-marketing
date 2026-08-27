@@ -1,0 +1,117 @@
+{
+  "data_consolidacao": "2026-08-27T20:56:16.971369",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Justiça Federal do DF dá liminar para suspender imposto sobre exportação de petróleo",
+          "link": "https://www.jota.info/tributos/justica-federal-do-df-da-liminar-para-suspender-imposto-sobre-exportacao-de-petroleo",
+          "resumo": "A decisão derruba a resolução do Comitê Executivo de Gestão da Câmara de Comércio Exterior (Gecex), que manteve o imposto de 12%",
+          "data_publicacao": "Thu, 27 Aug 2026 20:34:47 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Dez lições sobre CBS/IBS a partir da expressão ‘perdeu, playboy’",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/dez-licoes-sobre-cbs-ibs-a-partir-da-expressao-perdeu-playboy",
+          "resumo": "Esclarecimentos sobre a reforma tributária sob a perspectiva do 'espectador imparcial' de Adam Smith",
+          "data_publicacao": "Thu, 27 Aug 2026 08:30:38 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Orçamento de 2027: o esconde-esconde fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/orcamento-de-2027-o-esconde-esconde-fiscal",
+          "resumo": "Governo estima receita da CBS e do Imposto Seletivo sem revelar as alíquotas que sustentam a conta",
+          "data_publicacao": "Thu, 27 Aug 2026 08:15:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A ‘taxa das blusinhas’ e o que a reforma tributária não alcança",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-taxa-das-blusinhas-e-o-que-a-reforma-tributaria-nao-alcanca",
+          "resumo": "Imposto de Importação ficou fora da reforma, e assimetria com a indústria nacional persiste",
+          "data_publicacao": "Thu, 27 Aug 2026 08:00:36 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Suspensão da rejeição automática invalida notas sem IBS e CBS?",
+          "link": "https://conjur.com.br/2026-ago-27/suspensao-da-rejeicao-automatica-invalida-notas-sem-ibs-e-cbs/",
+          "resumo": "Nos últimos dias, a implementação da reforma tributária foi marcada por uma sucessão de comunicados, atos conjuntos e atualizações das notas técnicas dos documentos fiscais eletrônicos. O prazo para o inicio da obrigatoriedade da maioria dos documentos fiscais tem origem no Ato Conjunto RFB/CGIBS nº",
+          "data_publicacao": "Thu, 27 Aug 2026 18:21:58 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Heleno Torres Advogados participa do XI Congresso Brasileiro de Direito Tributário Internacional",
+          "link": "https://conjur.com.br/2026-ago-27/heleno-torres-advogados-participa-do-xi-congresso-brasileiro-de-direito-tributario-internacional/",
+          "resumo": "O professor Heleno Taveira Torres e os sócios Helena Trentini e Matheus Clemente Cobucci, do escritório Heleno Torres Advogados, participam, entre os dias 9 e 11 de setembro, do XI Congresso Brasileiro de Direito Tributário Internacional. Promovido pelo Instituto Brasileiro de Direito Tributário (IB",
+          "data_publicacao": "Thu, 27 Aug 2026 17:00:17 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
