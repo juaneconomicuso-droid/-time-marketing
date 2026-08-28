@@ -1,0 +1,55 @@
+{
+  "data_busca": "2026-08-28T21:19:58.305279",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Lula na Globo não dá motivos para mitigar desconfiança fiscal",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/lula-na-globo-nao-da-motivos-para-mitigar-desconfianca-fiscal",
+          "resumo": "Presidente dá passo atrás até ao que colocou em plano de governo e diz que quer ver país crescer",
+          "data_publicacao": "Fri, 28 Aug 2026 18:59:49 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Justiça Federal suspende imposto de exportação de 12% sobre petróleo",
+          "link": "https://conjur.com.br/2026-ago-28/justica-federal-suspende-imposto-de-exportacao-de-12-sobre-petroleo/",
+          "resumo": "A 17ª Vara Federal de Brasília suspendeu, nesta quinta-feira (27/8), em decisão liminar, a cobrança de alíquota de 12% do imposto de exportação incidente sobre a venda de óleos brutos de petróleo e de minerais betuminosos (rochas e substâncias ricas em hidrocarbonetos). A decisão é do juiz Diego Câm",
+          "data_publicacao": "Fri, 28 Aug 2026 19:45:38 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
