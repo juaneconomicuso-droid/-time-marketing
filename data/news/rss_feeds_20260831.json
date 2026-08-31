@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-08-31T17:56:46.926022",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O Simples Nacional e a opção pelo regime de apuração da CBS e do IBS",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-simples-nacional-e-a-opcao-pelo-regime-de-apuracao-da-cbs-e-do-ibs",
+          "resumo": "Regime híbrido amplia crédito ao adquirente, mas pode elevar o desembolso financeiro imediato",
+          "data_publicacao": "Mon, 31 Aug 2026 14:00:44 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Carf classifica protetor solar da Johnson como bronzeador e mantém IPI de 12%",
+          "link": "https://www.jota.info/tributos/carf-classifica-protetor-solar-da-johnson-como-bronzeador-e-mantem-ipi-de-12",
+          "resumo": "Empresa defendeu que produtos deveriam ser classificados como protetores solares, com alíquota zero de IPI",
+          "data_publicacao": "Mon, 31 Aug 2026 10:02:50 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O ponto cego no debate sobre o fim do contencioso tributário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-ponto-cego-no-debate-sobre-o-fim-do-contencioso-tributario",
+          "resumo": "Simplificação promovida pela reforma reduzirá muito o contencioso, mas há uma variável decisiva que o debate segue ignorando",
+          "data_publicacao": "Mon, 31 Aug 2026 08:20:36 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
