@@ -1,0 +1,6 @@
+{
+  "fonte": "Tributário nos Bastidores",
+  "data_busca": "2026-09-01T15:25:13.091141",
+  "noticias": [],
+  "erro": "HTTPSConnectionPool(host='tributarionosbastidores.com.br', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='tributarionosbastidores.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+}
