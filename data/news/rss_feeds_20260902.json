@@ -1,0 +1,92 @@
+{
+  "data_busca": "2026-09-02T15:01:04.625425",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf pinta cenário surrealista no julgamento de multa aduaneira",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/carf-pinta-cenario-surrealista-no-julgamento-de-multa-aduaneira",
+          "resumo": "Decisões recentes do órgão contradizem entendimento do STJ",
+          "data_publicacao": "Wed, 02 Sep 2026 14:00:31 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Empresas enfrentam insegurança com alíquotas da reforma tributária indefinidas",
+          "link": "https://www.jota.info/tributos/empresas-enfrentam-inseguranca-com-aliquotas-da-reforma-tributaria-indefinidas",
+          "resumo": "CBS e Imposto Seletivo serão cobrados em 2027, mas percentuais podem ser conhecidos apenas em dezembro",
+          "data_publicacao": "Wed, 02 Sep 2026 12:56:37 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "IBS/CBS: um só litígio, duas Justiças",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ibs-cbs-um-so-litigio-duas-justicas",
+          "resumo": "Constituição unificou a tributação de consumo exatamente para garantir uniformidade",
+          "data_publicacao": "Wed, 02 Sep 2026 08:10:24 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Decreto sobre ingressos fortalece CDC na internet, mas depende de fiscalização",
+          "link": "https://conjur.com.br/2026-set-02/decreto-sobre-ingressos-fortalece-cdc-na-internet-mas-depende-de-fiscalizacao/",
+          "resumo": "Publicado nesta terça-feira (1º/9), o decreto do presidente Luiz Inácio Lula da Silva (PT) com novas regras contra abusos na venda de ingressos busca reforçar princípios do Código de Defesa do Consumidor (CDC) e direcioná-los para situações comuns do mercado digital, por meio do detalhamento de deve",
+          "data_publicacao": "Wed, 02 Sep 2026 11:23:09 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "O Tema 487-RG e a sua aplicação às multas isoladas no Carf",
+          "link": "https://conjur.com.br/2026-set-02/o-tema-487-rg-e-a-sua-aplicacao-as-multas-isoladas-no-carf/",
+          "resumo": "Em 24/4/2026 transitou em julgado o Recurso Extraordinário 640.452 (relator p/ acórdão ministro Dias Toffolli, Pleno, j. 17/12/2025), que decidiu o Tema 487 de repercussão geral, sobre a aplicação do princípio do não confisco às multas isoladas decorrentes do descumprimento de obrigações acessórias,",
+          "data_publicacao": "Wed, 02 Sep 2026 11:00:47 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Carf e tributação dos trusts: distinção entre capital e rendimentos",
+          "link": "https://conjur.com.br/2026-set-02/carf-e-a-tributacao-dos-trusts-necessaria-distincao-entre-capital-e-rendimentos/",
+          "resumo": "A tributação das transferências financeiras feitas por trusts constituídos no exterior tornou-se, nos últimos anos, um dos temas mais controvertidos do Direito Tributário Internacional brasileiro. A controvérsia ganhou especial importância com a crescente utilização dessas estruturas por pessoas fís",
+          "data_publicacao": "Wed, 02 Sep 2026 11:00:03 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
