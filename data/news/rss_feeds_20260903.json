@@ -1,0 +1,54 @@
+{
+  "data_busca": "2026-09-03T14:55:18.277727",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Incide IRPJ sobre ganho em operações entre fundos imobiliários, decide STJ",
+          "link": "https://www.jota.info/tributos/incide-irpj-sobre-ganho-em-operacoes-entre-fundos-imobiliarios-decide-stj",
+          "resumo": "Tribunal valida IRPJ sobre ganho de capital obtido por fundo na venda de cotas de outros fundos imobiliários",
+          "data_publicacao": "Thu, 03 Sep 2026 10:16:48 +0000",
+          "palavras_chave": [
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Menos jornada, mais CNPJ: a reforma que pune a escola e culpa a pejotização",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/trabalho-previdencia-empresas/menos-jornada-mais-cnpj-a-reforma-que-pune-a-escola-e-culpa-a-pejotizacao",
+          "resumo": "Educação precisa de flexibilidade contratual e previsibilidade de custos, não de slogans constitucionais financiados pela mensalidade",
+          "data_publicacao": "Thu, 03 Sep 2026 08:30:55 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "A difícil reforma do Decreto-lei nº 200/1967",
+          "link": "https://conjur.com.br/2026-set-03/a-dificil-reforma-do-decreto-lei-no-200-1967/",
+          "resumo": "Está em discussão no âmbito do Poder Executivo, desde dezembro de 2025, o anteprojeto da Lei Geral da Gestão Pública [1], elaborado por iniciativa conjunta do Ministério da Gestão de Inovação em Serviços Públicos (MGI) e da Advocacia Geral da União (AGU), com apoio de uma comissão de especialistas q",
+          "data_publicacao": "Thu, 03 Sep 2026 11:00:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
