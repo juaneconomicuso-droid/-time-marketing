@@ -1,0 +1,79 @@
+{
+  "data_consolidacao": "2026-09-04T14:52:19.256223",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O crédito tributário entrou na agenda das operadoras de planos de saúde",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-credito-tributario-entrou-na-agenda-das-operadoras-de-planos-de-saude",
+          "resumo": "Com CBS e IBS, compras, fornecedores e investimentos deixam de ser apenas questões operacionais",
+          "data_publicacao": "Fri, 04 Sep 2026 08:30:29 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Tribunais de Contas falham ao fiscalizar primeira infância, diz conselheiro",
+          "link": "https://conjur.com.br/2026-set-04/tribunais-de-contas-falharam-no-controle-externo-a-1a-infancia-diz-conselheiro/",
+          "resumo": "Os Tribunais de Contas brasileiros falham no controle externo de políticas voltadas à primeira infância. O público de zero a seis anos de idade, muitas vezes exposto a profundas desigualdades sociais no país, não tem a devida atenção da fiscalização. A avaliação é de Edson Ferrari, conselheiro do Tr",
+          "data_publicacao": "Fri, 04 Sep 2026 13:42:20 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    }
+  ]
+}
