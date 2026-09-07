@@ -1,0 +1,79 @@
+{
+  "data_consolidacao": "2026-09-07T16:22:00.074815",
+  "total_fontes": 7,
+  "total_noticias": 4,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf segue lei que regulamenta reforma tributária e anula de ofício multa aduaneira",
+          "link": "https://www.jota.info/tributos/carf-segue-lei-que-regulamenta-reforma-tributaria-e-anula-de-oficio-multa-aduaneira",
+          "resumo": "Conselho cancela multa de 1% contra a Diageo Brasil por informações inexatas em declarações de importação",
+          "data_publicacao": "Mon, 07 Sep 2026 09:39:14 +0000",
+          "palavras_chave": [
+            "CARF",
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Arellano: reforma tributária pode reduzir ISS e cota-parte de ICMS em SP em até 2/3",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/arellano-reforma-tributaria-pode-reduzir-iss-e-cota-parte-de-icms-em-sp-em-ate-2-3",
+          "resumo": "Secretário de Fazenda diz que municípios terão de explorar outras bases; estudo sobre arrecadação em SP leva em conta ISS e cota-parte do ICMS",
+          "data_publicacao": "Sun, 06 Sep 2026 12:44:42 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf derruba cobrança bilionária de IRPJ e CSLL contra Petrobras",
+          "link": "https://www.jota.info/tributos/carf-derruba-cobranca-bilionaria-de-irpj-e-csll-contra-petrobras",
+          "resumo": "Conselheiros acompanharam o voto do relator que considerou método usado pelo fisco inadequado para calcular a cobrança",
+          "data_publicacao": "Sun, 06 Sep 2026 10:00:03 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    }
+  ]
+}
