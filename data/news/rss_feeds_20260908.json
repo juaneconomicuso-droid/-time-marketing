@@ -1,0 +1,55 @@
+{
+  "data_busca": "2026-09-08T15:00:12.041533",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf nega que Samarco deduza multa pelo desastre de Mariana do IRPJ e CSLL",
+          "link": "https://www.jota.info/tributos/carf-nega-que-samarco-deduza-multa-pelo-desastre-de-mariana-do-irpj-e-csll",
+          "resumo": "Mineradora também tentou deduzir dos tributos federais as despesas com recuperação ambiental e socioambiental",
+          "data_publicacao": "Tue, 08 Sep 2026 12:47:41 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Tributação de propina não é exclusiva na fonte pagadora, decide Carf",
+          "link": "https://www.jota.info/tributos/tributacao-de-propina-nao-e-exclusiva-na-fonte-pagadora-decide-carf",
+          "resumo": "Fernando Pimentel, ex-governador de Minas Gerais, terá de pagar IRPF sobre valores ilícitos, de acordo com a fiscalização, recebidos pela Odebrecht",
+          "data_publicacao": "Tue, 08 Sep 2026 10:27:34 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
