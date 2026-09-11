@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-09-11T14:55:32.938028",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "CBIOs: a tributação que a reforma não resolveu",
+          "link": "https://conjur.com.br/2026-set-11/cbios-a-tributacao-que-a-reforma-nao-resolveu/",
+          "resumo": "Esta coluna já se ocupou dos créditos de descarbonização em três oportunidades: “Os aspectos tributários da política energética RenovaBio” (3/1/2020), “A não incidência do Funrural na emissão primária de CBIOs” (18/12/2020, em coautoria com Ana Maria Carvalho) e “Créditos de descarbonização (CBios):",
+          "data_publicacao": "Fri, 11 Sep 2026 11:00:55 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
