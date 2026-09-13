@@ -1,0 +1,45 @@
+{
+  "data_busca": "2026-09-13T14:51:39.889476",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "A exclusão de armas de fogo do Imposto Seletivo e seus efeitos sobre pessoas negras",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/a-exclusao-de-armas-de-fogo-do-imposto-seletivo-e-seus-efeitos-sobre-pessoas-negras",
+          "resumo": "Novo tratamento fiscal do setor recai com mais peso sobre quem já é mais vulnerável à violência letal",
+          "data_publicacao": "Sun, 13 Sep 2026 08:00:45 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
