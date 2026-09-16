@@ -1,0 +1,118 @@
+{
+  "data_consolidacao": "2026-09-16T15:21:29.724270",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "8ª edição do ‘Questões controvertidas no Carf’ discutirá subvenções e outros temas",
+          "link": "https://www.jota.info/tributos/8a-edicao-do-questoes-controvertidas-no-carf-discutira-subvencoes-e-outros-temas",
+          "resumo": "Mais de 40 conselheiros participarão de evento promovido por OAB-RJ e Firjan; debates acontecerão nos dias 28, 29 e 30 de outubro, no Rio de Janeiro",
+          "data_publicacao": "Wed, 16 Sep 2026 14:22:26 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Juiz dá liminar e retira CBS e IBS da base do ICMS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/juiz-da-liminar-e-retira-cbs-e-ibs-da-base-do-icms",
+          "resumo": "Magistrado considerou que não há norma determinando a inclusão dos novos tributos na base do imposto estadual",
+          "data_publicacao": "Wed, 16 Sep 2026 10:18:54 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "IBS: o acordo pioneiro entre o estado do Paraná e o município de Curitiba",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ibs-o-acordo-pioneiro-entre-o-estado-do-parana-e-o-municipio-de-curitiba",
+          "resumo": "Pacto inédito entre estado e capital disciplina atuação conjunta na cobrança do IBS e preserva autonomia",
+          "data_publicacao": "Wed, 16 Sep 2026 08:10:38 +0000",
+          "palavras_chave": [
+            "IBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Planejamento tributário envolvendo redução de capital e alienação de bem pelo sócio",
+          "link": "https://conjur.com.br/2026-set-16/planejamento-tributario-envolvendo-reducao-de-capital-e-alienacao-de-bem-pelo-socio/",
+          "resumo": "A redução de capital com devolução de bens ou direitos ao sócio, a valor contábil, seguida da sua alienação por quem o recebeu, é uma operação recorrente e um bom exemplo para analisar os limites do planejamento tributário a partir de casos concretos. Isso porque parte da operação encontra respaldo ",
+          "data_publicacao": "Wed, 16 Sep 2026 11:00:31 +0000",
+          "palavras_chave": [
+            "planejamento",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
