@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-09-17T15:28:17.673320",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "IBS e CBS: a curva de aprendizado tem dois lados; a multa, só um",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ibs-e-cbs-a-curva-de-aprendizado-tem-dois-lados-a-multa-so-um",
+          "resumo": "O próprio Estado suspendeu validações dos novos tributos por imaturidade do sistema; ao contribuinte, reserva infração ainda que involuntária",
+          "data_publicacao": "Thu, 17 Sep 2026 15:00:03 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária na pauta eleitoral: entre continuidade e revisão de regimes",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-na-pauta-eleitoral-entre-continuidade-e-revisao-de-regimes",
+          "resumo": "Split payment, alíquotas e prazos dividem propostas dos presidenciáveis para o novo sistema tributário",
+          "data_publicacao": "Thu, 17 Sep 2026 13:00:57 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf derruba cobrança contra hospital por terceirização de médicos",
+          "link": "https://www.jota.info/tributos/carf-derruba-cobranca-contra-hospital-por-terceirizacao-de-medicos",
+          "resumo": "A cobrança por suposto vínculo empregatício teria se dado exclusivamente pela terceirização de atividade-fim",
+          "data_publicacao": "Thu, 17 Sep 2026 09:47:09 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
