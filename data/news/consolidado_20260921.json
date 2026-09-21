@@ -1,0 +1,134 @@
+{
+  "data_consolidacao": "2026-09-21T16:53:39.005217",
+  "total_fontes": 7,
+  "total_noticias": 10,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Planos de presidenciáveis para reformar o Estado vão de cortes a mudanças no funcionalismo",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/planos-de-presidenciaveis-para-reformar-o-estado-vao-de-cortes-a-mudancas-no-funcionalismo",
+          "resumo": "Zema propõe alterações mais profundas e o fim da estabilidade; Lula evita rótulo de reforma administrativa",
+          "data_publicacao": "Mon, 21 Sep 2026 13:10:10 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf aprova súmulas sobre Cide, IOF e outras seis matérias",
+          "link": "https://www.jota.info/tributos/carf-aprova-sumulas-sobre-cide-iof-e-outras-seis-materias",
+          "resumo": "Gestão de Carlos Higino Ribeiro de Alencar alcançou a marca de 66 enunciados aprovados desde janeiro de 2023",
+          "data_publicacao": "Mon, 21 Sep 2026 10:11:39 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Subvenções: regra sobre reserva de lucros não vale para PIS/Cofins, decide Carf",
+          "link": "https://www.jota.info/tributos/subvencoes-regra-sobre-reserva-de-lucros-nao-vale-para-pis-cofins-decide-carf",
+          "resumo": "Estava em discussão se a não tributação dos créditos é possível quando a empresa deixa de escriturar os valores do benefício em conta de reserva",
+          "data_publicacao": "Sun, 20 Sep 2026 09:27:02 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A eficácia da saída fiscal e os fatos da vida como critério de residência",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-eficacia-da-saida-fiscal-e-os-fatos-da-vida-como-criterio-de-residencia",
+          "resumo": "Jurisprudência do Carf revela os indícios que definem, anos depois, quem de fato deixou de ser residente",
+          "data_publicacao": "Sun, 20 Sep 2026 08:10:41 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Transação tributária e a construção do consenso pós-reforma",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/transacao-tributaria-e-a-construcao-do-consenso-pos-reforma",
+          "resumo": "Sem regras específicas para IBS e CBS, cooperação entre entes é ainda mais necessária",
+          "data_publicacao": "Sun, 20 Sep 2026 08:00:55 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Sobre a explicitação dos princípios tributários pela EC 132 (parte 1)",
+          "link": "https://conjur.com.br/2026-set-21/reflexoes-sobre-a-explicitacao-dos-principios-tributarios-pela-ec-132-parte-1/",
+          "resumo": "Antes da Emenda Constitucional 132/23 (EC 132), a Constituição não enunciava, textualmente, os princípios tributários. O capítulo do Sistema Tributário Nacional continha as limitações ao poder de tributar, as regras de competência e as normas de repartição de receitas tributárias, mas não previa qua",
+          "data_publicacao": "Mon, 21 Sep 2026 13:15:01 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
