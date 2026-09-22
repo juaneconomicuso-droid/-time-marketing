@@ -1,0 +1,65 @@
+{
+  "data_busca": "2026-09-22T15:27:17.979663",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta prescrição intercorrente em caso sobre interposição fraudulenta",
+          "link": "https://www.jota.info/tributos/carf-afasta-prescricao-intercorrente-em-caso-sobre-interposicao-fraudulenta",
+          "resumo": "Conselho manteve também multa de perdimento contra a Microsoft do Brasil, tida como real adquirente de bens",
+          "data_publicacao": "Tue, 22 Sep 2026 09:12:49 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A inconstitucionalidade da inclusão da CBS e do IBS na base de cálculo do ISS",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-inconstitucionalidade-da-inclusao-da-cbs-e-do-ibs-na-base-de-calculo-do-iss",
+          "resumo": "Cobrar ISS sobre os novos tributos cria cumulatividade reflexa incompatível com a reforma tributária",
+          "data_publicacao": "Tue, 22 Sep 2026 08:00:40 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Exclusão da execução fiscal sem discutir crédito gera honorários por equidade",
+          "link": "https://conjur.com.br/2026-set-22/exclusao-da-execucao-fiscal-sem-discutir-credito-gera-honorarios-por-equidade/",
+          "resumo": "A decisão que exclui o contribuinte do polo passivo da execução fiscal deve gerar honorários de sucumbência por equidade a serem pagos pela Fazenda Pública, desde que o crédito não seja afetado e a cobrança prossiga contra outros devedores. A conclusão é da Corte Especial do Superior Tribunal de Jus",
+          "data_publicacao": "Tue, 22 Sep 2026 11:54:47 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
