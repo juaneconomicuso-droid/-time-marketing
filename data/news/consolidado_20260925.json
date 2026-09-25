@@ -1,0 +1,107 @@
+{
+  "data_consolidacao": "2026-09-25T15:45:47.130751",
+  "total_fontes": 7,
+  "total_noticias": 7,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Agroindústria não pode segregar atividades para apuração de contribuição, decide Carf",
+          "link": "https://www.jota.info/tributos/agroindustria-nao-pode-segregar-atividades-para-apuracao-de-contribuicao-decide-carf",
+          "resumo": "Conselho entendeu que contribuições previdenciárias devem alcançar toda a receita bruta das empresas",
+          "data_publicacao": "Fri, 25 Sep 2026 09:10:59 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Quem paga o preço da reforma tributária?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quem-paga-o-preco-da-reforma-tributaria",
+          "resumo": "O custo da reforma chega já em 2027; o ganho de eficiência, só depois de 2033",
+          "data_publicacao": "Fri, 25 Sep 2026 08:10:35 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Automação do Fisco após reforma requer transparência digital, alerta professora",
+          "link": "https://conjur.com.br/2026-set-25/automacao-do-fisco-apos-reforma-requer-transparencia-digital-alerta-professora/",
+          "resumo": "A partir de 2027, não serão as empresas que calcularão o valor dos tributos a serem pagos, mas o próprio Fisco, por um sistema informatizado que vai aplicar as normas da Reforma Tributária. Se as regras desse sistema não forem transparentes e juridicamente vinculadas, essa fragilidade vai gerar impa",
+          "data_publicacao": "Fri, 25 Sep 2026 13:45:16 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
