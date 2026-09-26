@@ -1,0 +1,66 @@
+{
+  "data_busca": "2026-09-26T14:55:32.152078",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém decisão que afasta equiparação de FII a pessoa jurídica",
+          "link": "https://www.jota.info/tributos/carf-mantem-decisao-que-afasta-equiparacao-de-fii-a-pessoa-juridica",
+          "resumo": "Rendimentos de fundos têm isenção tributária. Fazenda alegou equiparação para fins de cobrança de IRPJ e CSLL",
+          "data_publicacao": "Sat, 26 Sep 2026 09:49:48 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Vamos fazer outra reforma do Judiciário, diz Lula em jantar com empresários em São Paulo",
+          "link": "https://www.jota.info/eleicoes/eleicoes-2026/vamos-fazer-outra-reforma-do-judiciario-diz-lula-em-jantar-com-empresarios-em-sao-paulo",
+          "resumo": "'Esse Vorcaro devia ser um malandro mesmo. O que ele não corrompeu com dinheiro, ele corrompeu com orgia', disse o presidente, que busca a reeleição",
+          "data_publicacao": "Sat, 26 Sep 2026 02:46:09 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária: quem define os limites da incidência do IBS e da CBS?",
+          "link": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+          "resumo": "Por meio do Parecer SEI nº 293/2026/MF, a Procuradoria-Geral da Fazenda Nacional enfrentou a natureza jurídica do artigo 6º da Lei Complementar nº 214/2025. Segundo a manifestação, o dispositivo não concede benefícios fiscais, mas explicita hipóteses exteriores à materialidade do IBS e da CBS. Embor",
+          "data_publicacao": "Sat, 26 Sep 2026 14:28:01 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
