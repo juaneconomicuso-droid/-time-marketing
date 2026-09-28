@@ -1,0 +1,91 @@
+{
+  "data_busca": "2026-09-28T18:32:13.998253",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Imposto Seletivo e mineração",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/imposto-seletivo-e-mineracao",
+          "resumo": "Mera extração de minério não constitui materialidade tributável autônoma capaz de justificar a incidência sobre bens minerais destinados ao exterior",
+          "data_publicacao": "Mon, 28 Sep 2026 18:00:15 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Como a reforma do Código Civil pode encarecer a cobertura de seguros",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abde/como-a-reforma-do-codigo-civil-pode-encarecer-a-cobertura-de-seguros",
+          "resumo": "Num mercado em que o preço é, literalmente, o prêmio de risco, incerteza vira custo",
+          "data_publicacao": "Mon, 28 Sep 2026 17:40:27 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reflexões sobre a pobreza do debate fiscal no Brasil",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reflexoes-sobre-a-pobreza-do-debate-fiscal-no-brasil",
+          "resumo": "Caso Master revela os vínculos entre poder financeiro, mídia e prioridades nacionais",
+          "data_publicacao": "Mon, 28 Sep 2026 08:30:20 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Independência decisória e segurança jurídica no contencioso tributário",
+          "link": "https://conjur.com.br/2026-set-28/independencia-decisoria-e-seguranca-juridica-no-contencioso-tributario/",
+          "resumo": "Durante muitos anos julgando processos administrativos tributários, aprendi que existe uma diferença essencial entre conhecer profundamente a atividade de fiscalização e reproduzir, no julgamento, o olhar de quem fiscaliza. O auto de infração chega à Delegacia de Julgamento (DRJ) acompanhado de uma ",
+          "data_publicacao": "Mon, 28 Sep 2026 16:14:15 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária pode produzir o renascimento do contencioso",
+          "link": "https://conjur.com.br/2026-set-28/reforma-tributaria-pode-produzir-o-renascimento-do-contencioso/",
+          "resumo": "Na teoria, a reforma tributária traz inovações capazes de reduzir a litigiosidade. Na prática, já é possível observar o surgimento de novas discussões. A reforma não eliminará o contencioso tributário. Ela elimina algumas de suas causas e cria outras. Teses históricas envolvendo ICMS, ISS, PIS e Cof",
+          "data_publicacao": "Mon, 28 Sep 2026 14:18:46 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Gilmar cobra revisão de precatórios e ‘profunda reforma nas instituições’",
+          "link": "https://conjur.com.br/2026-set-28/gilmar-cobra-revisao-de-precatorios-e-profunda-reforma-nas-instituicoes/",
+          "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal, defendeu no último domingo (27/9) uma “profunda reforma nas instituições do país” para corrigir o que chamou de “práticas perversas” que atingiram os tribunais e o sistema financeiro. Em publicação nas redes sociais, o ministro citou o caso do B",
+          "data_publicacao": "Mon, 28 Sep 2026 13:15:32 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
