@@ -1,0 +1,98 @@
+{
+  "data_consolidacao": "2026-10-06T17:05:01.626119",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O Imposto Seletivo e o agro: a porta dos fundos da cumulatividade",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-imposto-seletivo-e-o-agro-a-porta-dos-fundos-da-cumulatividade",
+          "resumo": "Blindagem do agronegócio contra o IS é menor do que parece",
+          "data_publicacao": "Tue, 06 Oct 2026 08:00:50 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Alexandre exclui receitas próprias da DPU do teto de gastos do arcabouço fiscal",
+          "link": "https://conjur.com.br/2026-out-06/alexandre-exclui-receitas-proprias-da-dpu-do-teto-de-gastos-do-arcabouco-fiscal/",
+          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, concedeu liminar para excluir do teto de gastos públicos previsto no arcabouço fiscal as despesas da Defensoria Pública da União custeadas com receitas próprias. A decisão também alcança recursos recebidos pela DPU por meio de convênios, c",
+          "data_publicacao": "Tue, 06 Oct 2026 16:43:09 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
