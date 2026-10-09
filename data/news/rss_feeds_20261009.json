@@ -1,0 +1,65 @@
+{
+  "data_busca": "2026-10-09T17:22:44.880503",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Auditoria em fundos de investimento como elemento de inteligência fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/auditoria-em-fundos-de-investimento-como-elemento-de-inteligencia-fiscal",
+          "resumo": "Norma da CVM transforma auditores em peça-chave do combate à ocultação patrimonial em fundos",
+          "data_publicacao": "Fri, 09 Oct 2026 08:40:08 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "LC 236/26: a reforma do Código Tributário Nacional",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/lc-236-26-a-reforma-do-codigo-tributario-nacional",
+          "resumo": "Penalidades e lançamento do crédito tributário",
+          "data_publicacao": "Fri, 09 Oct 2026 08:10:13 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária e a revisão nos contratos de infraestrutura",
+          "link": "https://conjur.com.br/2026-out-09/reforma-tributaria-e-a-revisao-nos-contratos-de-infraestrutura/",
+          "resumo": "A reforma tributária do consumo, introduzida pela Emenda Constitucional nº 132/2023, está promovendo alterações relevantes nas condições econômicas dos contratos administrativos de concessão para o desenvolvimento em infraestrutura e precisa ser acompanhada de perto para se evitar eventual desequilí",
+          "data_publicacao": "Fri, 09 Oct 2026 14:16:34 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
