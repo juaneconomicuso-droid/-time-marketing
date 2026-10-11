@@ -1,0 +1,135 @@
+{
+  "data_consolidacao": "2026-10-11T16:35:19.567614",
+  "total_fontes": 7,
+  "total_noticias": 10,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf decide manter créditos de PIS/Cofins por transporte com trecho internacional",
+          "link": "https://www.jota.info/tributos/carf-decide-manter-creditos-de-pis-cofins-por-transporte-com-trecho-internacional",
+          "resumo": "Conselho decide que um único contrato pode conter os serviços de transporte nacional e internacional",
+          "data_publicacao": "Sun, 11 Oct 2026 09:06:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "A herança jurisprudencial da reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-heranca-jurisprudencial-da-reforma-tributaria",
+          "resumo": "Precedentes do STF e do STJ sobre ICMS, PIS e Cofins vão moldar a interpretação do IBS e da CBS",
+          "data_publicacao": "Sun, 11 Oct 2026 08:15:02 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "IA e contencioso tributário",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/ia-e-contencioso-tributario",
+          "resumo": "Uma estratégia para o estoque do passado e os conflitos do futuro",
+          "data_publicacao": "Sun, 11 Oct 2026 08:00:53 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Carf mantém IRPJ/CSLL por exclusão de resultados de controladas da base de cálculo",
+          "link": "https://www.jota.info/tributos/carf-mantem-irpj-csll-por-exclusao-de-resultados-de-controladas-da-base-de-calculo",
+          "resumo": "Whirlpool retirou lucros de controladas na Argentina da base de cálculos dos tributos",
+          "data_publicacao": "Sat, 10 Oct 2026 09:51:40 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Fachin defende Constituição e diz que Judiciário pode ser reformado, não enfraquecido",
+          "link": "https://www.jota.info/stf/do-supremo/fachin-defende-constituicao-e-diz-que-judiciario-pode-ser-reformado-nao-enfraquecido",
+          "resumo": "Para presidente do STF, não pode haver reforma contra o Judiciário, mas com a presença dele",
+          "data_publicacao": "Fri, 09 Oct 2026 18:24:59 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "O que um bom julgamento tributário precisa enxergar",
+          "link": "https://conjur.com.br/2026-out-11/o-que-um-bom-julgamento-tributario-precisa-enxergar/",
+          "resumo": "O Direito gosta de organizar o mundo. Separamos obrigações principais e acessórias, distinguimos fato gerador e base de cálculo, classificamos receitas, despesas, créditos, penalidades e sujeitos da relação tributária. Essa organização é necessária. Sem categorias, seria difícil transformar aconteci",
+          "data_publicacao": "Sun, 11 Oct 2026 12:15:15 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        },
+        {
+          "titulo": "Split Payment na Reforma Tributária: como funciona e qual o impacto no caixa das empresas",
+          "link": "https://tributarionosbastidores.com.br/2026/08/split-payment-reforma-tributaria-impacto-caixa/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    }
+  ]
+}
