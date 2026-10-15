@@ -1,0 +1,55 @@
+{
+  "data_busca": "2026-10-15T15:31:44.888873",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária terá de provar que vale a pena",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-fiscal/reforma-tributaria-tera-de-provar-que-vale-a-pena",
+          "resumo": "Cashback, regimes diferenciados e avaliação quinquenal colocam à prova responsabilidade fiscal pelos resultados de escolhas tributárias",
+          "data_publicacao": "Thu, 15 Oct 2026 08:15:22 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Parcelamento da dívida não implica reconhecimento do débito tributário",
+          "link": "https://conjur.com.br/2026-out-15/parcelamento-de-divida-fiscal-nao-gera-reconhecimento-do-credito/",
+          "resumo": "A 10ª Turma Recursal da Seção Judiciária de São Paulo, vinculada ao Tribunal Regional Federal da 3ª Região, anulou uma dívida fiscal relativa ao Imposto de Renda de Pessoa Física. O acórdão manteve a sentença e se baseou nos mesmos fundamentos da primeira instância. A ação envolveu um crédito fiscal",
+          "data_publicacao": "Thu, 15 Oct 2026 11:23:17 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
