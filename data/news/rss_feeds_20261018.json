@@ -1,0 +1,54 @@
+{
+  "data_busca": "2026-10-18T14:22:15.826087",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O maior desafio institucional da reforma tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-maior-desafio-institucional-da-reforma-tributaria",
+          "resumo": "Receita Federal e Comitê Gestor do IBS irão enxergar a mesma operação de forma igual?",
+          "data_publicacao": "Sun, 18 Oct 2026 08:20:08 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária mudará lógica de expansão da indústria automotiva, avaliam especialistas",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-mudara-logica-de-expansao-da-industria-automotiva-avaliam-especialistas",
+          "resumo": "Extinção de incentivos de ICMS deve levar montadoras a priorizar logística, mercado consumidor, créditos tributários e eficiência operacional",
+          "data_publicacao": "Sat, 17 Oct 2026 12:49:44 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
