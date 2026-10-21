@@ -1,0 +1,65 @@
+{
+  "data_busca": "2026-10-21T15:52:19.825007",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém cobrança de IPI em caso de classificação fiscal de areia para gatos",
+          "link": "https://www.jota.info/tributos/carf-mantem-cobranca-de-ipi-em-caso-de-classificacao-fiscal-de-areia-para-gatos",
+          "resumo": "Produto tinha sido classificado na subposição destinada ao dióxido de silício, mas para Carf deveria ser aglutinante preparado, aditivo e mistura de produtos químicos não especificados",
+          "data_publicacao": "Wed, 21 Oct 2026 09:21:11 +0000",
+          "palavras_chave": [
+            "CARF",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Vinculação às súmulas e preclusão probatória no Carf",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/por-dentro-do-carf/vinculacao-as-sumulas-e-preclusao-probatoria-no-carf",
+          "resumo": "Cumprir a súmula não é incompatível com provar que o caso é diferente, desafio está na preclusão",
+          "data_publicacao": "Wed, 21 Oct 2026 08:00:02 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Martos e Espinace Advogados inaugura área de tributário estratégico",
+          "link": "https://conjur.com.br/2026-out-21/martos-e-espinace-advogados-inaugura-area-de-tributario-estrategico/",
+          "resumo": "O Martos e Espinace Advogados anuncia uma nova frente de atuação voltada à saúde financeira das empresas: o Direito Tributário Estratégico. A proposta é aplicar ao consultivo e contencioso tributário a experiência que o escritório acumulou em demandas urgentes e de alta complexidade na área da saúde",
+          "data_publicacao": "Wed, 21 Oct 2026 15:00:55 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": [
+        {
+          "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+          "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+          "data_publicacao": "2026-07-22T17:02:38Z",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
