@@ -1,0 +1,36 @@
+{
+  "data_busca": "2026-10-28T17:02:29.762742",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Split payment extingue crédito antes da apuração do IBS e da CBS?",
+          "link": "https://conjur.com.br/2026-out-28/o-split-payment-extingue-o-credito-antes-da-apuracao-do-ibs-e-da-cbs/",
+          "resumo": "A Lei Complementar nº 214/2025 apresenta o recolhimento na liquidação financeira da operação, conhecido como split payment, entre as modalidades de extinção dos débitos de IBS e CBS. O mesmo texto legal atribui à apuração mensal a constituição do crédito tributário. Como conciliar essas disposições ",
+          "data_publicacao": "Wed, 28 Oct 2026 16:23:45 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
