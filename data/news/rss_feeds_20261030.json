@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-10-30T16:57:45.523867",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf permite adesão ao lucro presumido após incorporação de empresa",
+          "link": "https://www.jota.info/tributos/carf-permite-adesao-ao-lucro-presumido-apos-incorporacao-de-empresa",
+          "resumo": "Fato resultou no aproveitamento do regime por empresa com faturamento superior a R$ 68 milhões",
+          "data_publicacao": "Fri, 30 Oct 2026 09:12:19 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Planejamento familiar ainda é um direito desigual",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/planejamento-familiar-ainda-e-um-direito-desigual",
+          "resumo": "Três décadas após a lei, renda e acesso à saúde continuam condicionando as escolhas reprodutivas",
+          "data_publicacao": "Fri, 30 Oct 2026 05:54:27 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
