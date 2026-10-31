@@ -1,0 +1,53 @@
+{
+  "data_busca": "2026-10-31T15:58:56.079953",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária expõe fragilidade jurídica de negócios digitais que cresceram sem estrutura",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-expoe-fragilidade-juridica-de-negocios-digitais-que-cresceram-sem-estrutura",
+          "resumo": "Crescimento não corrige uma estrutura jurídica inadequada",
+          "data_publicacao": "Sat, 31 Oct 2026 07:16:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Quando o tributo não passa pelo caixa: os desafios empresariais do split payment",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quando-o-tributo-nao-passa-pelo-caixa-os-desafios-empresariais-do-split-payment",
+          "resumo": "Mecanismo pode mudar maneira como empresas financiam atividades, negociam com fornecedores, formam preços e medem  rentabilidade",
+          "data_publicacao": "Sat, 31 Oct 2026 05:09:58 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        },
+        {
+          "titulo": "JOTA Entrevista Bruno Moretti, ministro do Planejamento e Orçamento, nesta terça (3/11)",
+          "link": "https://www.jota.info/executivo/jota-entrevista-bruno-moretti-ministro-do-planejamento-e-orcamento-nesta-terca-3-11",
+          "resumo": "Entrevista está prevista para as 9h30. Ministro falará sobre economia, ajuste fiscal e as perspectivas para o quarto mandato do presidente Lula",
+          "data_publicacao": "Fri, 30 Oct 2026 22:44:01 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}

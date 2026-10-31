@@ -1,0 +1,97 @@
+{
+  "data_consolidacao": "2026-10-31T15:58:59.539403",
+  "total_fontes": 7,
+  "total_noticias": 6,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária expõe fragilidade jurídica de negócios digitais que cresceram sem estrutura",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-expoe-fragilidade-juridica-de-negocios-digitais-que-cresceram-sem-estrutura",
+          "resumo": "Crescimento não corrige uma estrutura jurídica inadequada",
+          "data_publicacao": "Sat, 31 Oct 2026 07:16:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Quando o tributo não passa pelo caixa: os desafios empresariais do split payment",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quando-o-tributo-nao-passa-pelo-caixa-os-desafios-empresariais-do-split-payment",
+          "resumo": "Mecanismo pode mudar maneira como empresas financiam atividades, negociam com fornecedores, formam preços e medem  rentabilidade",
+          "data_publicacao": "Sat, 31 Oct 2026 05:09:58 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        },
+        {
+          "titulo": "JOTA Entrevista Bruno Moretti, ministro do Planejamento e Orçamento, nesta terça (3/11)",
+          "link": "https://www.jota.info/executivo/jota-entrevista-bruno-moretti-ministro-do-planejamento-e-orcamento-nesta-terca-3-11",
+          "resumo": "Entrevista está prevista para as 9h30. Ministro falará sobre economia, ajuste fiscal e as perspectivas para o quarto mandato do presidente Lula",
+          "data_publicacao": "Fri, 30 Oct 2026 22:44:01 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    }
+  ]
+}
