@@ -1,0 +1,134 @@
+{
+  "data_consolidacao": "2026-11-01T17:02:27.874728",
+  "total_fontes": 7,
+  "total_noticias": 10,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: 10 teses e controvérsias judiciais",
+          "link": "https://tributarionosbastidores.com.br/2026/09/reforma-tributaria-10-teses-e-controversias-judiciais/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "O Direito Tributário e a concretização dos direitos humanos sob a perspectiva de gênero",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/o-direito-tributario-e-a-concretizacao-dos-direitos-humanos-sob-a-perspectiva-de-genero",
+          "resumo": "Quando estruturado sob a perspectiva de gênero, Direito Tributário não se preocupa apenas com a arrecadação",
+          "data_publicacao": "Sun, 01 Nov 2026 06:33:04 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária expõe fragilidade jurídica de negócios digitais que cresceram sem estrutura",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-expoe-fragilidade-juridica-de-negocios-digitais-que-cresceram-sem-estrutura",
+          "resumo": "Crescimento não corrige uma estrutura jurídica inadequada",
+          "data_publicacao": "Sat, 31 Oct 2026 07:16:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Quando o tributo não passa pelo caixa: os desafios empresariais do split payment",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/quando-o-tributo-nao-passa-pelo-caixa-os-desafios-empresariais-do-split-payment",
+          "resumo": "Mecanismo pode mudar maneira como empresas financiam atividades, negociam com fornecedores, formam preços e medem  rentabilidade",
+          "data_publicacao": "Sat, 31 Oct 2026 05:09:58 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        },
+        {
+          "titulo": "JOTA Entrevista Bruno Moretti, ministro do Planejamento e Orçamento, nesta terça (3/11)",
+          "link": "https://www.jota.info/executivo/jota-entrevista-bruno-moretti-ministro-do-planejamento-e-orcamento-nesta-terca-3-11",
+          "resumo": "Entrevista está prevista para as 9h30. Ministro falará sobre economia, ajuste fiscal e as perspectivas para o quarto mandato do presidente Lula",
+          "data_publicacao": "Fri, 30 Oct 2026 22:44:01 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Importação por encomenda e os limites da fiscalização paulista",
+          "link": "https://conjur.com.br/2026-nov-01/importacao-por-encomenda-e-os-limites-da-fiscalizacao-paulista/",
+          "resumo": "A importação por encomenda é uma modalidade de importação indireta em que a empresa interessada na mercadoria estrangeira, o encomendante, não a importa diretamente, encomendando-a a uma trading company que realiza a aquisição no exterior em nome próprio para revendê-la ao encomendante predeterminad",
+          "data_publicacao": "Sun, 01 Nov 2026 16:21:59 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Redução de multa fiscal retroage para atos anteriores a lei complementar",
+          "link": "https://conjur.com.br/2026-nov-01/reducao-de-multa-fiscal-retroage-para-atos-anteriores-a-lei-complementar/",
+          "resumo": "A juíza Vanessa Velloso Silva Saad Picoli, da 9ª Vara da Fazenda Pública de São Paulo, concedeu uma liminar para suspender a exigibilidade de débitos tributários de uma empresa. Ela também determinou a sustação do protesto fundado em uma certidão de dívida ativa. A empresa impetrou o mandado de segu",
+          "data_publicacao": "Sun, 01 Nov 2026 15:30:47 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A CBS e os limites da neutralidade arrecadatória",
+          "link": "https://conjur.com.br/2026-nov-01/a-cbs-e-os-limites-da-neutralidade-arrecadatoria/",
+          "resumo": "Os 11,3% calculados pelo Tribunal de Contas da União para a alíquota de referência da Contribuição sobre Bens e Serviços tornam mais concreta uma preocupação que acompanha a reforma do sistema tributário brasileiro desde sua concepção. A preservação da arrecadação, apresentada como garantia de neutr",
+          "data_publicacao": "Sun, 01 Nov 2026 12:28:20 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
