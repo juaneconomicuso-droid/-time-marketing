@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-11-02T20:39:47.063134",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Concessões sob novo regime: o desafio de mensurar o impacto da Reforma Tributária",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/tendencias/concessoes-sob-novo-regime-o-desafio-de-mensurar-o-impacto-da-reforma-tributaria",
+          "resumo": "Unificação dos tributos impões desafio estrutural nos modelos de contrato econômico-financeiros",
+          "data_publicacao": "Mon, 02 Nov 2026 11:21:45 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf nega tese do STF à multa regulamentar do IPI por notas fiscais irregulares",
+          "link": "https://www.jota.info/tributos/carf-nega-tese-do-stf-a-multa-regulamentar-do-ipi-por-notas-fiscais-irregulares",
+          "resumo": "Conselho afasta entendimento sobre multa regulamentar do IPI de 150% por emissão de notas fiscais irregulares",
+          "data_publicacao": "Mon, 02 Nov 2026 09:03:46 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "O IBS e a CBS não são receita do produtor rural, e o Funrural precisa reconhecer isso",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-ibs-e-a-cbs-nao-sao-receita-do-produtor-rural-e-o-funrural-precisa-reconhecer-isso",
+          "resumo": "Forma como os adquirentes parametrizarem a retenção decidirá se a contribuição previdenciária passará a incidir sobre tributo",
+          "data_publicacao": "Mon, 02 Nov 2026 07:46:08 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O Direito Tributário e a concretização dos direitos humanos sob a perspectiva de gênero",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/o-direito-tributario-e-a-concretizacao-dos-direitos-humanos-sob-a-perspectiva-de-genero",
+          "resumo": "Quando estruturado sob a perspectiva de gênero, Direito Tributário não se preocupa apenas com a arrecadação",
+          "data_publicacao": "Sun, 01 Nov 2026 06:33:04 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
