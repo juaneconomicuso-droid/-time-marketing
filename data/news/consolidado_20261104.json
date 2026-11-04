@@ -1,0 +1,90 @@
+{
+  "data_consolidacao": "2026-11-04T18:30:28.054644",
+  "total_fontes": 7,
+  "total_noticias": 5,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "A Não Cumulatividade do IBS e da CBS – Pontos que Poderão Levar ao Contencioso",
+          "link": "https://tributarionosbastidores.com.br/2026/11/a-nao-cumulatividade-do-ibs-e-da-cbs-pontos-que-poderao-levar-ao-contencioso/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "ICMS – Liminar afasta a Inclusão do IBS e da CBS na Base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/09/icms-liminar-afasta-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Fazenda vai prorrogar discussão para regulamentar lei que cortou benefícios tributários",
+          "link": "https://www.jota.info/tributos-e-empresas/mercado/fazenda-vai-prorrogar-discussao-para-regulamentar-lei-que-cortou-beneficios-tributarios",
+          "resumo": "Medida será tomada diante da necessidade de garantir mais tempo para a conclusão do trabalho técnico",
+          "data_publicacao": "Wed, 04 Nov 2026 12:57:42 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Imposto Seletivo sobre bens minerais: entre proteção ambiental e limites da eficiência econômica",
+          "link": "https://conjur.com.br/2026-nov-04/imposto-seletivo-sobre-bens-minerais-entre-a-protecao-ambiental-e-os-limites-da-eficiencia-economica/",
+          "resumo": "A reforma tributária brasileira, por meio da Emenda Constitucional nº 132/2023, atribuiu ao Imposto Seletivo (IS) a função de alcançar bens e serviços prejudiciais à saúde ou ao meio ambiente. No setor mineral, a inovação provoca debate particular: a extração de recursos não renováveis é indispensáv",
+          "data_publicacao": "Wed, 04 Nov 2026 14:18:56 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    }
+  ]
+}
