@@ -1,0 +1,65 @@
+{
+  "data_busca": "2026-11-05T18:35:07.749313",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Deputada Any Ortiz busca apoio para PEC que adia reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/deputada-any-ortiz-busca-apoio-para-pec-que-adia-reforma-tributaria",
+          "resumo": "Proposta estende para 2027 a alíquota-teste de CBS e IBS e precisa de 171 assinaturas para começar a tramitar",
+          "data_publicacao": "Thu, 05 Nov 2026 18:18:35 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Receita recebe lista de medicamentos com alíquota zero de CBS e IBS nesta semana",
+          "link": "https://www.jota.info/saude/receita-recebe-lista-de-medicamentos-com-aliquota-zero-de-cbs-e-ibs-nesta-semana",
+          "resumo": "Há dúvidas sobre o tratamento tributário que será dado para medicamentos que estarão em estoque na virada de 2026 e 2027",
+          "data_publicacao": "Thu, 05 Nov 2026 10:07:23 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "IBS e CBS sobre encargos moratórios: o limite constitucional do ‘valor da operação’",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/ibs-e-cbs-sobre-encargos-moratorios-o-limite-constitucional-do-valor-da-operacao",
+          "resumo": "Somente compõem base de cálculo valores com relação direta com a operação tributada originalmente pactuada",
+          "data_publicacao": "Thu, 05 Nov 2026 07:23:51 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Holding patrimonial: comodato entre partes relacionadas e impactos do IBS/CBS",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/holding-patrimonial-comodato-entre-partes-relacionadas-e-impactos-do-ibs-cbs",
+          "resumo": "Alterações recentes impõem novos desafios ao planejamento patrimonial familiar",
+          "data_publicacao": "Thu, 05 Nov 2026 05:55:55 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
