@@ -1,0 +1,82 @@
+{
+  "data_busca": "2026-11-08T16:56:56.894765",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf mantém tributação de lucros de controladas da JBS, mas derruba multa",
+          "link": "https://www.jota.info/tributos/carf-mantem-tributacao-de-lucros-de-controladas-da-jbs-mas-derruba-multa",
+          "resumo": "De acordo com informações públicas da companhia, os valores em discussão totalizam cerca de R$ 3 bilhões",
+          "data_publicacao": "Sun, 08 Nov 2026 10:17:47 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "IBS e CBS: os desafios da composição de preços, das desonerações e das imunidades",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ibs-e-cbs-os-desafios-da-composicao-de-precos-das-desoneracoes-e-das-imunidades",
+          "resumo": "Simplificação tributária não criar novas complexidades nem restringir garantias constitucionais dos contribuintes",
+          "data_publicacao": "Sun, 08 Nov 2026 05:40:39 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O novo Imposto Seletivo seleciona?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-novo-imposto-seletivo-seleciona",
+          "resumo": "A MP 1.399/2026 garante neutralidade arrecadatória em 2027, mas cobra seu preço em calendário, legalidade e coerência extrafiscal",
+          "data_publicacao": "Sat, 07 Nov 2026 18:21:45 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf dispensa retificação de GFIP para compensação de contribuições previdenciárias",
+          "link": "https://www.jota.info/tributos/carf-dispensa-retificacao-de-gfip-para-compensacao-de-contribuicoes-previdenciarias",
+          "resumo": "Conselho considerou suficiente cumprimento de requisitos para controle dos créditos",
+          "data_publicacao": "Sat, 07 Nov 2026 09:44:20 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reação do Senado à CBS ameaça receitas em 2027, mas corte não será fácil",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reacao-do-senado-a-cbs-ameaca-receitas-em-2027-mas-corte-nao-sera-facil",
+          "resumo": "Reduzir alíquota de 11,3% sem contrapartidas tem potencial de diminuir arrecadação federal; apesar disso, mudança teria empecilhos legais",
+          "data_publicacao": "Fri, 06 Nov 2026 21:29:46 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Do signo solto ao emprestado: prejudicialidade na MP 1.399/26 do Imposto Seletivo",
+          "link": "https://conjur.com.br/2026-nov-08/do-signo-solto-ao-emprestado-prejudicialidade-na-mp-1-399-26-do-imposto-seletivo/",
+          "resumo": "A Medida Provisória nº 1.399/2026 (MP) fixou as alíquotas do Imposto Seletivo (IS) para 2027 [1]. O refresco líquido, pronto para o consumo, pagará 2,6%, enquanto o preparado em pó permanecerá fora do imposto. A diferença entre os dois não está no açúcar, nem no potencial de dano à saúde, que a lite",
+          "data_publicacao": "Sun, 08 Nov 2026 14:25:36 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
