@@ -1,0 +1,118 @@
+{
+  "data_consolidacao": "2026-11-09T21:20:24.294548",
+  "total_fontes": 7,
+  "total_noticias": 8,
+  "fontes": [
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Liminar determina a exclusão do IBS e CBS da base de cálculo do ISS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/liminar-determina-a-exclusao-do-ibs-e-cbs-da-base-de-calculo-do-iss/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "A Não Cumulatividade do IBS e da CBS – Pontos que Poderão Levar ao Contencioso",
+          "link": "https://tributarionosbastidores.com.br/2026/11/a-nao-cumulatividade-do-ibs-e-da-cbs-pontos-que-poderao-levar-ao-contencioso/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Medida provisória não pode dispor sobre Imposto Seletivo, CBS e IBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/medida-provisoria-nao-pode-dispor-sobre-imposto-seletivo-cbs-e-ibs",
+          "resumo": "Quem paga é o povo, e o povo só delibera pela voz da lei, cujo único emissor autorizado é o Parlamento",
+          "data_publicacao": "Mon, 09 Nov 2026 13:44:19 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS",
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Adiamento da reforma tributária esbarra na resistência do governo",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/adiamento-da-reforma-tributaria-esbarra-na-resistencia-do-governo",
+          "resumo": "Parlamentares ouvidos pelo JOTA dizem que PEC para adiar vigência dependeria do Planalto, que sinaliza em sentido oposto",
+          "data_publicacao": "Mon, 09 Nov 2026 13:12:25 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Juiz aplica progressividade na retenção de IRPF acima de R$ 50 mil",
+          "link": "https://www.jota.info/tributos/juiz-aplica-progressividade-na-retencao-de-irpf-acima-de-r-50-mil",
+          "resumo": "Esta é a primeira sentença sobre a matéria, que consta na Lei 15.270/2025. Os efeitos da norma começaram em janeiro deste ano",
+          "data_publicacao": "Mon, 09 Nov 2026 10:20:21 +0000",
+          "palavras_chave": [
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3%: as premissas do cálculo e os limites da alíquota de referência",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/cbs-de-113-as-premissas-do-calculo-e-os-limites-da-aliquota-de-referencia",
+          "resumo": "O cálculo do TCU orienta as projeções para 2027, mas tem gerado discussões metodológicas",
+          "data_publicacao": "Mon, 09 Nov 2026 06:18:47 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Meta fiscal estrutural e segurança jurídica tributária",
+          "link": "https://www.jota.info/coberturas-especiais/jurisprudente/meta-fiscal-estrutural-e-seguranca-juridica-tributaria",
+          "resumo": "Substituir o resultado convencional pelo estrutural como meta da LC 200 tornaria a regra menos pró-cíclica",
+          "data_publicacao": "Mon, 09 Nov 2026 05:30:20 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
