@@ -1,0 +1,66 @@
+{
+  "data_busca": "2026-11-10T18:30:42.534102",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Casa JOTA debate implementação e próximos passos da reforma tributária",
+          "link": "https://www.jota.info/casa-jota/casa-jota-debate-implementacao-e-proximos-passos-da-reforma-tributaria",
+          "resumo": "Integrantes do Comitê Gestor do IBS e da Receita Federal discutem desafios operacionais e regulamentação do novo sistema em 19 de novembro",
+          "data_publicacao": "Tue, 10 Nov 2026 14:43:48 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Revisão da CBS pode gerar pressão sobre benefícios setoriais da reforma",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/revisao-da-cbs-pode-gerar-pressao-sobre-beneficios-setoriais-da-reforma",
+          "resumo": "Alíquota de referência de 11,3% calculada pelo TCU surpreendeu parlamentares e setor privado, que falam em reduzir percentual",
+          "data_publicacao": "Tue, 10 Nov 2026 12:15:13 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Carf impede dedução de isenção de ICMS do IRPJ/CSLL",
+          "link": "https://www.jota.info/tributos/carf-impede-deducao-de-isencao-de-icms-do-irpj-csll",
+          "resumo": "Conselho invalida procedimento contábil utilizado para demonstrar o registro dos valores em reserva de lucros",
+          "data_publicacao": "Tue, 10 Nov 2026 09:54:25 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "TJ-SP suspende decisões que afastavam IBS e CBS da base do ICMS",
+          "link": "https://conjur.com.br/2026-nov-10/tj-sp-suspende-decisoes-que-afastavam-ibs-e-cbs-da-base-do-icms/",
+          "resumo": "O risco de grave lesão à economia pública e o perigo de efeito multiplicador de controvérsia jurídica recente, que não está pacificada na transição da reforma tributária, autorizam a manutenção do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) na base de cál",
+          "data_publicacao": "Tue, 10 Nov 2026 16:40:00 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
