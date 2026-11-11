@@ -1,0 +1,72 @@
+{
+  "data_busca": "2026-11-11T18:29:17.494921",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "JOTA Principal | Governo mantém cronograma da reforma tributária, e Fazenda corre para aprovar medidas no Congresso",
+          "link": "https://www.jota.info/newsletters/jota-principal/governo-mantem-cronograma-reforma-tributaria",
+          "resumo": "Pasta planeja apresentar ainda nesta semana medidas voltadas à implementação das mudanças",
+          "data_publicacao": "Wed, 11 Nov 2026 12:16:18 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf valida Cide sobre royalties pagos por direitos de transmissão ao exterior",
+          "link": "https://www.jota.info/tributos/carf-valida-cide-sobre-royalties-pagos-por-direitos-de-transmissao-ao-exterior",
+          "resumo": "Caso da Globo Comunicação e Participações S/A abrange a exploração de direitos autorais",
+          "data_publicacao": "Wed, 11 Nov 2026 10:22:43 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e concessões: o desafio de preservar o equilíbrio dos contratos",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-concessoes-o-desafio-de-preservar-o-equilibrio-dos-contratos",
+          "resumo": "Êxito da reforma depende de atuação coordenada entre poder concedente, agências reguladoras, órgãos de controle e concessionárias",
+          "data_publicacao": "Wed, 11 Nov 2026 07:49:10 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma do Judiciário não pode alienar Legislativo, alerta presidente do TJ-SP",
+          "link": "https://conjur.com.br/2026-nov-11/presidente-do-tj-sp-defende-parceria-entre-poderes-para-reforma-no-judiciario/",
+          "resumo": "O presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, defende a necessidade de uma reforma do Judiciário, mas avalia que a mudança precisa ser feita em estreita colaboração com o Poder Legislativo. A avaliação foi feita em entrevista à revista eletrônica Consult",
+          "data_publicacao": "Wed, 11 Nov 2026 15:17:33 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Malha fiscal viola moralidade: contribuinte é o Sísifo moderno",
+          "link": "https://conjur.com.br/2026-nov-11/malha-fiscal-viola-moralidade-contribuinte-e-o-sisifo-moderno/",
+          "resumo": "Todos conhecem o mito de Sísifo. Ele foi condenado, por desobedecer aos deuses e enganar a morte, a empurrar uma grande pedra de mármore montanha acima, apenas para vê-la rolar para baixo de volta quando chegasse ao topo. Ele, então, tinha que reiniciar o seu tormento, empurrando-a novamente até o c",
+          "data_publicacao": "Wed, 11 Nov 2026 14:17:22 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
