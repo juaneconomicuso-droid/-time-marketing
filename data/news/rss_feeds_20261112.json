@@ -1,0 +1,84 @@
+{
+  "data_busca": "2026-11-12T18:44:25.530686",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "JOTA Principal | Senado vota hoje pacote de ajuste fiscal do governo Lula",
+          "link": "https://www.jota.info/newsletters/jota-principal/senado-vota-ajuste-fiscal-governo-lula",
+          "resumo": "Estimativa de efeito sobre as contas públicas, segundo relatório, é de melhora entre R$ 43 bi e R$ 54 bi",
+          "data_publicacao": "Thu, 12 Nov 2026 13:46:07 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Imposto seletivo puxa pra baixo avaliação da reforma tributária",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/imposto-seletivo-puxa-pra-baixo-avaliacao-da-reforma-tributaria",
+          "resumo": "Apesar da insegurança, comitê de especialistas do Pulso da Reforma aponta avanço na nota fiscal e no split payment",
+          "data_publicacao": "Thu, 12 Nov 2026 13:30:18 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária e concessões de saneamento",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/coluna-fiscal/reforma-tributaria-e-concessoes-de-saneamento",
+          "resumo": "O reequilíbrio econômico-financeiro para além das tarifas",
+          "data_publicacao": "Thu, 12 Nov 2026 07:03:41 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Fundações imunes vão pagar CBS e IBS?",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/fundacoes-imunes-vao-pagar-cbs-e-ibs",
+          "resumo": "Reforma preservou imunidade sobre fornecimentos das entidades, mas não alcança aquisições",
+          "data_publicacao": "Thu, 12 Nov 2026 06:51:42 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Pacote fiscal do governo prevê ajuste de até R$ 54 bi em 2027; veja ponto a ponto",
+          "link": "https://www.jota.info/tributos-e-empresas/mercado/pacote-fiscal-do-governo-preve-ajuste-de-ate-r-54-bi-em-2027-veja-ponto-a-ponto",
+          "resumo": "PLP amplia contingenciamento, reduz benefícios tributários e limita compensações fiscais; votação fica para quinta (12/11)",
+          "data_publicacao": "Thu, 12 Nov 2026 00:46:44 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Imposto Seletivo e alíquotas ‘emprestadas’ do IPI: novo contencioso fiscal?",
+          "link": "https://conjur.com.br/2026-nov-12/imposto-seletivo-e-as-aliquotas-emprestadas-do-ipi-um-novo-contencioso-fiscal/",
+          "resumo": "No último dia 4 de novembro, foi publicada a Medida Provisória nº 1.399/2026, que fixou as alíquotas do Imposto Seletivo (IS) a incidirem a partir de 2 de fevereiro de 2027 — em razão da necessária observância da anterioridade nonagesimal. Apesar de possuir critérios próprios de seletividade, vincul",
+          "data_publicacao": "Thu, 12 Nov 2026 18:24:49 +0000",
+          "palavras_chave": [
+            "imposto",
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
