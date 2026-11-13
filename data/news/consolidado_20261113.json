@@ -1,0 +1,129 @@
+{
+  "data_consolidacao": "2026-11-13T18:26:29.586578",
+  "total_fontes": 7,
+  "total_noticias": 9,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/nota-fiscal-e-split-payment-avancam-na-reforma-tributaria-mas-adaptacao-de-municipios-preocupa",
+          "resumo": "Comitê formado por dez especialistas reconhece avanços na implementação, mas aponta gargalos operacionais ainda a superar",
+          "data_publicacao": "Fri, 13 Nov 2026 14:46:50 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Ajuste fiscal do governo Lula segue à Câmara sob críticas de patrões e petistas",
+          "link": "https://www.jota.info/newsletters/jota-principal/ajuste-fiscal-governo-lula-criticas-patroes-petistas",
+          "resumo": "Gestão pretende expandir possibilidades de cortes de despesas e perseguir o centro da meta fiscal",
+          "data_publicacao": "Fri, 13 Nov 2026 13:13:13 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf mantém IRPF em ganho de capital com incentivos fiscais na venda de ações",
+          "link": "https://www.jota.info/tributos/carf-mantem-irpf-em-ganho-de-capital-com-incentivos-fiscais-na-venda-de-acoes",
+          "resumo": "A discussão central tratou da possibilidade de incentivos integrarem o custo de aquisição das participações",
+          "data_publicacao": "Fri, 13 Nov 2026 09:41:05 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "Senado aprova texto-base do pacote fiscal com impacto previsto de até R$ 56 bi",
+          "link": "https://www.jota.info/legislativo/senado-aprova-texto-base-do-pacote-fiscal-com-impacto-previsto-de-ate-r-56-bi",
+          "resumo": "PLP amplia contingenciamento, reduz benefícios tributários e limita compensações fiscais",
+          "data_publicacao": "Fri, 13 Nov 2026 01:24:34 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Caso Meta expõe urgência de fiscalizar governança dos algoritmos em eleições",
+          "link": "https://conjur.com.br/2026-nov-13/caso-meta-expoe-urgencia-de-fiscalizar-governanca-dos-algoritmos-em-eleicoes/",
+          "resumo": "O Direito Eleitoral não pode mais restringir sua preocupação à licitude de mensagens políticas ou à regularidade dos mecanismos de propaganda eleitoral. Deve alcançar também as estruturas tecnológicas que definem a sua circulação e exigir governança algorítmica transparente. Essa é a conclusão que s",
+          "data_publicacao": "Fri, 13 Nov 2026 17:13:15 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "TJSP suspende 10 liminares que afastavam a inclusão do IBS e da CBS na base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/tjsp-suspende-10-liminares-que-afastavam-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Liminar determina a exclusão do IBS e CBS da base de cálculo do ISS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/liminar-determina-a-exclusao-do-ibs-e-cbs-da-base-de-calculo-do-iss/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "A Não Cumulatividade do IBS e da CBS – Pontos que Poderão Levar ao Contencioso",
+          "link": "https://tributarionosbastidores.com.br/2026/11/a-nao-cumulatividade-do-ibs-e-da-cbs-pontos-que-poderao-levar-ao-contencioso/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}

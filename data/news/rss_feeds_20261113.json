@@ -1,0 +1,74 @@
+{
+  "data_busca": "2026-11-13T18:26:26.048559",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Nota fiscal e split payment avançam na reforma tributária, mas adaptação de municípios preocupa",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/nota-fiscal-e-split-payment-avancam-na-reforma-tributaria-mas-adaptacao-de-municipios-preocupa",
+          "resumo": "Comitê formado por dez especialistas reconhece avanços na implementação, mas aponta gargalos operacionais ainda a superar",
+          "data_publicacao": "Fri, 13 Nov 2026 14:46:50 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Ajuste fiscal do governo Lula segue à Câmara sob críticas de patrões e petistas",
+          "link": "https://www.jota.info/newsletters/jota-principal/ajuste-fiscal-governo-lula-criticas-patroes-petistas",
+          "resumo": "Gestão pretende expandir possibilidades de cortes de despesas e perseguir o centro da meta fiscal",
+          "data_publicacao": "Fri, 13 Nov 2026 13:13:13 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Carf mantém IRPF em ganho de capital com incentivos fiscais na venda de ações",
+          "link": "https://www.jota.info/tributos/carf-mantem-irpf-em-ganho-de-capital-com-incentivos-fiscais-na-venda-de-acoes",
+          "resumo": "A discussão central tratou da possibilidade de incentivos integrarem o custo de aquisição das participações",
+          "data_publicacao": "Fri, 13 Nov 2026 09:41:05 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPF"
+          ]
+        },
+        {
+          "titulo": "Senado aprova texto-base do pacote fiscal com impacto previsto de até R$ 56 bi",
+          "link": "https://www.jota.info/legislativo/senado-aprova-texto-base-do-pacote-fiscal-com-impacto-previsto-de-ate-r-56-bi",
+          "resumo": "PLP amplia contingenciamento, reduz benefícios tributários e limita compensações fiscais",
+          "data_publicacao": "Fri, 13 Nov 2026 01:24:34 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Caso Meta expõe urgência de fiscalizar governança dos algoritmos em eleições",
+          "link": "https://conjur.com.br/2026-nov-13/caso-meta-expoe-urgencia-de-fiscalizar-governanca-dos-algoritmos-em-eleicoes/",
+          "resumo": "O Direito Eleitoral não pode mais restringir sua preocupação à licitude de mensagens políticas ou à regularidade dos mecanismos de propaganda eleitoral. Deve alcançar também as estruturas tecnológicas que definem a sua circulação e exigir governança algorítmica transparente. Essa é a conclusão que s",
+          "data_publicacao": "Fri, 13 Nov 2026 17:13:15 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
