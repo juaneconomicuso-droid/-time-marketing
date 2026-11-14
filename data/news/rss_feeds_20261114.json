@@ -1,0 +1,82 @@
+{
+  "data_busca": "2026-11-14T16:53:34.537461",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta IRPJ e CSLL sobre incentivos de ICMS da Cervejaria Petrópolis",
+          "link": "https://www.jota.info/tributos/carf-afasta-irpj-e-csll-sobre-incentivos-de-icms-da-cervejaria-petropolis",
+          "resumo": "O valor em discussão no processo é de aproximadamente R$ 200 milhões",
+          "data_publicacao": "Sat, 14 Nov 2026 09:54:20 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Reforma do Judiciário: a curva, a autoescola e o piloto automático",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/observatorio-constitucional/reforma-do-judiciario-a-curva-a-autoescola-e-o-piloto-automatico",
+          "resumo": "Fala-se de mandato de ministro e de 'moralização', como se o problema morasse no Judiciário",
+          "data_publicacao": "Sat, 14 Nov 2026 08:13:42 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "O PL da lei geral do controle concentrado e a reforma do processo constitucional",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-pl-da-lei-geral-do-controle-concentrado-e-a-reforma-do-processo-constitucional",
+          "resumo": "Notas sobre 'generalidade e abstração'",
+          "data_publicacao": "Sat, 14 Nov 2026 05:44:13 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Diretório Nacional do PT discute ajuste fiscal em meio a incômodo no partido e na militância",
+          "link": "https://www.jota.info/legislativo/diretorio-nacional-do-pt-discute-ajuste-fiscal-em-meio-a-incomodo-no-partido-e-na-militancia",
+          "resumo": "A reação dos parlamentares está alinhada à má repercussão do pacote entre a militância petista, que vinha animada após a vitória nas eleições",
+          "data_publicacao": "Fri, 13 Nov 2026 20:39:44 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Disputa judicial sobre taxa de fiscalização do tabaco envolve mais de R$ 500 milhões",
+          "link": "https://www.jota.info/coberturas-especiais/disputa-judicial-sobre-taxa-de-fiscalizacao-do-tabaco-envolve-mais-de-r-500-milhoes",
+          "resumo": "Professora da FGV comenta recurso da indústria em julgamento no TRF-1 que bloqueia valores destinados à Anvisa",
+          "data_publicacao": "Fri, 13 Nov 2026 20:13:28 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Crédito de PIS/Cofins negado no ressarcimento e o caminho de volta até a CBS",
+          "link": "https://conjur.com.br/2026-nov-14/credito-de-pis-cofins-negado-no-ressarcimento-e-o-caminho-de-volta-ate-a-cbs/",
+          "resumo": "Quem acompanha processos de ressarcimento de PIS/Cofins no Carf conhece a cena. Em muitos casos, o Fisco não glosa o crédito, apenas nega o ressarcimento, seja porque alterou o rateio entre as receitas de exportação e as do mercado interno, seja porque requalificou o crédito como presumido, que a le",
+          "data_publicacao": "Sat, 14 Nov 2026 12:18:59 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
