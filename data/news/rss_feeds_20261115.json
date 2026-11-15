@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-11-15T17:37:16.215701",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf afasta IRPJ e CSLL sobre incentivos de ICMS da Cervejaria Petrópolis",
+          "link": "https://www.jota.info/tributos/carf-afasta-irpj-e-csll-sobre-incentivos-de-icms-da-cervejaria-petropolis",
+          "resumo": "O valor em discussão no processo é de aproximadamente R$ 200 milhões",
+          "data_publicacao": "Sat, 14 Nov 2026 09:54:20 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Reforma do Judiciário: a curva, a autoescola e o piloto automático",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/observatorio-constitucional/reforma-do-judiciario-a-curva-a-autoescola-e-o-piloto-automatico",
+          "resumo": "Fala-se de mandato de ministro e de 'moralização', como se o problema morasse no Judiciário",
+          "data_publicacao": "Sat, 14 Nov 2026 08:13:42 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "O PL da lei geral do controle concentrado e a reforma do processo constitucional",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-pl-da-lei-geral-do-controle-concentrado-e-a-reforma-do-processo-constitucional",
+          "resumo": "Notas sobre 'generalidade e abstração'",
+          "data_publicacao": "Sat, 14 Nov 2026 05:44:13 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Apuração assistida da CBS: simplificação ou risco aos contribuintes?",
+          "link": "https://conjur.com.br/2026-nov-15/apuracao-assistida-da-cbs/",
+          "resumo": "Em 9 de novembro de 2026, a Receita Federal divulgou a disponibilização das versões 2.0 das interfaces de programação de aplicações (APIs) para consulta de débitos e créditos da Contribuição sobre Bens e Serviços (CBS), liberadas em 28 de outubro. A medida representa mais uma etapa da implementação ",
+          "data_publicacao": "Sun, 15 Nov 2026 12:26:50 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
