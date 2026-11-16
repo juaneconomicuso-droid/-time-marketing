@@ -1,0 +1,110 @@
+{
+  "data_busca": "2026-11-16T20:51:25.516423",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Após a festa da vitória, Lula 4 enfrenta a ressaca da pressão por ajuste fiscal",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/democracia-em-transe/apos-a-festa-da-vitoria-lula-4-enfrenta-a-ressaca-da-pressao-por-ajuste-fiscal",
+          "resumo": "Pacto redistributivo de 1988 só pode sobreviver se novo ciclo de acumulação começar",
+          "data_publicacao": "Mon, 16 Nov 2026 20:14:56 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "CBS: na dúvida, não ultrapasse",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/cbs-na-duvida-nao-ultrapasse",
+          "resumo": "Conforme as premissas, a mesma regra de neutralidade produz uma alíquota de referência da CBS entre 9,7% e 11,3%",
+          "data_publicacao": "Mon, 16 Nov 2026 19:40:26 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Suspensão de liminares sobre IBS e CBS no ICMS apoia-se em estimativa sem comprovação",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/suspensao-de-liminares-sobre-ibs-e-cbs-no-icms-apoia-se-em-estimativa-sem-comprovacao",
+          "resumo": "Exclusão retira da base a parcela que hoje corresponde ao PIS/Cofins, mas a questão é saber se o Estado tem direito a mais do que isso",
+          "data_publicacao": "Mon, 16 Nov 2026 19:40:19 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "‘Exército do Lula’ tem debandada e Janones aponta boicote da ‘extrema esquerda’, crítica ao pacote fiscal",
+          "link": "https://www.jota.info/legislativo/exercito-do-lula-tem-debandada-e-janones-aponta-boicote-da-extrema-esquerda-critica-ao-pacote-fiscal",
+          "resumo": "Canal perdeu mais de 1 milhão de seguidores desde o 2º turno",
+          "data_publicacao": "Mon, 16 Nov 2026 19:34:10 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Fachin prega reforma com diálogo, e não ‘contra’ o judiciário",
+          "link": "https://www.jota.info/stf/do-supremo/fachin-prega-reforma-com-dialogo-e-nao-contra-o-judiciario",
+          "resumo": "Presidente do STF também defendeu prudência na atuação de juízes e vinculou a independência judicial à demonstração de integridade",
+          "data_publicacao": "Mon, 16 Nov 2026 14:11:57 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Reforma tributária: o Fisco ajusta o passo, mas falta preparar o consumidor",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-o-fisco-ajusta-o-passo-mas-falta-preparar-o-consumidor",
+          "resumo": "Quem suporta economicamente boa parte da tributação ainda carece de uma explicação pública, simples e abrangente",
+          "data_publicacao": "Mon, 16 Nov 2026 13:17:53 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Carf anula cobrança de IRPJ e CSLL em caso bilionário de incorporação da Bertin pela JBS",
+          "link": "https://www.jota.info/tributos/carf-anula-cobranca-de-irpj-e-csll-em-caso-bilionario-de-incorporacao-da-bertin-pela-jbs",
+          "resumo": "Colegiado entendeu que houve erro na identificação do fato gerador",
+          "data_publicacao": "Mon, 16 Nov 2026 09:43:35 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "STJ julga alcance de benefício do Carf em voto de qualidade sobre decadência",
+          "link": "https://conjur.com.br/2026-nov-16/stj-julga-beneficio-do-carf-se-voto-de-qualidade-so-decide-decadencia/",
+          "resumo": "A 1ª Turma do Superior Tribunal de Justiça vai decidir se os benefícios fiscais da Lei 14.689/2023 são aplicáveis quando o voto de qualidade no Conselho Administrativo de Recursos Fiscais (Carf) é usado apenas para decidir se o prazo para a Fazenda cobrar o tributo já havia terminado (decadência). O",
+          "data_publicacao": "Mon, 16 Nov 2026 17:13:26 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Um contributo à arbitragem",
+          "link": "https://conjur.com.br/2026-nov-16/um-contributo-a-arbitragem/",
+          "resumo": "O ano de 1862 foi movimentado na Faculdade de Direito do Recife. Nele, dentre outros eventos, tiveram lugar dois concursos para lente substituto. Assim registrou a Memória Acadêmica apresentada à Congregação em 1º de março de 1863, a cargo do professor Jerônimo Vilela de Castro Tavares [1]. A primei",
+          "data_publicacao": "Mon, 16 Nov 2026 16:21:22 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
