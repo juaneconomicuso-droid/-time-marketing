@@ -1,0 +1,72 @@
+{
+  "data_busca": "2026-11-17T19:40:41.370794",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Destaques sobre Lei Kandir e compensação tributária concentram disputas no Senado antes de pacote fiscal seguir à Câmara",
+          "link": "https://www.jota.info/legislativo/destaques-sobre-lei-kandir-e-compensacao-tributaria-concentram-disputas-no-senado-antes-de-pacote-fiscal-seguir-a-camara",
+          "resumo": "Senado deve concluir nesta terça-feira (17/11) a votação do pacote do PLP 299/2026, que tende a ser aprovado",
+          "data_publicacao": "Tue, 17 Nov 2026 18:00:04 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Ajuste fiscal pode impactar financiamento do setor de energia",
+          "link": "https://www.jota.info/energia/ajuste-fiscal-pode-impactar-financiamento-do-setor-de-energia",
+          "resumo": "Proposta estabelece teto para o Reidi, benefício tributário utilizado na construção de usinas e linhas de transmissão",
+          "data_publicacao": "Tue, 17 Nov 2026 13:57:00 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Moretti: ajuste fiscal mira R$ 44 bi de emendas e terá mais medidas se necessário",
+          "link": "https://www.jota.info/executivo/moretti-ajuste-fiscal-mira-r-44-bi-de-emendas-e-tera-mais-medidas-se-necessario",
+          "resumo": "Ministro fala em retificar falhas para convencer esquerda, busca manter essência do texto no Congresso e diz não ver cenário de crise cambial",
+          "data_publicacao": "Tue, 17 Nov 2026 13:18:35 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Ajuste fiscal do governo Lula deve passar no Congresso apesar de insatisfações e ceticismo",
+          "link": "https://www.jota.info/newsletters/jota-principal/ajuste-fiscal-governo-lula-congresso",
+          "resumo": "Diagnóstico é um só, mesmo entre os insatisfeitos: o texto deve ser aprovado sem dificuldade e com rapidez",
+          "data_publicacao": "Tue, 17 Nov 2026 13:07:39 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Anulação de crédito tributário no cível esvazia justa causa para ação penal",
+          "link": "https://conjur.com.br/2026-nov-17/anulacao-de-credito-tributario-no-civel-esvazia-denuncia-criminal/",
+          "resumo": "Os crimes contra a ordem tributária ostentam natureza material, isto é, exigem a demonstração da efetiva redução ou supressão dos tributos. Se os documentos que motivaram a denúncia na esfera criminal são posteriormente invalidados na Justiça comum, não há mais justa causa que sustente o processo pe",
+          "data_publicacao": "Tue, 17 Nov 2026 15:43:28 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
