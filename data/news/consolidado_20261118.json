@@ -1,0 +1,147 @@
+{
+  "data_consolidacao": "2026-11-18T19:16:39.223666",
+  "total_fontes": 7,
+  "total_noticias": 11,
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "JOTA Principal | Governo avalia ceder em destaques ao ajuste fiscal no Senado após banho de realidade",
+          "link": "https://www.jota.info/newsletters/jota-principal/governo-avalia-ceder-destaques-ajuste-fiscal-senado",
+          "resumo": "Trecho sobre compensação a entes subnacionais pela Lei Kandir pode ser aprovado para evitar outras mudanças",
+          "data_publicacao": "Wed, 18 Nov 2026 11:51:06 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Finalidade arrecadatória do imposto de exportação sobre o petróleo contraria a Constituição",
+          "link": "https://www.jota.info/casa-jota/finalidade-arrecadatoria-do-imposto-de-exportacao-sobre-o-petroleo-contraria-a-constituicao",
+          "resumo": "Juristas e economista criticam a cobrança de 12% mantida por resolução do Executivo",
+          "data_publicacao": "Wed, 18 Nov 2026 11:50:52 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Atletas não podem receber só por cessão de uso de imagem, decide Carf",
+          "link": "https://www.jota.info/tributos/atletas-nao-podem-receber-so-por-cessao-de-uso-de-imagem-decide-carf",
+          "resumo": "Osasco havia pago atletas e integrantes da comissão técnica exclusivamente por meio de verbas por uso de imagem",
+          "data_publicacao": "Wed, 18 Nov 2026 10:15:24 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Posição de sócio não basta para condenação por sonegação fiscal",
+          "link": "https://conjur.com.br/2026-nov-18/posicao-de-socio-nao-basta-para-condenacao-por-sonegacao-fiscal/",
+          "resumo": "A mera posição formal de sócio ou diretor de uma empresa não é suficiente para responsabilizar alguém por crimes contra a ordem tributária. Com esse fundamento, o juiz Américo Bedê Freire Júnior, da 2ª Vara Federal Criminal de Vitória, absolveu dois réus denunciados por sonegação fiscal. O Ministéri",
+          "data_publicacao": "Wed, 18 Nov 2026 17:44:06 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Ponte, pedágio e caminhão: obra pública diante da reforma tributária",
+          "link": "https://conjur.com.br/2026-nov-18/ponte-pedagio-e-caminhao-obra-publica-diante-da-reforma-tributaria/",
+          "resumo": "Imagine o engenheiro de orçamento de uma autarquia rodoviária que precisa precificar a conservação de estradas em 30 municípios. Enquanto vigorou apenas o ISS, a alíquota de cada município ficava entre 2% e 5% (artigos 8º, II, e 8º-A da Lei Complementar nº 116/2003), e a diferença entre elas cabia n",
+          "data_publicacao": "Wed, 18 Nov 2026 16:21:32 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Oferta de veículo PcD com prazo inviável para obter isenção fiscal é abusiva",
+          "link": "https://conjur.com.br/2026-nov-18/oferta-destinada-a-pcd-com-prazo-inviavel-para-obter-isencao-e-enganosa/",
+          "resumo": "A veiculação de oferta promocional para compra de veículo por pessoa com deficiência em prazo inferior ao tempo legal necessário para a obtenção de isenções tributárias configura publicidade enganosa e prática abusiva. A conduta autoriza a revisão do contrato para aplicar as condições anunciadas. Es",
+          "data_publicacao": "Wed, 18 Nov 2026 15:18:08 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária cala o contribuinte: questionar ilegalidades ou inconstitucionalidades do IBS e da CBS pode se tornar impraticável",
+          "link": "https://tributarionosbastidores.com.br/2026/11/reforma-tributaria-cala-o-contribuinte-questionar-ilegalidades-ou-inconstitucionalidades-do-ibs-e-da-cbs-pode-se-tornar-impraticavel/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "TJSP suspende 10 liminares que afastavam a inclusão do IBS e da CBS na base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/tjsp-suspende-10-liminares-que-afastavam-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Liminar determina a exclusão do IBS e CBS da base de cálculo do ISS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/liminar-determina-a-exclusao-do-ibs-e-cbs-da-base-de-calculo-do-iss/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "A Não Cumulatividade do IBS e da CBS – Pontos que Poderão Levar ao Contencioso",
+          "link": "https://tributarionosbastidores.com.br/2026/11/a-nao-cumulatividade-do-ibs-e-da-cbs-pontos-que-poderao-levar-ao-contencioso/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
