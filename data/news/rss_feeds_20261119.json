@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-11-19T19:25:01.438080",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STF AO VIVO – Dispensa de honorários sucumbenciais em acordos tributários – 19/11/2026",
+          "link": "https://www.jota.info/stf/do-supremo/stf-ao-vivo-dispensa-de-honorarios-sucumbenciais-em-acordos-tributarios-19-11-2026",
+          "resumo": "Corte julga ação que questiona dispensa de honorários sucumbenciais em acordos e parcelamentos tributários",
+          "data_publicacao": "Thu, 19 Nov 2026 14:40:04 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Senado conclui aprovação do ajuste fiscal em vitória legislativa do governo Lula",
+          "link": "https://www.jota.info/newsletters/jota-principal/senado-conclui-aprovacao-ajuste-fiscal-governo-lula",
+          "resumo": "Mudanças durante negociações reduziram de R$ 56 bi para R$ 50 bi a estimativa de impacto fiscal em 2027",
+          "data_publicacao": "Thu, 19 Nov 2026 13:39:37 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Imposto Seletivo será tema de debate sobre proteção à saúde pública na USP",
+          "link": "https://www.jota.info/coberturas-especiais/imposto-seletivo-sera-tema-de-debate-sobre-protecao-a-saude-publica-na-usp",
+          "resumo": "No próximo dia 24, juristas e especialistas discutem como a tributação de cigarros, bebidas alcoólicas e açucaradas pode reduzir o consumo de produtos nocivos",
+          "data_publicacao": "Thu, 19 Nov 2026 13:30:28 +0000",
+          "palavras_chave": [
+            "imposto"
+          ]
+        },
+        {
+          "titulo": "Carf: benefícios estornados e contribuições obrigatórias não podem ser excluídos do IRPJ/CSLL",
+          "link": "https://www.jota.info/tributos/carf-beneficios-estornados-e-contribuicoes-obrigatorias-nao-podem-ser-excluidos-do-irpj-csll",
+          "resumo": "Caso envolve a empresa Irmãos Muffato & Cia Ltda, com tratamento tributário diferenciado no PR e em SC",
+          "data_publicacao": "Thu, 19 Nov 2026 09:30:11 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
