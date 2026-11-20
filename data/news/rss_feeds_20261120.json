@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-11-20T19:00:07.262091",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
+          "resumo": "Com o split payment, a disputa penal tende a migrar para o crédito tributário e para a prova baseada em dados",
+          "data_publicacao": "Fri, 20 Nov 2026 18:32:40 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STF não julgará compensação de tributos anteriores a mandado de segurança",
+          "link": "https://www.jota.info/tributos/stf-nao-julgara-compensacao-de-tributos-anteriores-a-mandado-de-seguranca",
+          "resumo": "Com isso, prevalece a orientação do STJ, favorável aos contribuintes",
+          "data_publicacao": "Fri, 20 Nov 2026 10:28:31 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        },
+        {
+          "titulo": "ISS sobre IBS e CBS: a cobrança de 2027 já chegou à Justiça",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/iss-sobre-ibs-e-cbs-a-cobranca-de-2027-ja-chegou-a-justica",
+          "resumo": "A Lei Complementar 214/2025 retirou o ISS da base dos novos impostos, mas silenciou sobre o caminho inverso",
+          "data_publicacao": "Fri, 20 Nov 2026 08:22:10 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "STF tem maioria para derrubar dispensa de honorários advocatícios em acordos tributários",
+          "link": "https://www.jota.info/tributos/stf-tem-maioria-para-derrubar-dispensa-de-honorarios-advocaticios-em-acordos-tributarios",
+          "resumo": "Julgamento foi suspenso para aguardar ministros ausentes; ação foi proposta pela OAB",
+          "data_publicacao": "Thu, 19 Nov 2026 21:42:14 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
