@@ -1,0 +1,44 @@
+{
+  "data_busca": "2026-11-21T17:54:31.938703",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Da omissão ao crédito: a reforma tributária e os crimes empresariais",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/da-omissao-ao-credito-a-reforma-tributaria-e-os-crimes-empresariais",
+          "resumo": "Com o split payment, a disputa penal tende a migrar para o crédito tributário e para a prova baseada em dados",
+          "data_publicacao": "Fri, 20 Nov 2026 18:32:40 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "STF não julgará compensação de tributos anteriores a mandado de segurança",
+          "link": "https://www.jota.info/tributos/stf-nao-julgara-compensacao-de-tributos-anteriores-a-mandado-de-seguranca",
+          "resumo": "Com isso, prevalece a orientação do STJ, favorável aos contribuintes",
+          "data_publicacao": "Fri, 20 Nov 2026 10:28:31 +0000",
+          "palavras_chave": [
+            "tributo"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
