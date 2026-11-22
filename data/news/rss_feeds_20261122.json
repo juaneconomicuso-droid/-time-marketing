@@ -1,0 +1,64 @@
+{
+  "data_busca": "2026-11-22T18:20:42.350117",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Carf valida IRPJ e CSLL contra a Caixa por ganho em troca de ações da Bolsa",
+          "link": "https://www.jota.info/tributos/carf-valida-irpj-e-csll-contra-a-caixa-por-ganho-em-troca-de-acoes-da-bolsa",
+          "resumo": "Caso envolve a incorporação da Cetip pela Bovespa por meio da Companhia São José Holding, que resultou na B3",
+          "data_publicacao": "Sun, 22 Nov 2026 09:27:31 +0000",
+          "palavras_chave": [
+            "CARF",
+            "IRPJ"
+          ]
+        },
+        {
+          "titulo": "Observância do art. 166 do CTN na repetição do indébito da CBS/IBS",
+          "link": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/observancia-do-art-166-do-ctn-na-repeticao-do-indebito-da-cbs-ibs",
+          "resumo": "A omissão do grupo de estudos do Centro de Estudos do STF sobre o entendimento da Corte",
+          "data_publicacao": "Sun, 22 Nov 2026 06:39:09 +0000",
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "O REIDI sobreviveu à reforma tributária, e a matriz de risco define quem captura o ganho",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/o-reidi-sobreviveu-a-reforma-tributaria-e-a-matriz-de-risco-define-quem-captura-o-ganho",
+          "resumo": "REIDI deixou de ser apenas um benefício fiscal e virou uma variável do equilíbrio do contrato que precisa ser calculada",
+          "data_publicacao": "Sun, 22 Nov 2026 04:57:41 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Ganhou, mas não levou: o Pacote Fiscal e a trava nas compensações tributárias",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/ganhou-mas-nao-levou-o-pacote-fiscal-e-a-trava-nas-compensacoes-tributarias",
+          "resumo": "Ao deixar nas mãos do Executivo o uso do crédito do contribuinte, o PLP 299/2026 troca segurança jurídica por caixa de curto prazo",
+          "data_publicacao": "Sat, 21 Nov 2026 23:09:01 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
