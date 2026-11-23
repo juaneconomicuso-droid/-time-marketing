@@ -1,0 +1,148 @@
+{
+  "data_consolidacao": "2026-11-23T22:29:22.715364",
+  "total_fontes": 7,
+  "total_noticias": 11,
+  "fontes": [
+    {
+      "fonte": "Conjur",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Crédito da CBS: quem paga a conta quando o fornecedor não paga?",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/credito-da-cbs-quem-paga-a-conta-quando-o-fornecedor-nao-paga",
+          "resumo": "Estimativa anunciada pela Receita alivia o caixa na estreia da CBS, mas não diz quem suporta o inadimplemento do fornecedor",
+          "data_publicacao": "Mon, 23 Nov 2026 19:32:45 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Depois do PIS/Cofins: o futuro do contencioso da CBS no Carf e na Justiça",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/depois-do-pis-cofins-o-futuro-do-contencioso-da-cbs-no-carf-e-na-justica",
+          "resumo": "O litígio do consumo não acaba de uma vez: muda de objeto, de lugar e de linguagem",
+          "data_publicacao": "Mon, 23 Nov 2026 16:28:52 +0000",
+          "palavras_chave": [
+            "CARF",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Câmara vota ajuste fiscal do governo Lula em rara segunda-feira de plenário",
+          "link": "https://www.jota.info/newsletters/jota-principal/camara-vota-ajuste-fiscal-governo-lula",
+          "resumo": "Disposição parlamentar é fruto de confluência de interesses, com montagem da Esplanada e troca de legislatura",
+          "data_publicacao": "Mon, 23 Nov 2026 12:59:11 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "A meta fiscal de 2027 é uma aposta na tese de Lara Resende",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/a-meta-fiscal-de-2027-e-uma-aposta-na-tese-de-lara-resende",
+          "resumo": "Com primário de 0,5% do PIB, a dívida só se estabiliza se o prêmio de risco cair com a Selic. E a banda de juros só a protege enquanto houver folga",
+          "data_publicacao": "Mon, 23 Nov 2026 10:01:31 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Eduardo Diamantino participa de simpósio tributário da Sociedade Rural Brasileira",
+          "link": "https://conjur.com.br/2026-nov-23/eduardo-diamantino-participa-de-simposio-tributario-da-sociedade-rural-brasileira/",
+          "resumo": "O tributarista Eduardo Diamantino é um dos convidados da 6ª edição do Simpósio Tributário do Agronegócio, promovido pela Sociedade Rural Brasileira (SRB), em 27 de novembro, em São Paulo. O encontro vai acontecer sede da entidade, das 8h30 às 18h, e reunirá representantes de diferentes cadeias produ",
+          "data_publicacao": "Mon, 23 Nov 2026 21:00:39 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "Ajuste fiscal: o texto aprovado no Senado e o que está em jogo",
+          "link": "https://conjur.com.br/2026-nov-23/ajuste-fiscal-o-texto-aprovado-no-senado-e-o-que-esta-em-jogo/",
+          "resumo": "O Senado rejeitou, em 18 de novembro, os destaques da oposição ao PLP 299/2026 e preservou o texto-base, aprovado em 12 de novembro por 45 votos a 31. Com isso, ficou mantido o artigo 6º-F da Lei Complementar 200/2023, na redação do substitutivo do relator, senador Eduardo Braga, e a matéria avança ",
+          "data_publicacao": "Mon, 23 Nov 2026 20:19:28 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    },
+    {
+      "fonte": "JOTA",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário nos Bastidores",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária cala o contribuinte: questionar ilegalidades ou inconstitucionalidades do IBS e da CBS pode se tornar impraticável",
+          "link": "https://tributarionosbastidores.com.br/2026/11/reforma-tributaria-cala-o-contribuinte-questionar-ilegalidades-ou-inconstitucionalidades-do-ibs-e-da-cbs-pode-se-tornar-impraticavel/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "TJSP suspende 10 liminares que afastavam a inclusão do IBS e da CBS na base do ICMS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/tjsp-suspende-10-liminares-que-afastavam-a-inclusao-do-ibs-e-da-cbs-na-base-do-icms/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Liminar determina a exclusão do IBS e CBS da base de cálculo do ISS",
+          "link": "https://tributarionosbastidores.com.br/2026/11/liminar-determina-a-exclusao-do-ibs-e-cbs-da-base-de-calculo-do-iss/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "A Não Cumulatividade do IBS e da CBS – Pontos que Poderão Levar ao Contencioso",
+          "link": "https://tributarionosbastidores.com.br/2026/11/a-nao-cumulatividade-do-ibs-e-da-cbs-pontos-que-poderao-levar-ao-contencioso/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3%: alíquota acima do esperado coloca em xeque a neutralidade da reforma tributária",
+          "link": "https://tributarionosbastidores.com.br/2026/10/cbs-de-113-aliquota-acima-do-esperado-coloca-em-xeque-a-neutralidade-da-reforma-tributaria/",
+          "resumo": "",
+          "data_publicacao": null,
+          "palavras_chave": [
+            "Reforma Tributária",
+            "CBS"
+          ]
+        }
+      ]
+    }
+  ]
+}
