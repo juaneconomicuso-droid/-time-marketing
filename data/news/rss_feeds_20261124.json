@@ -1,0 +1,81 @@
+{
+  "data_busca": "2026-11-24T21:01:20.906010",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária: governo promete tolerância com contribuinte que errar de boa-fé",
+          "link": "https://www.jota.info/coberturas-especiais/ambiente-negocios-oportunidades/reforma-tributaria-governo-promete-tolerancia-com-contribuinte-que-errar-de-boa-fe",
+          "resumo": "Representantes da União, de estados e de municípios afirmaram que os ajustes da transição serão administrativos e defenderam a alíquota de 11,3% da CBS",
+          "data_publicacao": "Tue, 24 Nov 2026 14:58:18 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Marketplaces e loot boxes serão foco da fiscalização da ANPD em 2027, afirma superintendente",
+          "link": "https://www.jota.info/executivo/marketplaces-e-loot-boxes-serao-foco-da-fiscalizacao-da-anpd-em-2027-afirma-superintendente",
+          "resumo": "Fabrício Lopes declarou que a agência ampliará a fiscalização sobre a venda de itens proibidos para crianças e adolescentes em plataformas",
+          "data_publicacao": "Tue, 24 Nov 2026 13:00:09 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Com apoio de Motta ao governo, Câmara aprova projeto de ajuste fiscal",
+          "link": "https://www.jota.info/newsletters/jota-principal/camara-aprova-projeto-ajuste-fiscal-governo-lula",
+          "resumo": "Não houve mudanças no texto aprovado no Senado, e impacto estimado é de até R$ 50 bilhões em 2027",
+          "data_publicacao": "Tue, 24 Nov 2026 12:06:45 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Receitas com ativos garantidores integram base do PIS/Cofins, decide Carf",
+          "link": "https://www.jota.info/tributos/receitas-com-ativos-garantidores-integram-base-do-pis-cofins-decide-carf",
+          "resumo": "Conselho conclui que rendimentos integram o ciclo operacional das empresas",
+          "data_publicacao": "Tue, 24 Nov 2026 09:28:46 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Stablecoins e IOF: Receita Federal, operações de câmbio e as diferenças conceituais entre os perímetros regulatório e tributário",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/stablecoins-e-iof-receita-federal-operacoes-de-cambio-e-as-diferencas-conceituais-entre-os-perimetros-regulatorio-e-tributario",
+          "resumo": "Solução de Consulta reafirma incidência de IOF-Câmbio somente para ocasiões com claro envolvimento de moeda estrangeira",
+          "data_publicacao": "Tue, 24 Nov 2026 05:43:48 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Fraude à cota de gênero e a Súmula TSE 73: reforma ou revogação?",
+          "link": "https://conjur.com.br/2026-nov-24/fraude-a-cota-de-genero-e-a-sumula-tse-73-reforma-ou-revogacao/",
+          "resumo": "O recente julgamento de um caso de fraude à cota de gênero nas eleições de 2022 no Amapá pelo Tribunal Superior Eleitoral reacendeu um debate polêmico no universo do Direito Eleitoral: quantas mulheres seria necessário sacrificar para que os efeitos da Súmula TSE 73 se perfectibilizem e possamos dar",
+          "data_publicacao": "Tue, 24 Nov 2026 16:24:26 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
