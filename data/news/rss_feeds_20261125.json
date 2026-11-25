@@ -1,0 +1,63 @@
+{
+  "data_busca": "2026-11-25T20:24:20.760256",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "STF AO VIVO – Reforma Trabalhista e piso nacional para professores estaduais – 25/11/2026",
+          "link": "https://www.jota.info/stf/do-supremo/stf-reforma-trabalhista-e-piso-nacional-para-professores-estaduais-25-11-2026",
+          "resumo": "Ministros devem julgar regra que exige do trabalhador o dever de indicar o valor da ação trabalhista antes da contestação",
+          "data_publicacao": "Wed, 25 Nov 2026 14:52:47 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "JOTA Principal | Governo estuda enviar PEC de ajuste fiscal e aproveitar Congresso em final de legislatura",
+          "link": "https://www.jota.info/newsletters/jota-principal/governo-estuda-enviar-nova-pec-ajuste-fiscal",
+          "resumo": "Sequência de contenção foi defendida por Hugo Motta e pode incluir uma ampla gama de rubricas",
+          "data_publicacao": "Wed, 25 Nov 2026 12:22:01 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Procedimento judicial não tem início com o pagamento das custas, decide Carf",
+          "link": "https://www.jota.info/tributos/procedimento-judicial-nao-tem-inicio-com-o-pagamento-das-custas-decide-carf",
+          "resumo": "Conselheiros consideraram protocolo da petição inicial como marco e validaram IRPJ e de CSLL contra a Caixa",
+          "data_publicacao": "Wed, 25 Nov 2026 09:30:54 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Reforma tributária e contratos intragrupo: aderência contratual à realidade operacional",
+          "link": "https://conjur.com.br/2026-nov-25/reforma-tributaria-e-contratos-intragrupo-aderencia-contratual-a-realidade-operacional/",
+          "resumo": "Na prática empresarial é comum que os contratos firmados entre empresas do mesmo grupo não sejam objeto de revisões frequentes. Todavia, a partir da vigência do IBS e da CBS essa postura deve mudar, a fim de garantir segurança tributária para os contratantes. Não se trata do refazimento de todo o co",
+          "data_publicacao": "Wed, 25 Nov 2026 17:19:23 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
