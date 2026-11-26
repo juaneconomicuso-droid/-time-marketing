@@ -1,0 +1,83 @@
+{
+  "data_busca": "2026-11-26T20:01:02.718745",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Lula e Trabuco têm mais em comum do que se pensa no debate fiscal",
+          "link": "https://www.jota.info/executivo/lula-e-trabuco-tem-mais-em-comum-do-que-se-pensa-no-debate-fiscal",
+          "resumo": "Ex-CEO do Bradesco é simpático à ideia de um ajuste gradual na Previdência e defende preservar áreas sociais",
+          "data_publicacao": "Thu, 26 Nov 2026 18:14:48 +0000",
+          "palavras_chave": [
+            "fiscal"
+          ]
+        },
+        {
+          "titulo": "Reforma Tributária: Confederações vão ao STF para adiar início da CBS e do IBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-confederacoes-vao-ao-stf-para-adiar-inicio-da-cbs-e-do-ibs",
+          "resumo": "Entidades querem que cobrança da CBS seja adiada para até 90 dias depois de publicada a regulamentação pendente",
+          "data_publicacao": "Thu, 26 Nov 2026 13:10:12 +0000",
+          "palavras_chave": [
+            "Reforma",
+            "IBS",
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Alíquota da CBS: Revisão do ‘tax gap’ vira alvo no Senado",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/aliquota-da-cbs-revisao-do-tax-gap-vira-alvo-no-senado",
+          "resumo": "Audiências públicas realizadas pela CAE tiveram como foco a possibilidade de revisão da alíquota da CBS",
+          "data_publicacao": "Thu, 26 Nov 2026 10:12:01 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Judiciário: reformar sem domesticar",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/judiciario-reformar-sem-domesticar",
+          "resumo": "Mandatos e indicações plurais podem renovar o STF sem comprometer a independência da Corte",
+          "data_publicacao": "Thu, 26 Nov 2026 07:01:02 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": [
+        {
+          "titulo": "Planejamento exige previsibilidade: efeito suspensivo na exclusão do Programa OEA",
+          "link": "https://conjur.com.br/2026-nov-26/efeito-suspensivo-no-procedimento-de-exclusao-do-programa-oea/",
+          "resumo": "Atualmente, a fruição dos benefícios concedidos ao interveniente certificado no Programa Brasileiro de Operador Econômico Autorizado (Programa OEA) fica interrompida durante o procedimento de exclusão. Por um lado, essa medida contribui para preservar a credibilidade do programa e proteger seus part",
+          "data_publicacao": "Thu, 26 Nov 2026 19:24:14 +0000",
+          "palavras_chave": [
+            "planejamento"
+          ]
+        },
+        {
+          "titulo": "Estado de coisas inconstitucional das prisões e a reforma ministerial: para que direção iremos?",
+          "link": "https://conjur.com.br/2026-nov-26/estado-de-coisas-inconstitucional-das-prisoes-e-a-reforma-ministerial-para-que-direcao-iremos/",
+          "resumo": "A discussão sobre a criação de um Ministério da Segurança Pública exige definir como serão distribuídas as responsabilidades federais pela execução penal. A decisão alcança competências já previstas em lei, recursos destinados a serviços nos estados e compromissos de superação das violações nas pris",
+          "data_publicacao": "Thu, 26 Nov 2026 18:21:07 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
