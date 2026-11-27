@@ -1,0 +1,62 @@
+{
+  "data_busca": "2026-11-27T19:50:14.511309",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Sinprofaz promove congresso sobre segurança jurídica e reforma tributária",
+          "link": "https://www.jota.info/tributos/sinprofaz-promove-congresso-sobre-seguranca-juridica-e-reforma-tributaria",
+          "resumo": "Programação prevê painéis sobre transação tributária, inteligência fiscal, coisa julgada e combate à sonegação",
+          "data_publicacao": "Fri, 27 Nov 2026 18:21:37 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        },
+        {
+          "titulo": "Ministra Regina Helena Costa, do STJ, lança livro sobre Código Tributário Nacional",
+          "link": "https://www.jota.info/justica/ministra-regina-helena-costa-do-stj-lanca-livro-sobre-codigo-tributario-nacional",
+          "resumo": "Obra incorpora reforma tributária e regras para solução de controvérsias e processo administrativo tributário",
+          "data_publicacao": "Fri, 27 Nov 2026 16:21:18 +0000",
+          "palavras_chave": [
+            "tributário"
+          ]
+        },
+        {
+          "titulo": "CBS de 11,3% não pode virar piso",
+          "link": "https://www.jota.info/opiniao-e-analise/artigos/cbs-de-113-nao-pode-virar-piso",
+          "resumo": "Cálculo do TCU herda distorções do sistema atual; Senado precisa debater antes de fixar alíquota",
+          "data_publicacao": "Fri, 27 Nov 2026 10:00:40 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Carf permite dedutibilidade de PLR paga a diretores celetistas",
+          "link": "https://www.jota.info/tributos/carf-permite-dedutibilidade-de-plr-paga-a-diretores-celetistas",
+          "resumo": "Conselho entende que vedação à dedução não se aplica automaticamente à PLR",
+          "data_publicacao": "Fri, 27 Nov 2026 09:42:16 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
