@@ -1,0 +1,53 @@
+{
+  "data_busca": "2026-11-28T18:43:18.973415",
+  "fontes": [
+    {
+      "fonte": "JOTA",
+      "feed_url": "https://www.jota.info/feed",
+      "noticias": [
+        {
+          "titulo": "Infográfico: Calendário para definição da alíquota da CBS",
+          "link": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/infografico-calendario-para-definicao-da-aliquota-da-cbs",
+          "resumo": "Confira o que já foi deliberado e os próximos passos. Arraste o gráfico para o lado para ver todos os meses",
+          "data_publicacao": "Sat, 28 Nov 2026 13:12:44 +0000",
+          "palavras_chave": [
+            "CBS"
+          ]
+        },
+        {
+          "titulo": "Acordos internacionais da OMC não impedem Cide sobre direitos autorais, decide Carf",
+          "link": "https://www.jota.info/tributos/acordos-internacionais-da-omc-nao-impedem-cide-sobre-direitos-autorais-decide-carf",
+          "resumo": "Carf manteve cobranças referentes à aquisição pela ESPN Brasil de direitos de transmissão de obras televisivas",
+          "data_publicacao": "Sat, 28 Nov 2026 10:11:52 +0000",
+          "palavras_chave": [
+            "CARF"
+          ]
+        },
+        {
+          "titulo": "Sinprofaz promove congresso sobre segurança jurídica e reforma tributária",
+          "link": "https://www.jota.info/tributos/sinprofaz-promove-congresso-sobre-seguranca-juridica-e-reforma-tributaria",
+          "resumo": "Programação prevê painéis sobre transação tributária, inteligência fiscal, coisa julgada e combate à sonegação",
+          "data_publicacao": "Fri, 27 Nov 2026 18:21:37 +0000",
+          "palavras_chave": [
+            "Reforma"
+          ]
+        }
+      ]
+    },
+    {
+      "fonte": "Conjur",
+      "feed_url": "https://www.conjur.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Tributário.com.br",
+      "feed_url": "https://tributario.com.br/feed/",
+      "noticias": []
+    },
+    {
+      "fonte": "Receita Federal",
+      "feed_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "noticias": []
+    }
+  ]
+}
